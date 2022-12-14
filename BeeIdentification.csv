@@ -1,0 +1,1433 @@
+Number,Date,Month,Site,SiteMonth,Treatment,Flower,Flower_status,Method,Sex,Genus,Species,GenusSpecies,Family 
+1,6/5/2020,June,T6,June-T6,Thinned,Wood,,Net,F,Osmia,atrocyanea,Osmia atrocyanea,Megachilidae
+2,6/5/2020,June,T6,June-T6,Thinned,Ground,,Net,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+3,6/5/2020,June,C21,June-C21,Control,Astragalus drummondii,Native,Net,M,Osmia,nigrifrons,Osmia nigrifrons,Megachilidae
+4,6/5/2020,June,C21,June-C21,Control,Penstemon secundiflorus,Native,Net,F,Anthophora,porterae,Anthophora porterae,Apidae
+5,6/5/2020,June,T6,June-T6,Thinned,Penstemon virens,Native,Net,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+6,6/5/2020,June,C21,June-C21,Control,Penstemon secundiflorus,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+7,6/5/2020,June,T7,June-T7,Thinned,Penstemon virens,Native,Net,F,Osmia,grindeliae,Osmia grindeliae,Megachilidae
+8,6/5/2020,June,T6,June-T6,Thinned,Arctostaphylos uva-ursi,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+9,6/5/2020,June,C21,June-C21,Control,Potentilla,Native,Net,,Unknown,,Unknown,
+10,6/5/2020,June,T7,June-T7,Thinned,Penstemon virens,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+11,6/5/2020,June,C21,June-C21,Control,Mertensia lanceolata,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+12,6/5/2020,June,C21,June-C21,Control,Ground,,Net,F,Osmia,brevis,Osmia brevis,Megachilidae
+13,6/5/2020,June,T7,June-T7,Thinned,Penstemon virens,Native,Net,M,Osmia,sp. A,Osmia sp. A,Megachilidae
+14,6/5/2020,June,C21,June-C21,Control,Potentilla,Native,Net,F,Andrena,sp. D,Andrena sp. D,Andrenidae
+15,6/5/2020,June,C21,June-C21,Control,Potentilla,Native,Net,F,Sphecodes,dichrous ,Sphecodes dichrous ,Halictidae
+16,6/5/2020,June,C21,June-C21,Control,Senecio integerrimus,Native,Net,F,Osmia,montana montana,Osmia montana montana,Megachilidae
+17,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,F,Andrena,sp. C,Andrena sp. C,Andrenidae
+18,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,M,Osmia,juxta,Osmia juxta,Megachilidae
+19,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,M,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+20,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,M,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+21,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,M,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+22,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,M,Osmia,brevis,Osmia brevis,Megachilidae
+23,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,F,Andrena,amphibola,Andrena amphibola,Andrenidae
+24,8/5/2020,August,T1,August-T1,Thinned,,,Blue vane,,Heriades,carinatus,Heriades carinatus,Megachilidae
+25,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,M,Osmia,brevis,Osmia brevis,Megachilidae
+26,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,M,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+27,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,M,Osmia,coloradensis,Osmia coloradensis,Megachilidae
+28,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,M,Hoplitis,fulgida,Hoplitis fulgida,Megachilidae
+29,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+30,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+31,6/5/2020,June,T7,June-T7,Thinned,,,Pan trap,M,Osmia,kincaidii,Osmia kincaidii,Megachilidae
+32,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+33,6/4/2020,June,C19,June-C19,Control,,,Pan trap,F,Bombus,centralis,Bombus centralis,Apidae
+34,6/4/2020,June,C19,June-C19,Control,,,Pan trap,F,Bombus,centralis,Bombus centralis,Apidae
+35,6/4/2020,June,T4,June-T4,Thinned,,,Pan trap,F,Osmia,longula,Osmia longula,Megachilidae
+36,6/4/2020,June,T4,June-T4,Thinned,,,Pan trap,M,Atoposmia,abjecta abjecta,Atoposmia abjecta abjecta,Megachilidae
+37,6/4/2020,June,T4,June-T4,Thinned,,,Pan trap,M,Andrena,spp.,Andrena spp.,Andrenidae
+38,6/4/2020,June,C18,June-C18,Control,,,Pan trap,F,Habropoda,morrisoni,Habropoda morrisoni,Apidae
+39,6/4/2020,June,T3,June-T3,Thinned,,,Pan trap,F,Halictus,rubicundus,Halictus rubicundus,Halictidae
+40,6/4/2020,June,C17,June-C17,Control,,,Pan trap,F,Bombus,centralis,Bombus centralis,Apidae
+41,6/4/2020,June,C17,June-C17,Control,,,Pan trap,F,Andrena,carlini,Andrena carlini,Andrenidae
+42,6/4/2020,June,C17,June-C17,Control,,,Pan trap,F,Osmia,penstemonis,Osmia penstemonis,Megachilidae
+43,6/4/2020,June,T2,June-T2,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+44,6/4/2020,June,T2,June-T2,Thinned,,,Pan trap,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+45,6/4/2020,June,T2,June-T2,Thinned,,,Pan trap,M,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+46,6/4/2020,June,T2,June-T2,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+47,6/4/2020,June,T2,June-T2,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+48,6/4/2020,June,C16,June-C16,Control,,,Pan trap,F,Osmia,juxta,Osmia juxta,Megachilidae
+49,6/4/2020,June,C16,June-C16,Control,,,Pan trap,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+50,6/4/2020,June,C16,June-C16,Control,,,Pan trap,F,Andrena,sp. F,Andrena sp. F,Andrenidae
+51,6/4/2020,June,C16,June-C16,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+52,6/4/2020,June,T1,June-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+53,6/5/2020,June,C22,June-C22,Control,,,Pan trap,F,Andrena,carlini,Andrena carlini,Andrenidae
+54,6/5/2020,June,C22,June-C22,Control,,,Pan trap,F,Andrena,carlini,Andrena carlini,Andrenidae
+55,6/5/2020,June,C22,June-C22,Control,,,Pan trap,M,Andrena,spp.,Andrena spp.,Andrenidae
+56,6/5/2020,June,T6,June-T6,Thinned,,,Pan trap,F,Andrena,carlini,Andrena carlini,Andrenidae
+57,6/5/2020,June,T6,June-T6,Thinned,,,Pan trap,M,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+58,6/5/2020,June,T6,June-T6,Thinned,,,Pan trap,M,Osmia,juxta,Osmia juxta,Megachilidae
+59,8/5/2020,August,T1,August-T1,Thinned,,,Blue vane,F,Heriades,carinatus,Heriades carinatus,Megachilidae
+60,6/5/2020,June,T6,June-T6,Thinned,,,Pan trap,M,Hylaeus,basalis,Hylaeus basalis,Colletidae
+61,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+62,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+63,6/5/2020,June,C20,June-C20,Control,,,Pan trap,M,Osmia,albolateralis,Osmia albolateralis,Megachilidae
+64,6/5/2020,June,C21,June-C21,Control,,,Pan trap,M,Osmia,bruneri,Osmia bruneri,Megachilidae
+65,6/5/2020,June,C21,June-C21,Control,,,Pan trap,M,Halictus,rubicundus,Halictus rubicundus,Halictidae
+66,8/5/2020,August,T1,August-T1,Thinned,,,Blue vane,F,Melissodes,communis,Melissodes communis,Apidae
+67,6/9/2020,June,T9,June-T9,Thinned,,,Pan trap,M,Halictus,rubicundus,Halictus rubicundus,Halictidae
+68,6/3/2020,June,C20,June-C20,Control,Jamesia americana,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+69,6/9/2020,June,T13,June-T13,Thinned,,,Pan trap,F,Colletes,sp. D,Colletes sp. D,Colletidae
+70,6/9/2020,June,T10,June-T10,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+71,8/12/2020,August,T15,August-T15,Thinned,,,Blue vane,F,Anthophora,terminalis,Anthophora terminalis,Apidae
+72,6/4/2020,June,T3,June-T3,Thinned,Erigeron,Native,Net,M,Osmia,grindeliae,Osmia grindeliae,Megachilidae
+73,6/8/2020,June,T13,June-T13,Thinned,Packera fendleri,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+74,6/4/2020,June,T4,June-T4,Thinned,Draba aurea,Native,Net,F,Osmia,penstemonis,Osmia penstemonis,Megachilidae
+75,6/4/2020,June,C18,June-C18,Control,Clematis columbiana,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+76,6/5/2020,June,T6,June-T6,Thinned,Erigeron,Native,Net,F,Nomada,sp. A,Nomada sp. A,Apidae
+77,6/3/2020,June,C21,June-C21,Control,Physaria,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+78,6/5/2020,June,T5,June-T5,Thinned,Potentilla,Native,Net,M,Hylaeus,basalis,Hylaeus basalis,Colletidae
+79,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+80,6/4/2020,June,C19,June-C19,Control,Mertensia lanceolata,Native,Net,F,Osmia,phaceliae,Osmia phaceliae,Megachilidae
+81,6/4/2020,June,T4,June-T4,Thinned,Erigeron,Native,Net,M,Osmia,grindeliae,Osmia grindeliae,Megachilidae
+82,6/4/2020,June,T2,June-T2,Thinned,Harbouria trachypleura,Native,Net,M,Hylaeus,basalis,Hylaeus basalis,Colletidae
+83,6/3/2020,June,T7,June-T7,Thinned,Potentilla,Native,Net,M,Hylaeus,basalis,Hylaeus basalis,Colletidae
+84,6/2/2020,June,T2,June-T2,Thinned,Senecio integerrimus,Native,Net,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+85,6/4/2020,June,T3,June-T3,Thinned,Not recorded,,Net,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+86,6/3/2020,June,C21,June-C21,Control,Penstemon secundiflorus,Native,Net,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+87,6/3/2020,June,C21,June-C21,Control,Astragalus drummondii,Native,Net,M,Osmia,nigrifrons,Osmia nigrifrons,Megachilidae
+88,6/8/2020,June,T12,June-T12,Thinned,Mertensia lanceolata,Native,Net,F,Osmia,grindeliae,Osmia grindeliae,Megachilidae
+89,6/3/2020,June,C21,June-C21,Control,Potentilla,Native,Net,F,Andrena,amphibola,Andrena amphibola,Andrenidae
+90,6/3/2020,June,T7,June-T7,Thinned,Arctostaphylos uva-ursi,Native,Net,,Apis,mellifera,Apis mellifera,Apidae
+91,6/4/2020,June,T2,June-T2,Thinned,Senecio integerrimus,Native,Net,F,Osmia,subaustralis,Osmia subaustralis,Megachilidae
+92,6/2/2020,June,C16,June-C16,Control,Mertensia lanceolata,Native,Net,F,Osmia,juxta,Osmia juxta,Megachilidae
+93,6/2/2020,June,T2,June-T2,Thinned,Arctostaphylos uva-ursi,Native,Net,F,Andrena,carlini,Andrena carlini,Andrenidae
+94,6/3/2020,June,C21,June-C21,Control,Potentilla,Native,Net,F,Andrena,sp. B,Andrena sp. B,Andrenidae
+95,6/2/2020,June,T2,June-T2,Thinned,Arctostaphylos uva-ursi,Native,Net,F,Andrena,carlini,Andrena carlini,Andrenidae
+96,6/2/2020,June,T2,June-T2,Thinned,Cirsium arvense,Introduced,Net,F,Andrena,carlini,Andrena carlini,Andrenidae
+97,6/2/2020,June,T2,June-T2,Thinned,Erysimum capitatum,Native,Net,F,Andrena,carlini,Andrena carlini,Andrenidae
+98,6/3/2020,June,T7,June-T7,Thinned,Ground,,Net,F,Andrena,amphibola,Andrena amphibola,Andrenidae
+99,6/3/2020,June,T7,June-T7,Thinned,Arctostaphylos uva-ursi,Native,Net,F,Andrena,carlini,Andrena carlini,Andrenidae
+100,6/8/2020,June,T13,June-T13,Thinned,Penstemon virens,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+101,6/8/2020,June,T13,June-T13,Thinned,Penstemon virens,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+102,6/8/2020,June,T13,June-T13,Thinned,Penstemon virens,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+103,6/8/2020,June,T13,June-T13,Thinned,Penstemon virens,Native,Net,F,Osmia,brevis,Osmia brevis,Megachilidae
+104,6/8/2020,June,T13,June-T13,Thinned,Penstemon virens,Native,Net,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+105,6/8/2020,June,T13,June-T13,Thinned,Penstemon virens,Native,Net,F,Bombus,huntii,Bombus huntii,Apidae
+106,6/8/2020,June,T13,June-T13,Thinned,Oxytropis lambertii,Native,Net,F,Osmia,longula,Osmia longula,Megachilidae
+107,6/8/2020,June,T13,June-T13,Thinned,Oxytropis lambertii,Native,Net,F,Bombus,nevadensis,Bombus nevadensis,Apidae
+108,6/8/2020,June,T13,June-T13,Thinned,Oxytropis lambertii,Native,Net,F,Bombus,nevadensis,Bombus nevadensis,Apidae
+109,6/2/2020,June,T4,June-T4,Thinned,Arctostaphylos uva-ursi,Native,Net,F,Osmia,paradisica,Osmia paradisica,Megachilidae
+110,6/2/2020,June,T1,June-T1,Thinned,Thermopsis rhombifolia,Native,Net,F,Osmia,bucephala,Osmia bucephala,Megachilidae
+111,6/4/2020,June,T4,June-T4,Thinned,Arctostaphylos uva-ursi,Native,Net,F,Andrena,carlini,Andrena carlini,Andrenidae
+112,6/4/2020,June,T2,June-T2,Thinned,Mertensia lanceolata,Native,Net,F,Osmia,bucephala,Osmia bucephala,Megachilidae
+113,6/2/2020,June,T2,June-T2,Thinned,Arctostaphylos uva-ursi,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+114,6/2/2020,June,T2,June-T2,Thinned,Senecio integerrimus,Native,Net,F,Osmia,montana montana,Osmia montana montana,Megachilidae
+115,6/8/2020,June,T12,June-T12,Thinned,Packera fendleri,Native,Net,F,Halictus,ligatus,Halictus ligatus,Halictidae
+116,6/8/2020,June,T12,June-T12,Thinned,Packera fendleri,Native,Net,F,Osmia,coloradensis,Osmia coloradensis,Megachilidae
+117,6/3/2020,June,C20,June-C20,Control,Jamesia americana,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+118,6/2/2020,June,T2,June-T2,Thinned,Thermopsis rhombifolia,Native,Net,F,Bombus,nevadensis,Bombus nevadensis,Apidae
+119,6/4/2020,June,T2,June-T2,Thinned,Thermopsis rhombifolia,Native,Net,F,Bombus,griseocollis,Bombus griseocollis,Apidae
+120,6/4/2020,June,T2,June-T2,Thinned,Thermopsis rhombifolia,Native,Net,F,Bombus,nevadensis,Bombus nevadensis,Apidae
+121,6/9/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+122,6/9/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+123,6/18/2020,June,C28,June-C28,Control,Penstemon virens,Native,Net,M,Osmia,brevis,Osmia brevis,Megachilidae
+124,6/18/2020,June,C29,June-C29,Control,Jamesia americana,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+125,6/18/2020,June,C28,June-C28,Control,Packera fendleri,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+126,6/18/2020,June,C28,June-C28,Control,Erigeron compositus,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+127,6/18/2020,June,C29,June-C29,Control,Jamesia americana,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+128,6/18/2020,June,C27,June-C27,Control,Oxytropis lambertii,Native,Net,F,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+129,6/16/2020,June,C25,June-C25,Control,Penstemon secundiflorus,Native,Net,F,Osmia,brevis,Osmia brevis,Megachilidae
+130,6/16/2020,June,C25,June-C25,Control,Packera fendleri,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+131,6/15/2020,June,T9,June-T9,Thinned,Packera fendleri,Native,Net,F,Anthidium,tenuiflorae ,Anthidium tenuiflorae ,Megachilidae
+132,6/15/2020,June,T10,June-T10,Thinned,Packera fendleri,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+133,6/15/2020,June,T10,June-T10,Thinned,Lupinus argenteus,Native,Net,F,Osmia,atrocyanea,Osmia atrocyanea,Megachilidae
+134,6/15/2020,June,T10,June-T10,Thinned,Packera fendleri,Native,Net,F,Osmia,brevis,Osmia brevis,Megachilidae
+135,6/15/2020,June,T9,June-T9,Thinned,Potentilla,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+136,6/15/2020,June,T9,June-T9,Thinned,Packera fendleri,Native,Net,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+137,6/15/2020,June,T12,June-T12,Thinned,Erysimum capitatum,Native,Net,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+138,6/15/2020,June,T12,June-T12,Thinned,Erysimum capitatum,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+139,6/15/2020,June,T8,June-T8,Thinned,Penstemon virens,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+140,6/15/2020,June,T8,June-T8,Thinned,Penstemon virens,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+141,6/15/2020,June,T12,June-T12,Thinned,Penstemon secundiflorus,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+142,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Melissodes,tristis,Melissodes tristis,Apidae
+143,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+144,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+145,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+146,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+147,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+148,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+149,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+150,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+151,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Halictus,farinosus,Halictus farinosus,Halictidae
+152,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+153,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+154,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+155,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+156,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+157,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+158,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+159,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+160,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+161,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Osmia,brevis,Osmia brevis,Megachilidae
+162,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+163,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+164,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Andrena,sp. A,Andrena sp. A,Andrenidae
+165,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Andrena,sp. A,Andrena sp. A,Andrenidae
+166,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+167,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+168,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+169,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+170,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+171,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+172,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+173,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+174,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+175,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+176,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+177,6/17/2020,June,T11,June-T11,Thinned,,,Pan trap,F,Melissodes,tristis,Melissodes tristis,Apidae
+178,6/17/2020,June,T11,June-T11,Thinned,,,Pan trap,F,Osmia,brevis,Osmia brevis,Megachilidae
+179,6/17/2020,June,T11,June-T11,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+180,6/17/2020,June,T9,June-T9,Thinned,Packera fendleri,Native,Net,F,Osmia,montana montana,Osmia montana montana,Megachilidae
+181,6/17/2020,June,T11,June-T11,Thinned,,,Pan trap,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+182,6/17/2020,June,T11,June-T11,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+183,6/17/2020,June,T11,June-T11,Thinned,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+184,6/17/2020,June,T11,June-T11,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+185,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+186,8/6/2020,August,T5,August-T5,Thinned,,,Blue vane,F,Ashmeadiella,cactorum,Ashmeadiella cactorum,Megachilidae
+187,6/17/2020,June,T12,June-T12,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+188,6/17/2020,June,T12,June-T12,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+189,6/17/2020,June,T12,June-T12,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+190,8/6/2020,August,T5,August-T5,Thinned,,,Blue vane,F,Ashmeadiella,cactorum,Ashmeadiella cactorum,Megachilidae
+191,6/17/2020,June,T12,June-T12,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+192,6/17/2020,June,T12,June-T12,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+193,6/17/2020,June,T12,June-T12,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+194,6/17/2020,June,T13,June-T13,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+195,6/17/2020,June,T13,June-T13,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+196,6/17/2020,June,T13,June-T13,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+197,6/17/2020,June,T9,June-T9,Thinned,Packera fendleri,Native,Net,F,Megachile,pugnata pugnata,Megachile pugnata pugnata,Megachilidae
+198,6/17/2020,June,T13,June-T13,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+199,6/17/2020,June,T13,June-T13,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+200,6/17/2020,June,T10,June-T10,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+201,6/17/2020,June,T10,June-T10,Thinned,,,Pan trap,F,Osmia,brevis,Osmia brevis,Megachilidae
+202,6/17/2020,June,T8,June-T8,Thinned,,,Pan trap,F,Stelis,foederalis,Stelis foederalis,Megachilidae
+203,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+204,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+205,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+206,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+207,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+208,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+209,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+210,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+211,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+212,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+213,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+214,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+215,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+216,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+217,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+218,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+219,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+220,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Osmia,densa,Osmia densa,Megachilidae
+221,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+222,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+223,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+224,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+225,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+226,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+227,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+228,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+229,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+230,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+231,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+232,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+233,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+234,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+235,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+236,6/18/2020,June,C24,June-C24,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+237,6/18/2020,June,C24,June-C24,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+238,6/18/2020,June,C24,June-C24,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+239,6/18/2020,June,C24,June-C24,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+240,6/18/2020,June,C24,June-C24,Control,,,Pan trap,M,Dufourea,maura,Dufourea maura,Halictidae
+241,6/18/2020,June,C24,June-C24,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+242,6/18/2020,June,C24,June-C24,Control,,,Pan trap,F,Osmia,brevis,Osmia brevis,Megachilidae
+243,6/18/2020,June,C24,June-C24,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+244,6/18/2020,June,C27,June-C27,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+245,6/18/2020,June,C27,June-C27,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+246,6/18/2020,June,C27,June-C27,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+247,6/18/2020,June,C27,June-C27,Control,,,Pan trap,F,Osmia,atrocyanea,Osmia atrocyanea,Megachilidae
+248,6/18/2020,June,C27,June-C27,Control,,,Pan trap,M,Nomada,sp. B,Nomada sp. B,Apidae
+249,6/18/2020,June,C27,June-C27,Control,,,Pan trap,F,Osmia,densa,Osmia densa,Megachilidae
+250,6/18/2020,June,C27,June-C27,Control,,,Pan trap,M,Osmia,bruneri,Osmia bruneri,Megachilidae
+251,6/18/2020,June,C27,June-C27,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+252,6/18/2020,June,C27,June-C27,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+253,6/18/2020,June,C27,June-C27,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+254,6/18/2020,June,C27,June-C27,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+255,6/18/2020,June,C27,June-C27,Control,,,Pan trap,M,Osmia,brevis,Osmia brevis,Megachilidae
+256,6/18/2020,June,C30,June-C30,Control,,,Pan trap,M,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+257,8/6/2020,August,T5,August-T5,Thinned,,,Blue vane,F,Dufourea,maura,Dufourea maura,Halictidae
+258,6/18/2020,June,C30,June-C30,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+259,6/18/2020,June,C30,June-C30,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+260,6/18/2020,June,C30,June-C30,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+261,6/18/2020,June,C25,June-C25,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+262,6/18/2020,June,C25,June-C25,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+263,6/18/2020,June,C25,June-C25,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+264,6/18/2020,June,C25,June-C25,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+265,6/18/2020,June,C26,June-C26,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+266,6/18/2020,June,C26,June-C26,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+267,6/18/2020,June,C26,June-C26,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+268,6/18/2020,June,C26,June-C26,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+269,6/18/2020,June,C26,June-C26,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+270,6/18/2020,June,C26,June-C26,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+271,6/17/2020,June,T9,June-T9,Thinned,Potentilla,Native,Net,F,Hoplitis,fulgida,Hoplitis fulgida,Megachilidae
+272,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+273,6/17/2020,June,T9,June-T9,Thinned,Packera fendleri,Native,Net,F,Osmia,montana montana,Osmia montana montana,Megachilidae
+274,6/17/2020,June,T9,June-T9,Thinned,Packera fendleri,Native,Net,F,Megachile,pugnata pugnata,Megachile pugnata pugnata,Megachilidae
+275,6/17/2020,June,T9,June-T9,Thinned,Packera fendleri,Native,Net,F,Megachile,pugnata pugnata,Megachile pugnata pugnata,Megachilidae
+276,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Osmia,atrocyanea,Osmia atrocyanea,Megachilidae
+277,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Osmia,atrocyanea,Osmia atrocyanea,Megachilidae
+278,6/17/2020,June,T8,June-T8,Thinned,Packera fendleri,Native,Net,M,Megachile,gemula,Megachile gemula,Megachilidae
+279,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+280,8/6/2020,August,T5,August-T5,Thinned,,,Blue vane,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+281,6/17/2020,June,T8,June-T8,Thinned,Penstemon virens,Native,Net,F,Anthophora,porterae,Anthophora porterae,Apidae
+282,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+283,6/17/2020,June,T8,June-T8,Thinned,Packera fendleri,Native,Net,F,Osmia,coloradensis,Osmia coloradensis,Megachilidae
+284,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Bombus,huntii,Bombus huntii,Apidae
+285,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+286,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+287,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+288,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+289,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+290,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Osmia,atrocyanea,Osmia atrocyanea,Megachilidae
+291,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+292,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Bombus,huntii,Bombus huntii,Apidae
+293,6/17/2020,June,T11,June-T11,Thinned,Astragalus miser,Native,Net,F,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+294,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+295,8/6/2020,August,T5,August-T5,Thinned,,,Blue vane,F,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+296,6/15/2020,June,T9,June-T9,Thinned,Packera fendleri,Native,Net,F,Osmia,montana montana,Osmia montana montana,Megachilidae
+297,6/16/2020,June,C25,June-C25,Control,Ground,,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+298,6/15/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+299,6/15/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Osmia,albolateralis,Osmia albolateralis,Megachilidae
+300,6/15/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+301,6/15/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Osmia,atrocyanea,Osmia atrocyanea,Megachilidae
+302,6/15/2020,June,T8,June-T8,Thinned,Packera fendleri,Native,Net,F,Osmia,montana montana,Osmia montana montana,Megachilidae
+303,6/15/2020,June,T8,June-T8,Thinned,Packera fendleri,Native,Net,F,Osmia,montana montana,Osmia montana montana,Megachilidae
+304,6/15/2020,June,T8,June-T8,Thinned,Packera fendleri,Native,Net,F,Osmia,coloradensis,Osmia coloradensis,Megachilidae
+305,6/15/2020,June,T15,June-T15,Thinned,Penstemon virens,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+306,6/15/2020,June,T15,June-T15,Thinned,Penstemon virens,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+307,6/15/2020,June,T15,June-T15,Thinned,Penstemon virens,Native,Net,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+308,6/15/2020,June,T15,June-T15,Thinned,Penstemon virens,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+309,6/15/2020,June,T15,June-T15,Thinned,Penstemon virens,Native,Net,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+310,6/15/2020,June,T12,June-T12,Thinned,Penstemon virens,Native,Net,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+311,6/15/2020,June,T12,June-T12,Thinned,Penstemon virens,Native,Net,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+312,6/15/2020,June,T12,June-T12,Thinned,Penstemon virens,Native,Net,F,Dufourea,maura,Dufourea maura,Halictidae
+313,6/15/2020,June,T12,June-T12,Thinned,Geranium caespitosum,Native,Net,M,Osmia,proxima,Osmia proxima,Megachilidae
+314,6/15/2020,June,T8,June-T8,Thinned,Mertensia lanceolata,Native,Net,M,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+315,6/16/2020,June,C29,June-C29,Control,Jamesia americana,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+316,8/6/2020,August,T5,August-T5,Thinned,,,Blue vane,F,Melissodes,agilis,Melissodes agilis,Apidae
+317,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+318,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+319,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+320,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+321,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+322,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Anthophora,bomboides,Anthophora bomboides,Apidae
+323,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+324,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+325,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+326,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+327,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+328,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+329,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+330,6/17/2020,June,T12,June-T12,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+331,6/2/2020,June,T1,June-T1,Thinned,Packera fendleri,Native,Net,M,Ceratina,neomexicana,Ceratina neomexicana,Apidae
+332,6/4/2020,June,C18,June-C18,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+333,6/2/2020,June,T2,June-T2,Thinned,Erysimum capitatum,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+334,6/2/2020,June,T2,June-T2,Thinned,Erysimum capitatum,Native,Net,F,Halictus,confusus,Halictus confusus,Halictidae
+335,6/2/2020,June,T4,June-T4,Thinned,Erigeron,Native,Net,M,Andrena,sp. F,Andrena sp. F,Andrenidae
+336,6/2/2020,June,T4,June-T4,Thinned,Erigeron,Native,Net,M,Andrena,sp. F,Andrena sp. F,Andrenidae
+337,6/3/2020,June,C21,June-C21,Control,Potentilla,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+338,6/3/2020,June,T7,June-T7,Thinned,Potentilla,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+340,6/3/2020,June,T7,June-T7,Thinned,Potentilla,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+341,6/4/2020,June,T2,June-T2,Thinned,Erysimum capitatum,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+342,6/4/2020,June,T2,June-T2,Thinned,Cerastium arvense,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+343,6/4/2020,June,T4,June-T4,Thinned,Erigeron,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+344,6/5/2020,June,C21,June-C21,Control,Cerastium arvense,Native,Net,F,Augochlorella,aurata,Augochlorella aurata,Halictidae
+345,6/5/2020,June,T7,June-T7,Thinned,Potentilla,Native,Net,F,Andrena,sp. D,Andrena sp. D,Andrenidae
+346,6/5/2020,June,T7,June-T7,Thinned,Potentilla,Native,Net,M,Hoplitis,fulgida,Hoplitis fulgida,Megachilidae
+347,6/5/2020,June,T7,June-T7,Thinned,Potentilla,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+348,6/5/2020,June,T7,June-T7,Thinned,Potentilla,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+349,6/4/2020,June,C18,June-C18,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+350,6/4/2020,June,C18,June-C18,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+351,6/4/2020,June,C18,June-C18,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+352,6/8/2020,June,T12,June-T12,Thinned,Erysimum capitatum,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+353,6/8/2020,June,T10,June-T10,Thinned,Packera fendleri,Native,Net,F,Ashmeadiella,californica,Ashmeadiella californica,Megachilidae
+354,6/8/2020,June,T10,June-T10,Thinned,Packera fendleri,Native,Net,M,Ashmeadiella,californica,Ashmeadiella californica,Megachilidae
+355,8/6/2020,August,T5,August-T5,Thinned,,,Blue vane,F,Svastra,obliqua,Svastra obliqua,Apidae
+356,6/8/2020,June,T10,June-T10,Thinned,Penstemon virens,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+357,6/4/2020,June,C18,June-C18,Control,,,Blue vane,M,Osmia,bucephala,Osmia bucephala,Megachilidae
+358,6/4/2020,June,C18,June-C18,Control,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+359,6/15/2020,June,T15,June-T15,Thinned,Potentilla,Native,Net,F,Hylaeus,mesillae,Hylaeus mesillae,Colletidae
+360,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+361,6/15/2020,June,T12,June-T12,Thinned,Packera fendleri,Native,Net,F,Ceratina,nanula,Ceratina nanula,Apidae
+362,6/15/2020,June,T12,June-T12,Thinned,Packera fendleri,Native,Net,F,Ashmeadiella,californica,Ashmeadiella californica,Megachilidae
+363,6/15/2020,June,T11,June-T11,Thinned,Erigeron divergens,Native,Net,F,Ashmeadiella,californica,Ashmeadiella californica,Megachilidae
+364,8/6/2020,August,T5,August-T5,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+365,6/15/2020,June,T9,June-T9,Thinned,Geranium caespitosum,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+366,6/15/2020,June,T9,June-T9,Thinned,Ground,,Net,F,Nomada,sp. C,Nomada sp. C,Apidae
+367,6/15/2020,June,T9,June-T9,Thinned,Packera fendleri,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+368,8/6/2020,August,T6,August-T6,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+369,6/17/2020,June,T8,June-T8,Thinned,Potentilla,Native,Net,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+370,6/17/2020,June,T8,June-T8,Thinned,Packera fendleri,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+371,6/17/2020,June,T8,June-T8,Thinned,Packera fendleri,Native,Net,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+372,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+373,6/17/2020,June,T11,June-T11,Thinned,Lupinus argenteus,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+374,6/17/2020,June,T9,June-T9,Thinned,Packera fendleri,Native,Net,F,Ashmeadiella,californica,Ashmeadiella californica,Megachilidae
+375,6/17/2020,June,T14,June-T14,Thinned,Penstemon virens,Native,Net,M,Ceratina,neomexicana,Ceratina neomexicana,Apidae
+376,6/18/2020,June,C28,June-C28,Control,Packera fendleri,Native,Net,M,Ceratina,neomexicana,Ceratina neomexicana,Apidae
+377,7/16/2020,July,T5,July-T5,Thinned,Chamaenerion angustifolium,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+378,7/16/2020,July,T5,July-T5,Thinned,Campanula rotundifolia,Native,Net,M,Andrena,sp. D,Andrena sp. D,Andrenidae
+379,7/14/2020,July,C21,July-C21,Control,Geranium caespitosum,Native,Net,,Unknown,,Unknown,
+380,7/14/2020,July,C21,July-C21,Control,Geranium caespitosum,Native,Net,M,Melissodes,agilis,Melissodes agilis,Apidae
+381,7/14/2020,July,C21,July-C21,Control,Geranium caespitosum,Native,Net,F,Epeolus,minimus,Epeolus minimus,Apidae
+382,7/16/2020,July,C21,July-C21,Control,Geranium caespitosum,Native,Net,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+383,7/16/2020,July,C21,July-C21,Control,Geranium caespitosum,Native,Net,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+384,8/6/2020,August,C21,August-C21,Control,,,Blue vane,F,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+385,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+386,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+387,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Hylaeus,mesillae,Hylaeus mesillae,Colletidae
+388,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+389,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+390,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+391,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+392,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Epeolus,minimus,Epeolus minimus,Apidae
+393,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+394,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,M,Bombus,bifarius,Bombus bifarius,Apidae
+395,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+396,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+397,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+398,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+399,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Hylaeus,annulatus,Hylaeus annulatus,Colletidae
+400,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+401,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+402,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,M,Megachile,pugnata pugnata,Megachile pugnata pugnata,Megachilidae
+403,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Colletes,sp. D,Colletes sp. D,Colletidae
+404,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,M,Megachile,pugnata pugnata,Megachile pugnata pugnata,Megachilidae
+405,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,M,Coelioxys,alternata,Coelioxys alternata,Megachilidae
+406,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+407,7/16/2020,July,T7,July-T7,Thinned,Cerastium arvense,Native,Net,F,Megachile,pugnata pugnata,Megachile pugnata pugnata,Megachilidae
+408,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+409,7/16/2020,July,T7,July-T7,Thinned,Chamaenerion angustifolium,Native,Net,M,Megachile,brevis,Megachile brevis,Megachilidae
+410,7/14/2020,July,T6,July-T6,Thinned,Lupinus argenteus,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+411,7/14/2020,July,T6,July-T6,Thinned,Solidago missouriensis,Native,Net,F,Bombus,insularis,Bombus insularis,Apidae
+412,7/14/2020,July,T6,July-T6,Thinned,Solidago missouriensis,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+413,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+414,7/16/2020,July,T6,July-T6,Thinned,Solidago missouriensis,Native,Net,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+415,7/16/2020,July,T6,July-T6,Thinned,Solidago missouriensis,Native,Net,M,Colletes,sp. B,Colletes sp. B,Colletidae
+416,7/16/2020,July,T6,July-T6,Thinned,Solidago missouriensis,Native,Net,F,Bombus,insularis,Bombus insularis,Apidae
+417,7/16/2020,July,T6,July-T6,Thinned,Solidago missouriensis,Native,Net,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+418,7/16/2020,July,T6,July-T6,Thinned,Solidago missouriensis,Native,Net,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+419,7/16/2020,July,T6,July-T6,Thinned,Solidago missouriensis,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+420,7/15/2020,July,T1,July-T1,Thinned,Geranium caespitosum,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+421,7/17/2020,July,T1,July-T1,Thinned,Geranium caespitosum,Native,Net,M,Bombus,bifarius,Bombus bifarius,Apidae
+422,7/17/2020,July,T1,July-T1,Thinned,Geranium caespitosum,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+423,7/17/2020,July,T1,July-T1,Thinned,Phacelia hastata,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+424,7/17/2020,July,T1,July-T1,Thinned,Phacelia hastata,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+425,7/17/2020,July,T1,July-T1,Thinned,Phacelia hastata,Native,Net,M,Bombus,centralis,Bombus centralis,Apidae
+426,7/17/2020,July,T2,July-T2,Thinned,Eriogonum umbellatum,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+427,7/17/2020,July,T2,July-T2,Thinned,Heterotheca villosa,Native,Net,M,Megachile,latimanus,Megachile latimanus,Megachilidae
+428,7/17/2020,July,T2,July-T2,Thinned,Eriogonum umbellatum,Native,Net,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+429,7/17/2020,July,T2,July-T2,Thinned,Eriogonum umbellatum,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+430,7/17/2020,July,T2,July-T2,Thinned,Eriogonum umbellatum,Native,Net,M,Andrena,sp. E,Andrena sp. E,Andrenidae
+431,7/17/2020,July,T2,July-T2,Thinned,Geranium caespitosum,Native,Net,M,Colletes,sp. C,Colletes sp. C,Colletidae
+432,7/17/2020,July,T2,July-T2,Thinned,Sedum lanceolatum,Native,Net,M,Pseudopanurgus,sp. A,Pseudopanurgus sp. A,Andrenidae
+433,7/17/2020,July,T2,July-T2,Thinned,Sedum lanceolatum,Native,Net,F,Osmia,juxta,Osmia juxta,Megachilidae
+434,7/17/2020,July,T2,July-T2,Thinned,Heterotheca villosa,Native,Net,M,Dianthidium,parvum parvum,Dianthidium parvum parvum,Megachilidae
+435,7/17/2020,July,T2,July-T2,Thinned,Phacelia hastata,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+436,7/17/2020,July,T2,July-T2,Thinned,Phacelia hastata,Native,Net,F,Atoposmia,copelandica,Atoposmia copelandica,Megachilidae
+437,7/15/2020,July,T4,July-T4,Thinned,Sedum lanceolatum,Native,Net,F,Osmia,pusillia,Osmia pusillia,Megachilidae
+438,7/15/2020,July,T4,July-T4,Thinned,Sedum lanceolatum,Native,Net,F,Osmia,juxta,Osmia juxta,Megachilidae
+439,7/15/2020,July,T4,July-T4,Thinned,Rubus idaeus,Native,Net,F,Osmia,juxta,Osmia juxta,Megachilidae
+440,7/15/2020,July,T4,July-T4,Thinned,Sedum lanceolatum,Native,Net,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+441,7/17/2020,July,T4,July-T4,Thinned,Solidago missouriensis,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+442,7/17/2020,July,T4,July-T4,Thinned,Frasera speciosa,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+443,7/17/2020,July,T4,July-T4,Thinned,Frasera speciosa,Native,Net,M,Megachile,brevis,Megachile brevis,Megachilidae
+444,7/17/2020,July,T4,July-T4,Thinned,Frasera speciosa,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+445,7/17/2020,July,T4,July-T4,Thinned,Solidago missouriensis,Native,Net,F,Hylaeus,verticalis,Hylaeus verticalis,Colletidae
+446,7/17/2020,July,T4,July-T4,Thinned,Frasera speciosa,Native,Net,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+447,7/17/2020,July,T4,July-T4,Thinned,Solidago missouriensis,Native,Net,M,Heriades,carinatus,Heriades carinatus,Megachilidae
+448,7/17/2020,July,T3,July-T3,Thinned,Sedum lanceolatum,Native,Net,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+449,7/17/2020,July,T3,July-T3,Thinned,Packera fendleri,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+450,7/20/2020,July,T15,July-T15,Thinned,Geranium caespitosum,Native,Net,F,Halictus,confusus,Halictus confusus,Halictidae
+451,7/20/2020,July,T15,July-T15,Thinned,Achillea millefolium,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+452,7/20/2020,July,T12,July-T12,Thinned,Achillea millefolium,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+453,7/20/2020,July,T13,July-T13,Thinned,Heterotheca villosa,Native,Net,F,Dianthidium,heterulkei fraternum,Dianthidium heterulkei fraternum,Megachilidae
+454,7/20/2020,July,T13,July-T13,Thinned,Heterotheca villosa,Native,Net,F,Ashmeadiella,bucconis,Ashmeadiella bucconis,Megachilidae
+455,7/20/2020,July,T13,July-T13,Thinned,Heterotheca villosa,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+456,7/22/2020,July,T13,July-T13,Thinned,Heterotheca villosa,Native,Net,M,Bombus,bifarius,Bombus bifarius,Apidae
+457,7/22/2020,July,T13,July-T13,Thinned,Solidago missouriensis,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+458,7/22/2020,July,T13,July-T13,Thinned,Liatris punctata,Native,Net,F,Bombus,huntii,Bombus huntii,Apidae
+459,7/22/2020,July,T13,July-T13,Thinned,Heterotheca villosa,Native,Net,F,Heriades,carinatus,Heriades carinatus,Megachilidae
+460,6/18/2020,June,C26,June-C26,Control,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+461,7/22/2020,July,T13,July-T13,Thinned,Ground,,Net,M,Dianthidium,parvum parvum,Dianthidium parvum parvum,Megachilidae
+462,7/20/2020,July,T11,July-T11,Thinned,Campanula rotundifolia,Native,Net,F,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+463,7/20/2020,July,T11,July-T11,Thinned,Lupinus argenteus,Native,Net,F,Bombus,huntii,Bombus huntii,Apidae
+464,7/20/2020,July,T11,July-T11,Thinned,Lupinus argenteus,Native,Net,,Apis,mellifera,Apis mellifera,Apidae
+465,7/20/2020,July,T11,July-T11,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+466,7/20/2020,July,T11,July-T11,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+467,7/20/2020,July,T11,July-T11,Thinned,Cirsium arvense,Introduced,Net,M,Bombus,bifarius,Bombus bifarius,Apidae
+468,7/20/2020,July,T11,July-T11,Thinned,Cirsium arvense,Introduced,Net,,Apis,mellifera,Apis mellifera,Apidae
+469,7/20/2020,July,T11,July-T11,Thinned,Cirsium arvense,Introduced,Net,,Apis,mellifera,Apis mellifera,Apidae
+470,7/20/2020,July,T11,July-T11,Thinned,Cirsium arvense,Introduced,Net,,Apis,mellifera,Apis mellifera,Apidae
+471,7/20/2020,July,T11,July-T11,Thinned,Heterotheca villosa,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+472,7/20/2020,July,T11,July-T11,Thinned,Heterotheca villosa,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+473,7/20/2020,July,T11,July-T11,Thinned,Campanula rotundifolia,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+474,7/22/2020,July,T11,July-T11,Thinned,Cirsium arvense,Introduced,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+475,7/22/2020,July,T11,July-T11,Thinned,Cirsium arvense,Introduced,Net,,Apis,mellifera,Apis mellifera,Apidae
+476,7/22/2020,July,T11,July-T11,Thinned,Cirsium arvense,Introduced,Net,,Apis,mellifera,Apis mellifera,Apidae
+477,7/22/2020,July,T11,July-T11,Thinned,Cirsium arvense,Introduced,Net,,Apis,mellifera,Apis mellifera,Apidae
+478,7/22/2020,July,T11,July-T11,Thinned,Heterotheca villosa,Native,Net,F,Bombus,huntii,Bombus huntii,Apidae
+479,7/22/2020,July,T11,July-T11,Thinned,Heterotheca villosa,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+480,7/22/2020,July,T11,July-T11,Thinned,Campanula rotundifolia,Native,Net,F,Svastra,obliqua,Svastra obliqua,Apidae
+481,7/22/2020,July,T11,July-T11,Thinned,Campanula rotundifolia,Native,Net,,Apis,mellifera,Apis mellifera,Apidae
+482,7/22/2020,July,T11,July-T11,Thinned,Ground,,Net,F,Anthidium,tenuiflorae ,Anthidium tenuiflorae ,Megachilidae
+483,7/22/2020,July,T8,July-T8,Thinned,Achillea millefolium,Native,Net,M,Bombus,bifarius,Bombus bifarius,Apidae
+484,7/22/2020,July,T8,July-T8,Thinned,Achillea millefolium,Native,Net,M,Bombus,bifarius,Bombus bifarius,Apidae
+485,8/6/2020,August,C21,August-C21,Control,,,Blue vane,F,Bombus,californicus,Bombus californicus,Apidae
+486,7/22/2020,July,T8,July-T8,Thinned,Phacelia hastata,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+487,7/22/2020,July,T8,July-T8,Thinned,Phacelia hastata,Native,Net,,Epeolus,interruptus,Epeolus interruptus,Apidae
+488,7/20/2020,July,T10,July-T10,Thinned,Erysimum capitatum,Native,Net,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+489,7/20/2020,July,T10,July-T10,Thinned,Achillea millefolium,Native,Net,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+490,7/22/2020,July,T10,July-T10,Thinned,Achillea millefolium,Native,Net,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+491,7/22/2020,July,T10,July-T10,Thinned,Achillea millefolium,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+492,7/20/2020,July,T14,July-T14,Thinned,Geranium caespitosum,Native,Net,M,Colletes,sp. B,Colletes sp. B,Colletidae
+493,7/22/2020,July,T14,July-T14,Thinned,Cirsium arvense,Introduced,Net,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+494,7/22/2020,July,T14,July-T14,Thinned,Cirsium arvense,Introduced,Net,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+495,7/22/2020,July,T14,July-T14,Thinned,Carduus acanthoides,Introduced,Net,F,Bombus,centralis,Bombus centralis,Apidae
+496,7/22/2020,July,T14,July-T14,Thinned,Carduus acanthoides,Introduced,Net,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+497,7/21/2020,July,C27,July-C27,Control,Phacelia hastata,Native,Net,F,Hoplitis,producta,Hoplitis producta,Megachilidae
+498,8/5/2020,August,T1,August-T1,Thinned,,,Blue vane,F,Melissodes,communis,Melissodes communis,Apidae
+499,7/21/2020,July,C27,July-C27,Control,Phacelia hastata,Native,Net,M,Bombus,centralis,Bombus centralis,Apidae
+500,7/21/2020,July,C27,July-C27,Control,Phacelia hastata,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+501,7/21/2020,July,C27,July-C27,Control,Gaillardia aristata,Native,Net,M,Anthidium,clypeodentatum ,Anthidium clypeodentatum ,Megachilidae
+502,7/21/2020,July,C27,July-C27,Control,Cirsium undulatum,Native,Net,F,Svastra,obliqua,Svastra obliqua,Apidae
+503,7/16/2020,July,T7,July-T7,Thinned,,,Pan trap,F,Andrena,sp. C,Andrena sp. C,Andrenidae
+504,8/5/2020,August,T1,August-T1,Thinned,,,Blue vane,M,Melissodes,communis,Melissodes communis,Apidae
+505,7/16/2020,July,T7,July-T7,Thinned,,,Pan trap,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+506,7/16/2020,July,T7,July-T7,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+507,7/16/2020,July,T7,July-T7,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+508,7/16/2020,July,T7,July-T7,Thinned,,,Pan trap,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+509,7/16/2020,July,T7,July-T7,Thinned,,,Pan trap,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+510,7/16/2020,July,T6,July-T6,Thinned,,,Pan trap,F,Bombus,melanopygus,Bombus melanopygus,Apidae
+511,7/16/2020,July,T6,July-T6,Thinned,,,Pan trap,F,Osmia,juxta,Osmia juxta,Megachilidae
+512,7/16/2020,July,T6,July-T6,Thinned,,,Pan trap,F,Andrena,amphibola,Andrena amphibola,Andrenidae
+513,7/16/2020,July,T6,July-T6,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+514,7/16/2020,July,T6,July-T6,Thinned,,,Pan trap,M,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+515,7/16/2020,July,T6,July-T6,Thinned,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+516,7/16/2020,July,T6,July-T6,Thinned,,,Pan trap,F,Hylaeus,verticalis,Hylaeus verticalis,Colletidae
+517,7/16/2020,July,C22,July-C22,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+518,7/16/2020,July,C22,July-C22,Control,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+519,7/16/2020,July,C22,July-C22,Control,,,Pan trap,F,Hylaeus,verticalis,Hylaeus verticalis,Colletidae
+520,7/16/2020,July,C22,July-C22,Control,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+521,7/16/2020,July,C22,July-C22,Control,,,Pan trap,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+522,7/16/2020,July,C22,July-C22,Control,,,Pan trap,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+523,7/16/2020,July,C22,July-C22,Control,,,Pan trap,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+524,7/16/2020,July,C22,July-C22,Control,,,Pan trap,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+525,7/16/2020,July,T5,July-T5,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+526,7/16/2020,July,T5,July-T5,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+527,7/16/2020,July,T5,July-T5,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+528,7/17/2020,July,C19,July-C19,Control,,,Pan trap,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+529,7/17/2020,July,T3,July-T3,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+530,7/17/2020,July,T3,July-T3,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+531,7/17/2020,July,T1,July-T1,Thinned,,,Pan trap,F,Osmia,grindeliae,Osmia grindeliae,Megachilidae
+532,7/17/2020,July,T1,July-T1,Thinned,,,Pan trap,M,Megachile,brevis,Megachile brevis,Megachilidae
+534,7/17/2020,July,T1,July-T1,Thinned,,,Pan trap,M,Heriades,carinatus,Heriades carinatus,Megachilidae
+535,7/17/2020,July,T1,July-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+536,7/17/2020,July,C16,July-C16,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+537,7/17/2020,July,C16,July-C16,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+538,7/17/2020,July,C16,July-C16,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+539,7/17/2020,July,C16,July-C16,Control,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+540,7/17/2020,July,T2,July-T2,Thinned,,,Pan trap,M,Lithurgus,apicalis,Lithurgus apicalis,Megachilidae
+541,7/17/2020,July,T2,July-T2,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+542,8/5/2020,August,C18,August-C18,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+543,7/17/2020,July,T2,July-T2,Thinned,,,Pan trap,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+544,7/17/2020,July,T2,July-T2,Thinned,,,Pan trap,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+545,7/17/2020,July,T2,July-T2,Thinned,,,Pan trap,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+546,7/17/2020,July,T2,July-T2,Thinned,,,Pan trap,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+547,7/16/2020,July,C21,July-C21,Control,,,Pan trap,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+548,8/5/2020,August,T1,August-T1,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+549,7/17/2020,July,T4,July-T4,Thinned,,,Pan trap,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+550,7/23/2020,July,C24,July-C24,Control,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+551,7/23/2020,July,C24,July-C24,Control,,,Pan trap,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+552,7/23/2020,July,C26,July-C26,Control,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+554,7/23/2020,July,C26,July-C26,Control,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+555,7/23/2020,July,C26,July-C26,Control,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+556,7/23/2020,July,C25,July-C25,Control,,,Pan trap,F,Hylaeus,verticalis,Hylaeus verticalis,Colletidae
+557,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Anthophora,walshii,Anthophora walshii,Apidae
+558,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+559,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Halictus,confusus,Halictus confusus,Halictidae
+560,7/23/2020,July,C23,July-C23,Control,,,Pan trap,M,Pseudopanurgus,sp. B,Pseudopanurgus sp. B,Andrenidae
+561,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+562,7/23/2020,July,C23,July-C23,Control,,,Pan trap,M,Pseudopanurgus,sp. A,Pseudopanurgus sp. A,Andrenidae
+563,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+564,7/23/2020,July,C23,July-C23,Control,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+565,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Hylaeus,rudbeckiae,Hylaeus rudbeckiae,Colletidae
+566,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+567,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+568,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+569,7/23/2020,July,C23,July-C23,Control,,,Pan trap,M,Pseudopanurgus,sp. A,Pseudopanurgus sp. A,Andrenidae
+570,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+571,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+572,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+573,7/23/2020,July,C23,July-C23,Control,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+574,7/23/2020,July,C29,July-C29,Control,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+575,7/23/2020,July,C29,July-C29,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+576,7/23/2020,July,C29,July-C29,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+577,7/23/2020,July,C29,July-C29,Control,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+578,7/23/2020,July,C29,July-C29,Control,,,Pan trap,F,Halictus,confusus,Halictus confusus,Halictidae
+579,7/23/2020,July,C27,July-C27,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+580,7/23/2020,July,C27,July-C27,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+581,7/22/2020,July,T8,July-T8,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+582,7/22/2020,July,T8,July-T8,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+583,7/22/2020,July,T8,July-T8,Thinned,,,Pan trap,F,Ashmeadiella,cactorum,Ashmeadiella cactorum,Megachilidae
+584,7/22/2020,July,T10,July-T10,Thinned,,,Pan trap,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+585,7/22/2020,July,T10,July-T10,Thinned,,,Pan trap,F,Osmia,juxta,Osmia juxta,Megachilidae
+586,7/22/2020,July,T10,July-T10,Thinned,,,Pan trap,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+587,7/22/2020,July,T10,July-T10,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+588,7/22/2020,July,T10,July-T10,Thinned,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+589,7/22/2020,July,T10,July-T10,Thinned,,,Pan trap,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+590,7/22/2020,July,T10,July-T10,Thinned,,,Pan trap,F,Ashmeadiella,cactorum,Ashmeadiella cactorum,Megachilidae
+591,7/22/2020,July,T10,July-T10,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+592,7/22/2020,July,T10,July-T10,Thinned,,,Pan trap,F,Ashmeadiella,cactorum,Ashmeadiella cactorum,Megachilidae
+593,7/22/2020,July,T10,July-T10,Thinned,,,Pan trap,F,Hylaeus,annulatus,Hylaeus annulatus,Colletidae
+594,7/22/2020,July,T10,July-T10,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+595,7/22/2020,July,T11,July-T11,Thinned,,,Pan trap,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+596,7/22/2020,July,T11,July-T11,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+597,7/22/2020,July,T11,July-T11,Thinned,,,Pan trap,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+598,7/22/2020,July,T11,July-T11,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+599,7/22/2020,July,T11,July-T11,Thinned,,,Pan trap,F,Ashmeadiella,cactorum,Ashmeadiella cactorum,Megachilidae
+600,7/22/2020,July,T11,July-T11,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+601,7/22/2020,July,T11,July-T11,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+602,7/22/2020,July,T11,July-T11,Thinned,,,Pan trap,M,Stelis,permaculata ,Stelis permaculata ,Megachilidae
+603,7/22/2020,July,T11,July-T11,Thinned,,,Pan trap,F,Stelis,permaculata ,Stelis permaculata ,Megachilidae
+604,7/22/2020,July,T11,July-T11,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+605,7/22/2020,July,T11,July-T11,Thinned,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+606,7/23/2020,July,C28,July-C28,Control,,,Pan trap,F,Colletes,sp. B,Colletes sp. B,Colletidae
+607,7/23/2020,July,C28,July-C28,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+609,7/23/2020,July,C28,July-C28,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+610,7/22/2020,July,T14,July-T14,Thinned,,,Pan trap,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+611,7/22/2020,July,T14,July-T14,Thinned,,,Pan trap,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+612,7/22/2020,July,T14,July-T14,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+613,7/22/2020,July,T14,July-T14,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+614,7/22/2020,July,T14,July-T14,Thinned,,,Pan trap,F,Ceratina,nanula,Ceratina nanula,Apidae
+615,7/22/2020,July,T14,July-T14,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+616,7/22/2020,July,T14,July-T14,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+617,7/22/2020,July,T13,July-T13,Thinned,,,Pan trap,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+618,7/22/2020,July,T13,July-T13,Thinned,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+619,7/22/2020,July,T13,July-T13,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+620,7/23/2020,July,C30,July-C30,Control,,,Pan trap,F,Dufourea,maura,Dufourea maura,Halictidae
+621,7/22/2020,July,T9,July-T9,Thinned,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+622,7/22/2020,July,T9,July-T9,Thinned,,,Pan trap,F,Ashmeadiella,cactorum,Ashmeadiella cactorum,Megachilidae
+623,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+624,6/17/2020,June,T9,June-T9,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+625,8/6/2020,August,C21,August-C21,Control,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+626,6/5/2020,June,T6,June-T6,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+627,6/5/2020,June,T6,June-T6,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+628,8/6/2020,August,C21,August-C21,Control,,,Blue vane,F,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+629,8/6/2020,August,C21,August-C21,Control,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+630,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+631,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+632,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+633,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+634,6/18/2020,June,C28,June-C28,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+635,6/17/2020,June,T12,June-T12,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+636,6/17/2020,June,T12,June-T12,Thinned,,,Pan trap,F,Ashmeadiella,californica,Ashmeadiella californica,Megachilidae
+637,8/6/2020,August,C21,August-C21,Control,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+638,8/13/2020,August,C28,August-C28,Control,,,Blue vane,F,Andrena,sp. D,Andrena sp. D,Andrenidae
+639,6/17/2020,June,T13,June-T13,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+640,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,M,Heriades,carinatus,Heriades carinatus,Megachilidae
+641,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+642,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+643,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+644,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+645,6/17/2020,June,T14,June-T14,Thinned,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+646,8/13/2020,August,C28,August-C28,Control,,,Blue vane,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+647,6/18/2020,June,C24,June-C24,Control,,,Pan trap,F,Hylaeus,mesillae,Hylaeus mesillae,Colletidae
+648,6/18/2020,June,C30,June-C30,Control,,,Pan trap,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+649,6/18/2020,June,C30,June-C30,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+650,6/18/2020,June,C29,June-C29,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+651,6/18/2020,June,C29,June-C29,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+652,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+653,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+654,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+655,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+656,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+657,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+658,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+659,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+660,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+661,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+662,6/18/2020,June,C23,June-C23,Control,,,Pan trap,F,Halictus,confusus,Halictus confusus,Halictidae
+663,6/9/2020,June,T10,June-T10,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+664,6/17/2020,June,T10,June-T10,Thinned,,,Pan trap,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+665,6/5/2020,June,C21,June-C21,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+666,6/5/2020,June,C21,June-C21,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+667,6/5/2020,June,C21,June-C21,Control,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+668,6/9/2020,June,T13,June-T13,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+669,6/9/2020,June,T13,June-T13,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+670,6/8/2020,June,T13,June-T13,Thinned,Penstemon virens,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+671,6/9/2020,June,T12,June-T12,Thinned,,,Pan trap,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+672,6/8/2020,June,T14,June-T14,Thinned,Not recorded,,Net,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+673,6/8/2020,June,T14,June-T14,Thinned,Not recorded,,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+674,6/4/2020,June,T2,June-T2,Thinned,,,Pan trap,F,Ceratina,nanula,Ceratina nanula,Apidae
+675,6/4/2020,June,T2,June-T2,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+676,8/13/2020,August,C28,August-C28,Control,,,Blue vane,M,Ceratina,neomexicana,Ceratina neomexicana,Apidae
+677,8/13/2020,August,C28,August-C28,Control,,,Blue vane,M,Ceratina,neomexicana,Ceratina neomexicana,Apidae
+679,8/13/2020,August,C28,August-C28,Control,,,Blue vane,M,Ceratina,neomexicana,Ceratina neomexicana,Apidae
+680,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+681,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+682,6/5/2020,June,T7,June-T7,Thinned,Penstemon virens,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+683,7/20/2020,July,T12,July-T12,Thinned,Achillea millefolium,Native,Net,F,Halictus,confusus,Halictus confusus,Halictidae
+684,7/20/2020,July,T12,July-T12,Thinned,Achillea millefolium,Native,Net,F,Halictus,confusus,Halictus confusus,Halictidae
+685,7/22/2020,July,T12,July-T12,Thinned,Geranium caespitosum,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+686,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+687,7/14/2020,July,C21,July-C21,Control,Geranium caespitosum,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+688,8/4/2020,August,T5,August-T5,Thinned,Geranium caespitosum,Native,Net,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+689,8/4/2020,August,T5,August-T5,Thinned,Geranium caespitosum,Native,Net,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+690,8/4/2020,August,T7,August-T7,Thinned,Chamaenerion angustifolium,Native,Net,F,Megachile,relativa,Megachile relativa,Megachilidae
+691,8/4/2020,August,T7,August-T7,Thinned,Solidago missouriensis,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+692,8/4/2020,August,T7,August-T7,Thinned,Solidago missouriensis,Native,Net,M,Andrena,sp. F,Andrena sp. F,Andrenidae
+694,8/4/2020,August,T6,August-T6,Thinned,Carduus nutans,Introduced,Net,F,Megachile,pugnata pugnata,Megachile pugnata pugnata,Megachilidae
+695,8/4/2020,August,C21,August-C21,Control,Geranium caespitosum,Native,Net,M,Augochlorella,aurata,Augochlorella aurata,Halictidae
+696,8/4/2020,August,T7,August-T7,Thinned,Solidago missouriensis,Native,Net,F,Andrena,sp. D,Andrena sp. D,Andrenidae
+697,8/13/2020,August,C28,August-C28,Control,,,Blue vane,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+698,7/17/2020,July,T2,July-T2,Thinned,Phacelia hastata,Native,Net,F,Atoposmia,copelandica,Atoposmia copelandica,Megachilidae
+699,7/17/2020,July,T2,July-T2,Thinned,Phacelia hastata,Native,Net,M,Atoposmia,copelandica,Atoposmia copelandica,Megachilidae
+700,7/17/2020,July,T2,July-T2,Thinned,Phacelia hastata,Native,Net,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+701,7/17/2020,July,T2,July-T2,Thinned,Phacelia hastata,Native,Net,M,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+702,8/5/2020,August,C19,August-C19,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+703,8/5/2020,August,C19,August-C19,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+705,8/6/2020,August,C21,August-C21,Control,,,Pan trap,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+706,8/6/2020,August,C21,August-C21,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+707,8/6/2020,August,C21,August-C21,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+708,6/18/2020,June,C26,June-C26,Control,,,Blue vane,M,Anthophora,terminalis,Anthophora terminalis,Apidae
+709,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Dianthidium,heterulkei fraternum,Dianthidium heterulkei fraternum,Megachilidae
+710,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+711,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+712,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Heriades,carinatus,Heriades carinatus,Megachilidae
+713,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Heriades,carinatus,Heriades carinatus,Megachilidae
+714,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+715,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+716,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+717,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+718,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+719,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+720,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,,Unknown,,Unknown,
+721,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+722,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Stelis,permaculata ,Stelis permaculata ,Megachilidae
+723,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+724,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+725,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+726,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Hylaeus,verticalis,Hylaeus verticalis,Colletidae
+727,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+728,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+729,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+730,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+731,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+732,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Hylaeus,annulatus,Hylaeus annulatus,Colletidae
+733,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+734,8/5/2020,August,T1,August-T1,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+735,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+736,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+737,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+738,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Heriades,carinatus,Heriades carinatus,Megachilidae
+739,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Stelis,permaculata ,Stelis permaculata ,Megachilidae
+740,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+741,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+742,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+743,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+744,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+745,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+746,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+747,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+748,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+749,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+750,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+751,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+752,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+753,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+754,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+755,8/6/2020,August,T6,August-T6,Thinned,,,Pan trap,F,Heriades,carinatus,Heriades carinatus,Megachilidae
+756,8/6/2020,August,T6,August-T6,Thinned,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+757,8/6/2020,August,T6,August-T6,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+758,8/6/2020,August,T6,August-T6,Thinned,,,Pan trap,F,Heriades,cressonii,Heriades cressonii,Megachilidae
+759,8/6/2020,August,T6,August-T6,Thinned,,,Pan trap,F,Hylaeus,verticalis,Hylaeus verticalis,Colletidae
+760,8/6/2020,August,T6,August-T6,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+761,8/6/2020,August,T6,August-T6,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+762,8/5/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+763,8/6/2020,August,T5,August-T5,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+764,8/5/2020,August,T3,August-T3,Thinned,,,Pan trap,,Heriades,carinatus,Heriades carinatus,Megachilidae
+765,8/5/2020,August,T3,August-T3,Thinned,,,Pan trap,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+766,6/18/2020,June,C26,June-C26,Control,,,Blue vane,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+767,8/5/2020,August,T3,August-T3,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+768,8/5/2020,August,T3,August-T3,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+769,8/6/2020,August,C22,August-C22,Control,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+770,8/6/2020,August,C22,August-C22,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+771,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Bombus,bifarius,Bombus bifarius,Apidae
+772,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+773,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+774,8/5/2020,August,T2,August-T2,Thinned,,,Pan trap,M,Dufourea,maura,Dufourea maura,Halictidae
+775,8/6/2020,August,C22,August-C22,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+776,6/18/2020,June,C26,June-C26,Control,,,Blue vane,F,Osmia,brevis,Osmia brevis,Megachilidae
+777,8/6/2020,August,T5,August-T5,Thinned,,,Pan trap,F,Epeolus,interruptus,Epeolus interruptus,Apidae
+778,8/6/2020,August,T5,August-T5,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+779,8/5/2020,August,T3,August-T3,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+780,8/5/2020,August,T3,August-T3,Thinned,,,Pan trap,M,Dufourea,maura,Dufourea maura,Halictidae
+781,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Andrena,sp. F,Andrena sp. F,Andrenidae
+782,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+783,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Bombus,bifarius,Bombus bifarius,Apidae
+784,8/6/2020,August,C22,August-C22,Control,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+785,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+786,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Heriades,carinatus,Heriades carinatus,Megachilidae
+787,8/6/2020,August,C20,August-C20,Control,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+788,8/6/2020,August,C20,August-C20,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+789,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Andrena,sp. D,Andrena sp. D,Andrenidae
+790,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Andrena,sp. D,Andrena sp. D,Andrenidae
+791,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Andrena,sp. D,Andrena sp. D,Andrenidae
+792,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Andrena,sp. D,Andrena sp. D,Andrenidae
+793,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+794,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Andrena,sp. D,Andrena sp. D,Andrenidae
+795,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,,Heriades,carinatus,Heriades carinatus,Megachilidae
+796,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Heriades,carinatus,Heriades carinatus,Megachilidae
+797,8/6/2020,August,T7,August-T7,Thinned,Solidago missouriensis,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+798,8/6/2020,August,T7,August-T7,Thinned,Solidago missouriensis,Native,Net,F,Andrena,sp. D,Andrena sp. D,Andrenidae
+799,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Andrena,sp. E,Andrena sp. E,Andrenidae
+800,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+801,8/6/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+802,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Andrena,sp. D,Andrena sp. D,Andrenidae
+803,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+804,8/6/2020,August,T7,August-T7,Thinned,Solidago missouriensis,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+805,8/6/2020,August,T7,August-T7,Thinned,Solidago missouriensis,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+807,8/6/2020,August,T7,August-T7,Thinned,Solidago missouriensis,Native,Net,F,Colletes,sp. B,Colletes sp. B,Colletidae
+808,8/6/2020,August,T7,August-T7,Thinned,Solidago missouriensis,Native,Net,F,Heriades,carinatus,Heriades carinatus,Megachilidae
+809,8/6/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+810,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Colletes,sp. B,Colletes sp. B,Colletidae
+811,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+812,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+813,8/6/2020,August,T7,August-T7,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+814,8/6/2020,August,T7,August-T7,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+815,8/6/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+816,8/6/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+817,8/6/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,F,Andrena,sp. D,Andrena sp. D,Andrenidae
+818,8/6/2020,August,T7,August-T7,Thinned,Solidago missouriensis,Native,Net,F,Stelis,foederalis,Stelis foederalis,Megachilidae
+819,8/6/2020,August,T7,August-T7,Thinned,Solidago missouriensis,Native,Net,F,Stelis,elegans,Stelis elegans,Megachilidae
+820,8/6/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+821,8/3/2020,August,T1,August-T1,Thinned,Solidago missouriensis,Native,Net,F,Melissodes,communis,Melissodes communis,Apidae
+822,8/3/2020,August,T1,August-T1,Thinned,Solidago missouriensis,Native,Net,M,Heriades,cressonii,Heriades cressonii,Megachilidae
+823,8/3/2020,August,T1,August-T1,Thinned,Carduus nutans,Introduced,Net,,Heriades,carinatus,Heriades carinatus,Megachilidae
+824,8/3/2020,August,T1,August-T1,Thinned,Carduus nutans,Introduced,Net,F,Bombus,centralis,Bombus centralis,Apidae
+825,8/3/2020,August,T1,August-T1,Thinned,Solidago missouriensis,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+826,8/3/2020,August,T1,August-T1,Thinned,Carduus nutans,Introduced,Net,M,Bombus,centralis,Bombus centralis,Apidae
+827,8/3/2020,August,T1,August-T1,Thinned,Carduus nutans,Introduced,Net,F,Bombus,centralis,Bombus centralis,Apidae
+828,8/3/2020,August,T1,August-T1,Thinned,Carduus nutans,Introduced,Net,F,Melissodes,agilis,Melissodes agilis,Apidae
+829,8/3/2020,August,T1,August-T1,Thinned,Phacelia hastata,Native,Net,F,Hoplitis,producta,Hoplitis producta,Megachilidae
+830,8/3/2020,August,T1,August-T1,Thinned,Carduus nutans,Introduced,Net,F,Bombus,centralis,Bombus centralis,Apidae
+831,8/3/2020,August,T2,August-T2,Thinned,Geranium caespitosum,Native,Net,F,Heriades,carinatus,Heriades carinatus,Megachilidae
+832,8/5/2020,August,T2,August-T2,Thinned,Heterotheca villosa,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+833,8/3/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+835,8/3/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+836,8/3/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+837,8/3/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+838,8/3/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+839,8/3/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+840,8/3/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+841,8/3/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+842,8/3/2020,August,T4,August-T4,Thinned,Solidago missouriensis,Native,Net,M,Stelis,permaculata ,Stelis permaculata ,Megachilidae
+843,8/3/2020,August,T4,August-T4,Thinned,Solidago missouriensis,Native,Net,M,Heriades,carinatus,Heriades carinatus,Megachilidae
+844,8/3/2020,August,T4,August-T4,Thinned,Arenaria fendleri,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+845,8/5/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,M,Colletes,sp. B,Colletes sp. B,Colletidae
+846,8/5/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+847,8/5/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+848,8/5/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+849,8/5/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,verticalis,Hylaeus verticalis,Colletidae
+850,8/5/2020,August,T4,August-T4,Thinned,Cirsium arvense,Introduced,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+851,8/5/2020,August,T4,August-T4,Thinned,Solidago missouriensis,Native,Net,F,Stelis,permaculata ,Stelis permaculata ,Megachilidae
+852,8/4/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,F,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+853,8/4/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,M,Bombus,bifarius,Bombus bifarius,Apidae
+854,8/4/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,F,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+855,8/4/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+856,8/4/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,F,Megachile,fidelis,Megachile fidelis,Megachilidae
+857,8/4/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+858,8/4/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+859,8/4/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,M,Coelioxys,apacheorum,Coelioxys apacheorum,Megachilidae
+860,8/4/2020,August,T7,August-T7,Thinned,Solidago multiradiata,Native,Net,F,Coelioxys,hunteri,Coelioxys hunteri,Megachilidae
+861,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+862,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+863,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+864,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Melissodes,communis,Melissodes communis,Apidae
+865,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Andrena,sp. E,Andrena sp. E,Andrenidae
+866,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+867,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Bombus,sylvicola ,Bombus sylvicola ,Apidae
+868,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Colletes,sp. B,Colletes sp. B,Colletidae
+869,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+870,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Bombus,bifarius,Bombus bifarius,Apidae
+871,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Colletes,sp. B,Colletes sp. B,Colletidae
+872,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Colletes,sp. B,Colletes sp. B,Colletidae
+873,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Halictus,rubicundus,Halictus rubicundus,Halictidae
+874,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+875,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+876,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+877,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+878,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+879,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+880,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,F,Sphecodes,spp.,Sphecodes spp.,Halictidae
+881,8/4/2020,August,T6,August-T6,Thinned,Solidago missouriensis,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+882,8/10/2020,August,T12,August-T12,Thinned,Symphyotrichum laeve,Native,Net,F,Ashmeadiella,californica,Ashmeadiella californica,Megachilidae
+883,8/10/2020,August,T12,August-T12,Thinned,Symphyotrichum porteri,Native,Net,M,Pseudopanurgus,sp. C,Pseudopanurgus sp. C,Andrenidae
+884,8/10/2020,August,T13,August-T13,Thinned,Heterotheca villosa,Native,Net,F,Heriades,carinatus,Heriades carinatus,Megachilidae
+885,8/10/2020,August,T13,August-T13,Thinned,Heterotheca villosa,Native,Net,F,Melissodes,communis,Melissodes communis,Apidae
+886,8/10/2020,August,T13,August-T13,Thinned,Heterotheca villosa,Native,Net,M,Xeromelecta,californica,Xeromelecta californica,Apidae
+887,8/10/2020,August,T13,August-T13,Thinned,Heterotheca villosa,Native,Net,F,Dianthidium,heterulkei fraternum,Dianthidium heterulkei fraternum,Megachilidae
+888,8/10/2020,August,T11,August-T11,Thinned,Heterotheca villosa,Native,Net,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+889,8/10/2020,August,T11,August-T11,Thinned,Heterotheca villosa,Native,Net,F,Megachile,relativa,Megachile relativa,Megachilidae
+890,8/10/2020,August,T11,August-T11,Thinned,Heterotheca villosa,Native,Net,F,Megachile,relativa,Megachile relativa,Megachilidae
+891,8/10/2020,August,T11,August-T11,Thinned,Cirsium arvense,Introduced,Net,,Apis,mellifera,Apis mellifera,Apidae
+892,8/13/2020,August,C28,August-C28,Control,,,Blue vane,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+893,8/10/2020,August,T11,August-T11,Thinned,Aliciella pinnatifida,Native,Net,,Apis,mellifera,Apis mellifera,Apidae
+894,8/10/2020,August,T11,August-T11,Thinned,Heterotheca villosa,Native,Net,F,Colletes,sp. D,Colletes sp. D,Colletidae
+895,8/10/2020,August,T11,August-T11,Thinned,Campanula rotundifolia,Native,Net,F,Andrena,amphibola,Andrena amphibola,Andrenidae
+896,8/10/2020,August,T11,August-T11,Thinned,Heterotheca villosa,Native,Net,M,Dianthidium,parvum parvum,Dianthidium parvum parvum,Megachilidae
+897,8/10/2020,August,T11,August-T11,Thinned,Heterotheca villosa,Native,Net,F,Ashmeadiella,californica,Ashmeadiella californica,Megachilidae
+898,8/10/2020,August,T11,August-T11,Thinned,Melilotus officinalis,Introduced,Net,F,Megachile,brevis,Megachile brevis,Megachilidae
+899,8/12/2020,August,T11,August-T11,Thinned,Phacelia hastata,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+900,8/12/2020,August,T11,August-T11,Thinned,Phacelia hastata,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+901,8/12/2020,August,T11,August-T11,Thinned,Aliciella pinnatifida,Native,Net,,Apis,mellifera,Apis mellifera,Apidae
+902,8/12/2020,August,T11,August-T11,Thinned,Aliciella pinnatifida,Native,Net,,Apis,mellifera,Apis mellifera,Apidae
+903,8/12/2020,August,T11,August-T11,Thinned,Aliciella pinnatifida,Native,Net,,Apis,mellifera,Apis mellifera,Apidae
+904,8/12/2020,August,T11,August-T11,Thinned,Aliciella pinnatifida,Native,Net,F,Bombus,huntii,Bombus huntii,Apidae
+905,8/12/2020,August,T11,August-T11,Thinned,Ground,,Net,F,Anthidium,placitum,Anthidium placitum,Megachilidae
+906,8/12/2020,August,T11,August-T11,Thinned,Phacelia hastata,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+907,8/12/2020,August,T11,August-T11,Thinned,Phacelia hastata,Native,Net,F,Bombus,huntii,Bombus huntii,Apidae
+908,8/12/2020,August,T11,August-T11,Thinned,Heterotheca villosa,Native,Net,F,Ashmeadiella,californica,Ashmeadiella californica,Megachilidae
+909,8/10/2020,August,T8,August-T8,Thinned,Heterotheca villosa,Native,Net,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+910,8/10/2020,August,T8,August-T8,Thinned,Senecio spartioides,Native,Net,M,Bombus,bifarius,Bombus bifarius,Apidae
+911,8/10/2020,August,T8,August-T8,Thinned,Achillea millefolium,Native,Net,F,Colletes,sp. D,Colletes sp. D,Colletidae
+912,8/10/2020,August,T8,August-T8,Thinned,Allium cernuum,Native,Net,F,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+913,8/10/2020,August,T8,August-T8,Thinned,Allium cernuum,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+914,8/10/2020,August,T8,August-T8,Thinned,Senecio spartioides,Native,Net,F,Megachile,relativa,Megachile relativa,Megachilidae
+915,8/10/2020,August,T8,August-T8,Thinned,Campanula rotundifolia,Native,Net,M,Dufourea,maura,Dufourea maura,Halictidae
+916,8/12/2020,August,T8,August-T8,Thinned,Senecio spartioides,Native,Net,F,Colletes,sp. D,Colletes sp. D,Colletidae
+917,8/12/2020,August,T8,August-T8,Thinned,Senecio spartioides,Native,Net,,Apis,mellifera,Apis mellifera,Apidae
+918,8/12/2020,August,T8,August-T8,Thinned,Allium cernuum,Native,Net,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+919,8/12/2020,August,T8,August-T8,Thinned,Allium cernuum,Native,Net,F,Colletes,sp. B,Colletes sp. B,Colletidae
+920,8/12/2020,August,T8,August-T8,Thinned,Geranium caespitosum,Native,Net,F,Bombus,bifarius,Bombus bifarius,Apidae
+921,8/12/2020,August,T8,August-T8,Thinned,Heterotheca villosa,Native,Net,F,Andrena,sp. E,Andrena sp. E,Andrenidae
+923,8/10/2020,August,T10,August-T10,Thinned,Ground,,Net,F,Epeolus,interruptus,Epeolus interruptus,Apidae
+924,8/10/2020,August,T14,August-T14,Thinned,Carduus acanthoides,Introduced,Net,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+925,8/12/2020,August,T14,August-T14,Thinned,Solidago missouriensis,Native,Net,M,Stelis,permaculata ,Stelis permaculata ,Megachilidae
+926,8/12/2020,August,T14,August-T14,Thinned,Heterotheca villosa,Native,Net,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+927,8/12/2020,August,T14,August-T14,Thinned,Carduus acanthoides,Introduced,Net,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+928,8/12/2020,August,T14,August-T14,Thinned,Allium cernuum,Native,Net,F,Bombus,centralis,Bombus centralis,Apidae
+929,8/11/2020,August,C27,August-C27,Control,Heterotheca villosa,Native,Net,F,Epeolus,minimus,Epeolus minimus,Apidae
+930,8/11/2020,August,C27,August-C27,Control,Campanula rotundifolia,Native,Net,F,Megachile,rotundata,Megachile rotundata,Megachilidae
+931,8/11/2020,August,C27,August-C27,Control,Geranium caespitosum,Native,Net,F,Megachile,relativa,Megachile relativa,Megachilidae
+932,8/11/2020,August,C28,August-C28,Control,Heterotheca villosa,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+933,8/11/2020,August,C25,August-C25,Control,Solidago missouriensis,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+934,8/11/2020,August,C25,August-C25,Control,Solidago missouriensis,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+935,8/11/2020,August,C25,August-C25,Control,Solidago missouriensis,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+936,8/11/2020,August,C25,August-C25,Control,Solidago missouriensis,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+937,8/11/2020,August,C25,August-C25,Control,Symphyotrichum porteri,Native,Net,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+938,8/12/2020,August,T13,August-T13,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+939,8/13/2020,August,C28,August-C28,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+940,8/12/2020,August,T13,August-T13,Thinned,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+941,8/13/2020,August,C28,August-C28,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+943,8/12/2020,August,T8,August-T8,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+944,8/12/2020,August,T9,August-T9,Thinned,,,Pan trap,M,Ashmeadiella,cactorum,Ashmeadiella cactorum,Megachilidae
+945,8/13/2020,August,C28,August-C28,Control,,,Blue vane,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+946,8/12/2020,August,T10,August-T10,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+947,8/13/2020,August,C28,August-C28,Control,,,Blue vane,F,Anthophora,terminalis,Anthophora terminalis,Apidae
+948,8/13/2020,August,C25,August-C25,Control,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+949,8/13/2020,August,C25,August-C25,Control,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+950,8/13/2020,August,C25,August-C25,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+951,8/13/2020,August,C25,August-C25,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+952,8/13/2020,August,C25,August-C25,Control,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+953,8/12/2020,August,T14,August-T14,Thinned,,,Pan trap,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+954,8/12/2020,August,T14,August-T14,Thinned,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+955,8/12/2020,August,T14,August-T14,Thinned,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+956,8/12/2020,August,T14,August-T14,Thinned,,,Pan trap,M,Ceratina,neomexicana,Ceratina neomexicana,Apidae
+957,8/12/2020,August,T14,August-T14,Thinned,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+958,8/12/2020,August,T14,August-T14,Thinned,,,Pan trap,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+959,8/13/2020,August,C30,August-C30,Control,,,Pan trap,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+960,8/13/2020,August,C30,August-C30,Control,,,Pan trap,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+961,8/13/2020,August,C23,August-C23,Control,,,Pan trap,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+962,8/12/2020,August,T12,August-T12,Thinned,,,Pan trap,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+963,8/12/2020,August,T12,August-T12,Thinned,,,Pan trap,F,Dianthidium,heterulkei fraternum,Dianthidium heterulkei fraternum,Megachilidae
+964,8/12/2020,August,T12,August-T12,Thinned,,,Pan trap,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+965,8/12/2020,August,T12,August-T12,Thinned,,,Pan trap,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+966,8/12/2020,August,T12,August-T12,Thinned,,,Pan trap,F,Hylaeus,modestus,Hylaeus modestus,Colletidae
+967,6/18/2020,June,C26,June-C26,Control,,,Blue vane,F,Anthophora,terminalis,Anthophora terminalis,Apidae
+969,8/12/2020,August,T12,August-T12,Thinned,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+970,8/13/2020,August,C27,August-C27,Control,,,Pan trap,M,Megachile,brevis,Megachile brevis,Megachilidae
+971,8/13/2020,August,C27,August-C27,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+972,8/13/2020,August,C27,August-C27,Control,,,Pan trap,,Heriades,carinatus,Heriades carinatus,Megachilidae
+973,8/13/2020,August,C27,August-C27,Control,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+974,8/13/2020,August,C28,August-C28,Control,,,Pan trap,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+975,8/13/2020,August,C28,August-C28,Control,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+976,8/13/2020,August,C28,August-C28,Control,,,Pan trap,,Heriades,carinatus,Heriades carinatus,Megachilidae
+977,8/12/2020,August,T11,August-T11,Thinned,,,Pan trap,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+978,8/12/2020,August,T11,August-T11,Thinned,,,Pan trap,F,Andrena,amphibola,Andrena amphibola,Andrenidae
+979,8/12/2020,August,T15,August-T15,Thinned,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+980,8/12/2020,August,T15,August-T15,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+981,8/12/2020,August,T15,August-T15,Thinned,,,Pan trap,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+982,8/12/2020,August,T15,August-T15,Thinned,,,Pan trap,F,Pseudopanurgus,spp.,Pseudopanurgus spp.,Andrenidae
+983,8/12/2020,August,T15,August-T15,Thinned,,,Pan trap,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+984,8/12/2020,August,T15,August-T15,Thinned,,,Pan trap,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+985,8/13/2020,August,C25,August-C25,Control,,,Blue vane,F,Megachile,latimanus,Megachile latimanus,Megachilidae
+986,8/13/2020,August,C25,August-C25,Control,,,Blue vane,F,Melissodes,communis,Melissodes communis,Apidae
+987,8/12/2020,August,C24,August-C24,Control,,,Blue vane,F,Melissodes,communis,Melissodes communis,Apidae
+988,8/13/2020,August,C30,August-C30,Control,,,Blue vane,F,Andrena,amphibola,Andrena amphibola,Andrenidae
+989,8/5/2020,August,C16,August-C16,Control,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+990,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+991,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+992,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+993,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+994,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+995,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,M,Anthophora,terminalis,Anthophora terminalis,Apidae
+996,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+997,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,M,Megachile,brevis,Megachile brevis,Megachilidae
+998,7/16/2020,July,T6,July-T6,Thinned,,,Blue vane,F,Atoposmia,abjecta abjecta,Atoposmia abjecta abjecta,Megachilidae
+999,8/5/2020,August,T2,August-T2,Thinned,,,Blue vane,F,Megachile,latimanus,Megachile latimanus,Megachilidae
+1000,8/5/2020,August,T2,August-T2,Thinned,,,Blue vane,F,Megachile,latimanus,Megachile latimanus,Megachilidae
+1001,8/5/2020,August,T2,August-T2,Thinned,,,Blue vane,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+1002,8/5/2020,August,T2,August-T2,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1003,8/5/2020,August,T2,August-T2,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1004,8/5/2020,August,T2,August-T2,Thinned,,,Blue vane,F,Melissodes,agilis,Melissodes agilis,Apidae
+1005,8/5/2020,August,T2,August-T2,Thinned,,,Blue vane,F,Melissodes,communis,Melissodes communis,Apidae
+1006,8/5/2020,August,T2,August-T2,Thinned,,,Blue vane,F,Coelioxys,moesta,Coelioxys moesta,Megachilidae
+1007,8/5/2020,August,T2,August-T2,Thinned,,,Blue vane,F,Ashmeadiella,pronitens,Ashmeadiella pronitens,Megachilidae
+1008,8/5/2020,August,T2,August-T2,Thinned,,,Blue vane,F,Dianthidium,heterulkei fraternum,Dianthidium heterulkei fraternum,Megachilidae
+1010,8/5/2020,August,T2,August-T2,Thinned,,,Blue vane,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1011,8/5/2020,August,C19,August-C19,Control,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1012,8/5/2020,August,C19,August-C19,Control,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+1013,8/5/2020,August,C19,August-C19,Control,,,Blue vane,F,Bombus,californicus,Bombus californicus,Apidae
+1014,8/5/2020,August,C19,August-C19,Control,,,Blue vane,F,Anthophora,terminalis,Anthophora terminalis,Apidae
+1015,8/5/2020,August,T3,August-T3,Thinned,,,Blue vane,M,Bombus,bifarius,Bombus bifarius,Apidae
+1016,8/5/2020,August,T3,August-T3,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1017,6/18/2020,June,C25,June-C25,Control,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1018,6/18/2020,June,C25,June-C25,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1019,6/18/2020,June,C25,June-C25,Control,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1020,6/18/2020,June,C25,June-C25,Control,,,Blue vane,M,Anthophora,occidentalis,Anthophora occidentalis,Apidae
+1021,6/18/2020,June,C25,June-C25,Control,,,Blue vane,F,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+1022,6/18/2020,June,C25,June-C25,Control,,,Blue vane,F,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+1023,6/18/2020,June,C25,June-C25,Control,,,Blue vane,M,Halictus,rubicundus,Halictus rubicundus,Halictidae
+1024,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1025,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,F,Osmia,bucephala,Osmia bucephala,Megachilidae
+1026,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+1027,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,F,Anthophora,terminalis,Anthophora terminalis,Apidae
+1028,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,F,Osmia,paradisica,Osmia paradisica,Megachilidae
+1029,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,F,Osmia,paradisica,Osmia paradisica,Megachilidae
+1030,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,F,Osmia,paradisica,Osmia paradisica,Megachilidae
+1031,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1032,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,M,Hoplitis,robusta,Hoplitis robusta,Megachilidae
+1033,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,M,Osmia,grindeliae,Osmia grindeliae,Megachilidae
+1034,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,M,Osmia,(Melanosmia) sp. B,Osmia (Melanosmia) sp. B,Megachilidae
+1035,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1036,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,M,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+1037,6/4/2020,June,T3,June-T3,Thinned,,,Blue vane,M,Osmia,grindeliae,Osmia grindeliae,Megachilidae
+1038,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1039,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,huntii,Bombus huntii,Apidae
+1040,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1041,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1042,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1043,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1044,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1045,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1046,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1047,6/4/2020,June,C19,June-C19,Control,,,Blue vane,F,Melissodes,tristis,Melissodes tristis,Apidae
+1048,6/4/2020,June,T1,June-T1,Thinned,,,Blue vane,F,Osmia,bucephala,Osmia bucephala,Megachilidae
+1049,6/4/2020,June,T1,June-T1,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1050,6/4/2020,June,T1,June-T1,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1051,6/4/2020,June,T1,June-T1,Thinned,,,Blue vane,F,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+1052,6/4/2020,June,T1,June-T1,Thinned,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1053,6/4/2020,June,T4,June-T4,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1054,6/4/2020,June,T4,June-T4,Thinned,,,Blue vane,M,Osmia,atrocyanea,Osmia atrocyanea,Megachilidae
+1055,6/4/2020,June,T4,June-T4,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1056,6/4/2020,June,T4,June-T4,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1057,7/23/2020,July,C27,July-C27,Control,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1058,7/23/2020,July,C27,July-C27,Control,,,Blue vane,F,Svastra,obliqua,Svastra obliqua,Apidae
+1059,7/23/2020,July,C27,July-C27,Control,,,Blue vane,F,Anthophora,terminalis,Anthophora terminalis,Apidae
+1060,7/23/2020,July,C27,July-C27,Control,,,Blue vane,F,Megachile,centuncularis,Megachile centuncularis,Megachilidae
+1061,7/23/2020,July,C27,July-C27,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1062,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1063,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1064,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1065,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1066,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1067,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1068,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1069,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1070,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1071,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1072,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Osmia,bucephala,Osmia bucephala,Megachilidae
+1073,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Osmia,bucephala,Osmia bucephala,Megachilidae
+1074,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Osmia,paradisica,Osmia paradisica,Megachilidae
+1075,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1076,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Osmia,paradisica,Osmia paradisica,Megachilidae
+1077,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,M,Osmia,atrocyanea,Osmia atrocyanea,Megachilidae
+1078,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1079,6/4/2020,June,T2,June-T2,Thinned,,,Blue vane,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+1080,6/4/2020,June,C16,June-C16,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1081,6/4/2020,June,C16,June-C16,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1082,6/4/2020,June,C16,June-C16,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1083,6/4/2020,June,C16,June-C16,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1084,6/4/2020,June,C16,June-C16,Control,,,Blue vane,F,Bombus,occidentalis,Bombus occidentalis,Apidae
+1085,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1086,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1087,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1088,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1089,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1090,6/4/2020,June,C16,June-C16,Control,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1091,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1092,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1093,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1094,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1095,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1096,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1097,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1098,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1099,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1100,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Osmia,bucephala,Osmia bucephala,Megachilidae
+1101,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Osmia,bucephala,Osmia bucephala,Megachilidae
+1102,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Osmia,bucephala,Osmia bucephala,Megachilidae
+1103,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Osmia,bucephala,Osmia bucephala,Megachilidae
+1104,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Osmia,bucephala,Osmia bucephala,Megachilidae
+1105,6/4/2020,June,C17,June-C17,Control,,,Blue vane,F,Osmia,bucephala,Osmia bucephala,Megachilidae
+1106,6/4/2020,June,T6,June-T6,Thinned,,,Blue vane,M,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+1107,6/4/2020,June,T6,June-T6,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1108,6/4/2020,June,T6,June-T6,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1109,6/4/2020,June,T6,June-T6,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1110,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,M,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+1111,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1112,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1113,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,M,Hoplitis,fulgida,Hoplitis fulgida,Megachilidae
+1114,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1115,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1116,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1117,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1118,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1119,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1120,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1121,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1122,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1123,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1124,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1125,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1126,6/5/2020,June,T7,June-T7,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1127,7/22/2020,July,C23,July-C23,Control,,,Blue vane,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+1128,7/22/2020,July,C23,July-C23,Control,,,Blue vane,F,Anthophora,walshii,Anthophora walshii,Apidae
+1129,7/22/2020,July,C23,July-C23,Control,,,Blue vane,F,Svastra,obliqua,Svastra obliqua,Apidae
+1130,7/22/2020,July,C23,July-C23,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1131,7/22/2020,July,C23,July-C23,Control,,,Blue vane,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1132,7/22/2020,July,C23,July-C23,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1133,7/22/2020,July,C23,July-C23,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1134,7/23/2020,July,C26,July-C26,Control,,,Blue vane,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1135,7/22/2020,July,T13,July-T13,Thinned,,,Blue vane,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+1136,7/22/2020,July,T13,July-T13,Thinned,,,Blue vane,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+1137,7/22/2020,July,T13,July-T13,Thinned,,,Blue vane,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+1138,7/22/2020,July,T13,July-T13,Thinned,,,Blue vane,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+1139,7/22/2020,July,T13,July-T13,Thinned,,,Blue vane,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1140,7/22/2020,July,T13,July-T13,Thinned,,,Blue vane,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+1141,7/23/2020,July,C29,July-C29,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1142,7/23/2020,July,C29,July-C29,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1143,8/12/2020,August,T13,August-T13,Thinned,,,Blue vane,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1144,8/12/2020,August,T13,August-T13,Thinned,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+1145,8/12/2020,August,T13,August-T13,Thinned,,,Blue vane,F,Bombus,huntii,Bombus huntii,Apidae
+1146,8/12/2020,August,T13,August-T13,Thinned,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+1147,7/16/2020,July,T5,July-T5,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1148,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,nevadensis,Bombus nevadensis,Apidae
+1149,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1150,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1151,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1152,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1153,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1154,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1155,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1156,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1157,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1158,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1159,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1160,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1161,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1162,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1163,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1164,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1165,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1166,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1167,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1168,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1169,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1170,6/5/2020,June,T5,June-T5,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1171,7/23/2020,July,C28,July-C28,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1172,7/23/2020,July,C28,July-C28,Control,,,Blue vane,F,Bombus,nevadensis,Bombus nevadensis,Apidae
+1173,7/23/2020,July,C28,July-C28,Control,,,Blue vane,F,Hoplitis,producta,Hoplitis producta,Megachilidae
+1174,7/23/2020,July,C28,July-C28,Control,,,Blue vane,F,Hoplitis,producta,Hoplitis producta,Megachilidae
+1175,7/23/2020,July,C28,July-C28,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1176,7/23/2020,July,C28,July-C28,Control,,,Blue vane,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1177,7/22/2020,July,T15,July-T15,Thinned,,,Blue vane,M,Bombus,huntii,Bombus huntii,Apidae
+1178,7/22/2020,July,T15,July-T15,Thinned,,,Blue vane,F,Bombus,huntii,Bombus huntii,Apidae
+1179,7/22/2020,July,T15,July-T15,Thinned,,,Blue vane,M,Bombus,bifarius,Bombus bifarius,Apidae
+1180,7/22/2020,July,T15,July-T15,Thinned,,,Blue vane,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1181,7/22/2020,July,T15,July-T15,Thinned,,,Blue vane,F,Ashmeadiella,cactorum,Ashmeadiella cactorum,Megachilidae
+1182,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,insularis,Bombus insularis,Apidae
+1183,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1184,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1185,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1186,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1187,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1188,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1189,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1190,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1191,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1192,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1193,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1194,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1195,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,melanopygus,Bombus melanopygus,Apidae
+1196,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1197,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1198,6/5/2020,June,C20,June-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1199,6/17/2020,June,T11,June-T11,Thinned,,,Blue vane,M,Ceratina,neomexicana,Ceratina neomexicana,Apidae
+1200,6/17/2020,June,T11,June-T11,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1201,6/17/2020,June,T11,June-T11,Thinned,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1202,7/22/2020,July,C24,July-C24,Control,,,Blue vane,F,Anthophora,walshii,Anthophora walshii,Apidae
+1203,7/22/2020,July,C24,July-C24,Control,,,Blue vane,F,Melissodes,communis,Melissodes communis,Apidae
+1204,7/22/2020,July,T14,July-T14,Thinned,,,Blue vane,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+1205,7/22/2020,July,T14,July-T14,Thinned,,,Blue vane,M,Melissodes,communis,Melissodes communis,Apidae
+1206,7/22/2020,July,T14,July-T14,Thinned,,,Blue vane,F,Dianthidium,heterulkei fraternum,Dianthidium heterulkei fraternum,Megachilidae
+1207,7/22/2020,July,T14,July-T14,Thinned,,,Blue vane,F,Dianthidium,heterulkei fraternum,Dianthidium heterulkei fraternum,Megachilidae
+1208,7/22/2020,July,T14,July-T14,Thinned,,,Blue vane,M,Bombus,bifarius,Bombus bifarius,Apidae
+1209,7/22/2020,July,T14,July-T14,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1210,7/22/2020,July,T10,July-T10,Thinned,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1211,7/22/2020,July,T10,July-T10,Thinned,,,Blue vane,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+1212,6/18/2020,June,C29,June-C29,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1213,6/18/2020,June,C29,June-C29,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1214,6/18/2020,June,C29,June-C29,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1215,6/18/2020,June,C29,June-C29,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1216,6/18/2020,June,C29,June-C29,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1217,6/18/2020,June,C29,June-C29,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1218,6/18/2020,June,C29,June-C29,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1219,6/18/2020,June,C29,June-C29,Control,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1220,6/18/2020,June,C29,June-C29,Control,,,Blue vane,F,Anthophora,terminalis,Anthophora terminalis,Apidae
+1221,6/18/2020,June,C29,June-C29,Control,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1222,6/18/2020,June,C29,June-C29,Control,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1223,6/18/2020,June,C27,June-C27,Control,,,Blue vane,F,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+1224,6/18/2020,June,C27,June-C27,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1225,6/18/2020,June,C27,June-C27,Control,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1226,6/18/2020,June,C27,June-C27,Control,,,Blue vane,F,Bombus,huntii,Bombus huntii,Apidae
+1227,6/18/2020,June,C27,June-C27,Control,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1228,7/16/2020,July,C21,July-C21,Control,,,Blue vane,F,Bombus,californicus,Bombus californicus,Apidae
+1229,7/16/2020,July,C21,July-C21,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1230,7/16/2020,July,C21,July-C21,Control,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1231,7/16/2020,July,C21,July-C21,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1232,7/16/2020,July,C21,July-C21,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1233,7/16/2020,July,C21,July-C21,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1234,7/16/2020,July,C21,July-C21,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1235,7/16/2020,July,C21,July-C21,Control,,,Blue vane,F,Colletes,sp. A,Colletes sp. A,Colletidae
+1236,7/16/2020,July,C21,July-C21,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1237,7/16/2020,July,C21,July-C21,Control,,,Blue vane,M,Melissodes,communis,Melissodes communis,Apidae
+1238,7/16/2020,July,C21,July-C21,Control,,,Blue vane,F,Colletes,sp. B,Colletes sp. B,Colletidae
+1239,6/17/2020,June,T8,June-T8,Thinned,,,Blue vane,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1240,6/17/2020,June,T8,June-T8,Thinned,,,Blue vane,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+1241,6/17/2020,June,T8,June-T8,Thinned,,,Blue vane,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1242,6/17/2020,June,T8,June-T8,Thinned,,,Blue vane,M,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1243,6/17/2020,June,T8,June-T8,Thinned,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+1244,6/17/2020,June,T8,June-T8,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1245,6/17/2020,June,T8,June-T8,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1246,6/17/2020,June,T8,June-T8,Thinned,,,Blue vane,F,Osmia,phaceliae,Osmia phaceliae,Megachilidae
+1247,6/17/2020,June,T8,June-T8,Thinned,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1248,6/17/2020,June,T8,June-T8,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1249,6/17/2020,June,T8,June-T8,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1250,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Bombus,nevadensis,Bombus nevadensis,Apidae
+1251,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1252,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1253,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Melissodes,tristis,Melissodes tristis,Apidae
+1254,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Melissodes,tristis,Melissodes tristis,Apidae
+1255,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,,Unknown,,Unknown,
+1256,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Agapostemon,texanus angelicus,Agapostemon texanus angelicus,Halictidae
+1257,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1258,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1259,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1260,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1261,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1262,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1263,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,M,Ceratina,neomexicana,Ceratina neomexicana,Apidae
+1264,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+1265,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1266,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1267,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1268,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1269,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1270,6/17/2020,June,T13,June-T13,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1271,6/17/2020,June,T10,June-T10,Thinned,,,Blue vane,F,Bombus,huntii,Bombus huntii,Apidae
+1272,6/17/2020,June,T10,June-T10,Thinned,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1273,6/17/2020,June,T10,June-T10,Thinned,,,Blue vane,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+1274,6/17/2020,June,T10,June-T10,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1275,6/17/2020,June,T9,June-T9,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1276,6/17/2020,June,T9,June-T9,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1277,6/17/2020,June,T9,June-T9,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1278,6/17/2020,June,T9,June-T9,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1279,6/17/2020,June,T9,June-T9,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1280,6/17/2020,June,T9,June-T9,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1281,6/17/2020,June,T9,June-T9,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1282,6/18/2020,June,C24,June-C24,Control,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1283,7/17/2020,July,C18,July-C18,Control,,,Blue vane,F,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+1284,7/17/2020,July,C18,July-C18,Control,,,Blue vane,M,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1285,8/12/2020,August,T11,August-T11,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1286,8/12/2020,August,T11,August-T11,Thinned,,,Blue vane,F,Anthophora,urbana,Anthophora urbana,Apidae
+1287,8/12/2020,August,T14,August-T14,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1288,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+1289,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+1290,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+1291,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+1292,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Anthophora,terminalis,Anthophora terminalis,Apidae
+1293,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Anthophora,terminalis,Anthophora terminalis,Apidae
+1294,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Megachile,centuncularis,Megachile centuncularis,Megachilidae
+1295,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Osmia,brevis,Osmia brevis,Megachilidae
+1296,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1297,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,M,Bombus,centralis,Bombus centralis,Apidae
+1298,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Bombus,sylvicola ,Bombus sylvicola ,Apidae
+1299,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Bombus,melanopygus,Bombus melanopygus,Apidae
+1300,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Bombus,insularis,Bombus insularis,Apidae
+1301,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1302,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1303,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Bombus,melanopygus,Bombus melanopygus,Apidae
+1304,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Anthophora,terminalis,Anthophora terminalis,Apidae
+1305,7/17/2020,July,T3,July-T3,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1306,7/17/2020,July,C17,July-C17,Control,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1307,7/17/2020,July,C17,July-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1308,7/17/2020,July,C17,July-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1309,7/17/2020,July,C17,July-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1310,7/17/2020,July,C17,July-C17,Control,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1311,7/17/2020,July,C17,July-C17,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1312,7/17/2020,July,C16,July-C16,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1313,7/17/2020,July,C16,July-C16,Control,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+1314,7/17/2020,July,T1,July-T1,Thinned,,,Blue vane,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+1315,7/17/2020,July,T1,July-T1,Thinned,,,Blue vane,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+1316,7/17/2020,July,T1,July-T1,Thinned,,,Blue vane,M,Hylaeus,modestus,Hylaeus modestus,Colletidae
+1317,7/17/2020,July,T1,July-T1,Thinned,,,Blue vane,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+1318,7/17/2020,July,T1,July-T1,Thinned,,,Blue vane,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+1319,7/17/2020,July,T1,July-T1,Thinned,,,Blue vane,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+1320,7/17/2020,July,T1,July-T1,Thinned,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+1321,7/17/2020,July,T1,July-T1,Thinned,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+1322,7/17/2020,July,T1,July-T1,Thinned,,,Blue vane,F,Osmia,densa,Osmia densa,Megachilidae
+1323,7/17/2020,July,T1,July-T1,Thinned,,,Blue vane,F,Osmia,albolateralis,Osmia albolateralis,Megachilidae
+1324,7/17/2020,July,T2,July-T2,Thinned,,,Blue vane,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+1325,7/17/2020,July,T2,July-T2,Thinned,,,Blue vane,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+1326,7/17/2020,July,T2,July-T2,Thinned,,,Blue vane,F,Bombus,californicus,Bombus californicus,Apidae
+1327,7/17/2020,July,T2,July-T2,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1328,7/17/2020,July,T2,July-T2,Thinned,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1329,7/17/2020,July,T2,July-T2,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1330,7/17/2020,July,T2,July-T2,Thinned,,,Blue vane,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+1331,7/17/2020,July,T2,July-T2,Thinned,,,Blue vane,F,Osmia,bruneri,Osmia bruneri,Megachilidae
+1332,7/17/2020,July,T4,July-T4,Thinned,,,Blue vane,M,Megachile,brevis,Megachile brevis,Megachilidae
+1333,7/17/2020,July,T4,July-T4,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1334,7/17/2020,July,T4,July-T4,Thinned,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1335,7/17/2020,July,T4,July-T4,Thinned,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1336,7/17/2020,July,T4,July-T4,Thinned,,,Blue vane,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+1337,7/17/2020,July,C19,July-C19,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1338,7/17/2020,July,C19,July-C19,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1339,7/17/2020,July,C19,July-C19,Control,,,Blue vane,M,Bombus,huntii,Bombus huntii,Apidae
+1340,7/17/2020,July,C19,July-C19,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1341,7/17/2020,July,C19,July-C19,Control,,,Blue vane,M,Bombus,bifarius,Bombus bifarius,Apidae
+1342,7/17/2020,July,C19,July-C19,Control,,,Blue vane,M,Bombus,bifarius,Bombus bifarius,Apidae
+1343,7/17/2020,July,C19,July-C19,Control,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1344,7/16/2020,July,C22,July-C22,Control,,,Blue vane,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+1345,7/16/2020,July,C22,July-C22,Control,,,Blue vane,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+1346,7/16/2020,July,C22,July-C22,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1347,7/16/2020,July,C22,July-C22,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1348,7/16/2020,July,C22,July-C22,Control,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1349,7/16/2020,July,C22,July-C22,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1350,7/16/2020,July,C22,July-C22,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1351,7/16/2020,July,C22,July-C22,Control,,,Blue vane,F,Anthophora,terminalis,Anthophora terminalis,Apidae
+1352,7/16/2020,July,C22,July-C22,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1353,7/16/2020,July,C20,July-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1354,7/16/2020,July,C20,July-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1355,7/16/2020,July,C20,July-C20,Control,,,Blue vane,M,Bombus,centralis,Bombus centralis,Apidae
+1356,7/16/2020,July,C20,July-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1357,7/16/2020,July,C20,July-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1358,7/16/2020,July,C20,July-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1359,7/16/2020,July,C20,July-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1360,7/16/2020,July,C20,July-C20,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1361,7/16/2020,July,T7,July-T7,Thinned,,,Blue vane,M,Bombus,sylvicola ,Bombus sylvicola ,Apidae
+1362,7/16/2020,July,T7,July-T7,Thinned,,,Blue vane,F,Anthophora,terminalis,Anthophora terminalis,Apidae
+1363,7/16/2020,July,T7,July-T7,Thinned,,,Blue vane,F,Bombus,huntii,Bombus huntii,Apidae
+1364,7/16/2020,July,T7,July-T7,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1365,7/16/2020,July,T7,July-T7,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1366,7/16/2020,July,T7,July-T7,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1367,7/16/2020,July,T7,July-T7,Thinned,,,Blue vane,F,Bombus,appositus,Bombus appositus,Apidae
+1368,7/16/2020,July,T7,July-T7,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1369,7/16/2020,July,T7,July-T7,Thinned,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1370,7/16/2020,July,T7,July-T7,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1371,7/16/2020,July,T7,July-T7,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1372,7/16/2020,July,T7,July-T7,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1373,6/18/2020,June,C30,June-C30,Control,,,Blue vane,M,Anthophora,bomboides,Anthophora bomboides,Apidae
+1374,6/18/2020,June,C30,June-C30,Control,,,Blue vane,F,Anthophora,bomboides,Anthophora bomboides,Apidae
+1375,6/18/2020,June,C30,June-C30,Control,,,Blue vane,F,Osmia,grindeliae,Osmia grindeliae,Megachilidae
+1376,6/18/2020,June,C30,June-C30,Control,,,Blue vane,F,Melissodes,tristis,Melissodes tristis,Apidae
+1377,6/18/2020,June,C30,June-C30,Control,,,Blue vane,F,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+1378,6/18/2020,June,C30,June-C30,Control,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1379,6/18/2020,June,C30,June-C30,Control,,,Blue vane,F,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+1380,6/18/2020,June,C30,June-C30,Control,,,Blue vane,F,Osmia,densa,Osmia densa,Megachilidae
+1381,6/18/2020,June,C30,June-C30,Control,,,Blue vane,M,Megachile,melanophaea,Megachile melanophaea,Megachilidae
+1382,6/18/2020,June,C30,June-C30,Control,,,Blue vane,F,Dianthidium,heterulkei fraternum,Dianthidium heterulkei fraternum,Megachilidae
+1383,6/18/2020,June,C23,June-C23,Control,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1384,6/18/2020,June,C23,June-C23,Control,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1385,6/18/2020,June,C23,June-C23,Control,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1386,6/18/2020,June,C23,June-C23,Control,,,Blue vane,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+1387,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+1388,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+1389,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1390,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1391,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1392,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1393,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Anthophora,urbana,Anthophora urbana,Apidae
+1394,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Hoplitis,albifrons,Hoplitis albifrons,Megachilidae
+1395,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1396,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Halictus,tripartitus,Halictus tripartitus,Halictidae
+1397,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Anthophora,porterae,Anthophora porterae,Apidae
+1398,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Melissodes,tristis,Melissodes tristis,Apidae
+1399,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1400,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1401,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1402,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1403,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1404,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,M,Unknown,,Unknown,Megachilidae
+1405,6/17/2020,June,T14,June-T14,Thinned,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1406,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1407,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1408,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1409,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1410,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1411,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1412,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1413,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1414,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1415,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1416,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Anthophora,bomboides,Anthophora bomboides,Apidae
+1417,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1418,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1419,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1420,6/18/2020,June,C28,June-C28,Control,,,Blue vane,F,Lasioglossum,(Sensu stricto) spp.,Lasioglossum (Sensu stricto) spp.,Halictidae
+1421,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1422,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1423,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1424,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1425,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Lasioglossum,(Dialictus) spp.,Lasioglossum (Dialictus) spp.,Halictidae
+1426,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Hylaeus,annulatus,Hylaeus annulatus,Colletidae
+1427,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Hylaeus,spp. ,Hylaeus spp.,Colletidae
+1428,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,M,Sphecodes,spp.,Sphecodes spp.,Halictidae
+1429,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Megachile,gemula,Megachile gemula,Megachilidae
+1430,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Svastra,obliqua,Svastra obliqua,Apidae
+1431,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Anthophora,montana,Anthophora montana,Apidae
+1432,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1433,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1434,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,M,Melissodes,communis,Melissodes communis,Apidae
+1435,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1436,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,M,Bombus,rufocinctus,Bombus rufocinctus,Apidae
+1437,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Bombus,melanopygus,Bombus melanopygus,Apidae
+1438,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1439,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Bombus,centralis,Bombus centralis,Apidae
+1440,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae
+1441,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1442,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Osmia,juxta,Osmia juxta,Megachilidae
+1443,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,M,Melissodes,communis,Melissodes communis,Apidae
+1444,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Osmia,grindeliae,Osmia grindeliae,Megachilidae
+1445,8/5/2020,August,T4,August-T4,Thinned,,,Blue vane,F,Bombus,bifarius,Bombus bifarius,Apidae

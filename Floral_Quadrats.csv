@@ -1,0 +1,1032 @@
+Site,Treatment,Date,Month,Quadrat,Species,Count
+C16,Control,6/2/2020,June,9,Sedum lanceolatum,0
+C16,Control,6/2/2020,June,1,Mertensia lanceolata,2
+C16,Control,6/2/2020,June,2,Mertensia lanceolata,3
+C16,Control,6/2/2020,June,3,None,0
+C16,Control,6/2/2020,June,4,None,0
+C16,Control,6/2/2020,June,5,None,0
+C16,Control,6/2/2020,June,6,None,0
+C16,Control,6/2/2020,June,7,Fragaria virginiana,1
+C16,Control,6/2/2020,June,7,Arctostaphylos uva-ursi,0
+C16,Control,6/2/2020,June,8,Fragaria virginiana,0
+C16,Control,6/2/2020,June,8,Ribes cereum,0
+C16,Control,6/2/2020,June,9,Mertensia lanceolata,10
+C16,Control,6/2/2020,June,10,Clematis columbiana,7
+C16,Control,7/15/2020,July,1,None,0
+C16,Control,7/15/2020,July,2,None,0
+C16,Control,7/15/2020,July,3,None,0
+C16,Control,7/15/2020,July,4,None,0
+C16,Control,7/15/2020,July,5,None,0
+C16,Control,7/15/2020,July,6,None,0
+C16,Control,7/15/2020,July,7,None,0
+C16,Control,7/15/2020,July,8,None,0
+C16,Control,7/15/2020,July,9,None,0
+C16,Control,7/15/2020,July,10,None,0
+C16,Control,8/3/2020,August,1,None,0
+C16,Control,8/3/2020,August,2,None,0
+C16,Control,8/3/2020,August,3,None,0
+C16,Control,8/3/2020,August,4,None,0
+C16,Control,8/3/2020,August,5,None,0
+C16,Control,8/3/2020,August,6,None,0
+C16,Control,8/3/2020,August,7,None,0
+C16,Control,8/3/2020,August,8,None,0
+C16,Control,8/3/2020,August,9,None,0
+C16,Control,8/3/2020,August,10,None,0
+C17,Control,6/4/2020,June,1,None,0
+C17,Control,6/4/2020,June,2,None,0
+C17,Control,6/4/2020,June,3,None,0
+C17,Control,6/4/2020,June,4,None,0
+C17,Control,6/4/2020,June,5,None,0
+C17,Control,6/4/2020,June,6,None,0
+C17,Control,6/4/2020,June,7,None,0
+C17,Control,6/4/2020,June,8,None,0
+C17,Control,6/4/2020,June,9,None,0
+C17,Control,6/4/2020,June,10,None,0
+C17,Control,7/15/2020,July,1,None,0
+C17,Control,7/15/2020,July,2,None,0
+C17,Control,7/15/2020,July,3,None,0
+C17,Control,7/15/2020,July,4,None,0
+C17,Control,7/15/2020,July,5,None,0
+C17,Control,7/15/2020,July,6,None,0
+C17,Control,7/15/2020,July,7,None,0
+C17,Control,7/15/2020,July,8,None,0
+C17,Control,7/15/2020,July,9,None,0
+C17,Control,7/15/2020,July,10,None,0
+C17,Control,8/3/2020,August,1,None,0
+C17,Control,8/3/2020,August,2,None,0
+C17,Control,8/3/2020,August,3,None,0
+C17,Control,8/3/2020,August,4,None,0
+C17,Control,8/3/2020,August,5,None,0
+C17,Control,8/3/2020,August,6,None,0
+C17,Control,8/3/2020,August,7,None,0
+C17,Control,8/3/2020,August,8,None,0
+C17,Control,8/3/2020,August,9,None,0
+C17,Control,8/3/2020,August,10,None,0
+C18,Control,6/2/2020,June,6,Antennaria parvifolia,1
+C18,Control,6/2/2020,June,1,None,0
+C18,Control,6/2/2020,June,2,Ribes cereum,1
+C18,Control,6/2/2020,June,3,Jamesia americana,0
+C18,Control,6/2/2020,June,4,None,0
+C18,Control,6/2/2020,June,5,None,0
+C18,Control,6/2/2020,June,7,Jamesia americana,4
+C18,Control,6/2/2020,June,8,Clematis columbiana,2
+C18,Control,6/2/2020,June,9,Jamesia americana,1
+C18,Control,6/2/2020,June,10,None,0
+C18,Control,7/15/2020,July,1,None,0
+C18,Control,7/15/2020,July,2,None,0
+C18,Control,7/15/2020,July,3,None,0
+C18,Control,7/15/2020,July,4,None,0
+C18,Control,7/15/2020,July,5,None,0
+C18,Control,7/15/2020,July,6,None,0
+C18,Control,7/15/2020,July,7,None,0
+C18,Control,7/15/2020,July,8,None,0
+C18,Control,7/15/2020,July,9,None,0
+C18,Control,7/15/2020,July,10,None,0
+C18,Control,8/3/2020,August,1,None,0
+C18,Control,8/3/2020,August,2,None,0
+C18,Control,8/3/2020,August,3,None,0
+C18,Control,8/3/2020,August,4,None,0
+C18,Control,8/3/2020,August,5,None,0
+C18,Control,8/3/2020,August,6,None,0
+C18,Control,8/3/2020,August,7,None,0
+C18,Control,8/3/2020,August,8,None,0
+C18,Control,8/3/2020,August,9,None,0
+C18,Control,8/3/2020,August,10,None,0
+C19,Control,6/4/2020,June,1,Mertensia lanceolata,13
+C19,Control,6/4/2020,June,1,Fragaria virginiana,2
+C19,Control,6/4/2020,June,2,None,0
+C19,Control,6/4/2020,June,6,Mertensia lanceolata,3
+C19,Control,6/4/2020,June,3,Ribes cereum,36
+C19,Control,6/4/2020,June,7,Draba aurea,3
+C19,Control,6/4/2020,June,7,Mertensia lanceolata,12
+C19,Control,6/4/2020,June,4,Mertensia lanceolata,2
+C19,Control,6/4/2020,June,8,None,0
+C19,Control,6/4/2020,June,5,Draba aurea,3
+C19,Control,6/4/2020,June,9,None,0
+C19,Control,6/4/2020,June,10,None,0
+C19,Control,7/15/2020,July,1,None,0
+C19,Control,7/15/2020,July,2,None,0
+C19,Control,7/15/2020,July,3,None,0
+C19,Control,7/15/2020,July,4,None,0
+C19,Control,7/15/2020,July,5,None,0
+C19,Control,7/15/2020,July,6,None,0
+C19,Control,7/15/2020,July,7,None,0
+C19,Control,7/15/2020,July,8,None,0
+C19,Control,7/15/2020,July,9,None,0
+C19,Control,7/15/2020,July,10,Jamesia americana,2
+C19,Control,8/3/2020,August,1,None,0
+C19,Control,8/3/2020,August,2,None,0
+C19,Control,8/3/2020,August,3,None,0
+C19,Control,8/3/2020,August,4,None,0
+C19,Control,8/3/2020,August,5,None,0
+C19,Control,8/3/2020,August,6,None,0
+C19,Control,8/3/2020,August,7,None,0
+C19,Control,8/3/2020,August,8,None,0
+C19,Control,8/3/2020,August,9,None,0
+C19,Control,8/3/2020,August,10,None,0
+C20,Control,6/3/2020,June,1,Jamesia americana,3
+C20,Control,6/3/2020,June,2,None,0
+C20,Control,6/3/2020,June,3,Jamesia americana,1
+C20,Control,6/3/2020,June,4,Jamesia americana,1
+C20,Control,6/3/2020,June,5,None,0
+C20,Control,6/3/2020,June,6,None,0
+C20,Control,6/3/2020,June,7,None,0
+C20,Control,6/3/2020,June,8,None,0
+C20,Control,6/3/2020,June,9,None,0
+C20,Control,6/3/2020,June,10,None,0
+C20,Control,7/14/2020,July,1,Jamesia americana,2
+C20,Control,7/14/2020,July,2,Ribes cereum,0
+C20,Control,7/14/2020,July,3,Jamesia americana,0
+C20,Control,7/14/2020,July,4,None,0
+C20,Control,7/14/2020,July,5,None,0
+C20,Control,7/14/2020,July,6,Jamesia americana,1
+C20,Control,7/14/2020,July,7,Jamesia americana,1
+C20,Control,7/14/2020,July,8,Jamesia americana,0
+C20,Control,7/14/2020,July,9,None,0
+C20,Control,7/14/2020,July,10,None,0
+C20,Control,8/4/2020,August,1,None,0
+C20,Control,8/4/2020,August,2,None,0
+C20,Control,8/4/2020,August,3,None,0
+C20,Control,8/4/2020,August,4,None,0
+C20,Control,8/4/2020,August,5,None,0
+C20,Control,8/4/2020,August,6,None,0
+C20,Control,8/4/2020,August,7,None,0
+C20,Control,8/4/2020,August,8,None,0
+C20,Control,8/4/2020,August,9,None,0
+C20,Control,8/4/2020,August,10,None,0
+C21,Control,6/3/2020,June,1,Mertensia lanceolata,20
+C21,Control,6/3/2020,June,1,Ribes cereum,19
+C21,Control,6/3/2020,June,2,Mertensia lanceolata,9
+C21,Control,6/3/2020,June,2,Cerastium arvense,2
+C21,Control,6/3/2020,June,2,Physaria,2
+C21,Control,6/3/2020,June,2,Eriogonum umbellatum,2
+C21,Control,6/3/2020,June,3,Physaria,3
+C21,Control,6/3/2020,June,3,Purshia tridenta,65
+C21,Control,6/3/2020,June,3,Scutellaria brittonii,4
+C21,Control,6/3/2020,June,4,Physaria,11
+C21,Control,6/3/2020,June,4,Eriogonum umbellatum,2
+C21,Control,6/3/2020,June,5,Ribes cereum,2
+C21,Control,6/3/2020,June,6,Eriogonum umbellatum,2
+C21,Control,6/3/2020,June,6,Sedum lanceolatum,2
+C21,Control,6/3/2020,June,6,Astragalus drummondii,1
+C21,Control,6/3/2020,June,6,Physaria,6
+C21,Control,6/3/2020,June,7,Physaria,21
+C21,Control,6/3/2020,June,7,Eriogonum umbellatum,2
+C21,Control,6/3/2020,June,8,Cerastium arvense,5
+C21,Control,6/3/2020,June,9,None,0
+C21,Control,6/3/2020,June,10,Cerastium arvense,3
+C21,Control,6/3/2020,June,10,Delphinium nuttallianum,3
+C21,Control,6/3/2020,June,10,Harbouria trachypleura ,1
+C21,Control,7/14/2020,July,1,Geranium caespitosum,7
+C21,Control,7/14/2020,July,2,Geranium caespitosum,2
+C21,Control,7/14/2020,July,2,Eriogonum umbellatum,1
+C21,Control,7/14/2020,July,3,None,0
+C21,Control,7/14/2020,July,4,Eriogonum umbellatum,41
+C21,Control,7/14/2020,July,5,Eriogonum umbellatum,13
+C21,Control,7/14/2020,July,5,Geranium caespitosum,1
+C21,Control,7/14/2020,July,6,Eriogonum umbellatum,32
+C21,Control,7/14/2020,July,6,Heterotheca villosa,4
+C21,Control,7/14/2020,July,7,Geranium caespitosum,2
+C21,Control,7/14/2020,July,8,Eriogonum umbellatum,15
+C21,Control,7/14/2020,July,9,Eriogonum umbellatum,8
+C21,Control,7/14/2020,July,10,Eriogonum umbellatum,4
+C21,Control,8/4/2020,August,1,Geranium caespitosum,4
+C21,Control,8/4/2020,August,2,Geranium caespitosum,6
+C21,Control,8/4/2020,August,3,None,0
+C21,Control,8/4/2020,August,4,None,0
+C21,Control,8/4/2020,August,5,Geranium caespitosum,1
+C21,Control,8/4/2020,August,6,Eriogonum umbellatum,1
+C21,Control,8/4/2020,August,7,Heterotheca villosa,1
+C21,Control,8/4/2020,August,8,None,0
+C21,Control,8/4/2020,August,9,None,0
+C21,Control,8/4/2020,August,10,Symphyotrichum porteri,1
+C22,Control,6/5/2020,June,1,None,0
+C22,Control,6/5/2020,June,2,Maianthemum racemosum,3
+C22,Control,6/5/2020,June,6,Maianthemum racemosum,2
+C22,Control,6/5/2020,June,3,Maianthemum racemosum,4
+C22,Control,6/5/2020,June,3,Clematis columbiana,4
+C22,Control,6/5/2020,June,7,Maianthemum racemosum,3
+C22,Control,6/5/2020,June,4,None,0
+C22,Control,6/5/2020,June,8,Clematis columbiana,1
+C22,Control,6/5/2020,June,5,Maianthemum racemosum,1
+C22,Control,6/5/2020,June,9,None,0
+C22,Control,6/5/2020,June,10,Arnica cordifolia,1
+C22,Control,7/14/2020,July,1,None,0
+C22,Control,7/14/2020,July,2,None,0
+C22,Control,7/14/2020,July,3,None,0
+C22,Control,7/14/2020,July,4,Jamesia americana,2
+C22,Control,7/14/2020,July,5,None,0
+C22,Control,7/14/2020,July,6,None,0
+C22,Control,7/14/2020,July,7,None,0
+C22,Control,7/14/2020,July,8,None,0
+C22,Control,7/14/2020,July,9,None,0
+C22,Control,7/14/2020,July,10,None,0
+C22,Control,8/4/2020,August,1,None,0
+C22,Control,8/4/2020,August,2,None,0
+C22,Control,8/4/2020,August,3,None,0
+C22,Control,8/4/2020,August,4,None,0
+C22,Control,8/4/2020,August,5,None,0
+C22,Control,8/4/2020,August,6,None,0
+C22,Control,8/4/2020,August,7,None,0
+C22,Control,8/4/2020,August,8,None,0
+C22,Control,8/4/2020,August,9,None,0
+C22,Control,8/4/2020,August,10,None,0
+C23,Control,6/16/2020,June,1,Sedum lanceolatum,2
+C23,Control,6/16/2020,June,2,None,0
+C23,Control,6/16/2020,June,3,None,0
+C23,Control,6/16/2020,June,4,None,0
+C23,Control,6/16/2020,June,5,None,0
+C23,Control,6/16/2020,June,6,None,0
+C23,Control,6/16/2020,June,7,None,0
+C23,Control,6/16/2020,June,8,None,0
+C23,Control,6/16/2020,June,9,Harbouria trachypleura ,1
+C23,Control,6/16/2020,June,10,None,0
+C23,Control,7/20/2020,July,1,None,0
+C23,Control,7/20/2020,July,2,None,0
+C23,Control,7/20/2020,July,3,None,0
+C23,Control,7/20/2020,July,4,None,0
+C23,Control,7/20/2020,July,5,Harbouria trachypleura ,1
+C23,Control,7/20/2020,July,6,None,0
+C23,Control,7/20/2020,July,7,None,0
+C23,Control,7/20/2020,July,8,None,0
+C23,Control,7/20/2020,July,9,None,0
+C23,Control,7/20/2020,July,10,None,0
+C23,Control,8/10/2020,August,1,None,0
+C23,Control,8/10/2020,August,2,None,0
+C23,Control,8/10/2020,August,3,None,0
+C23,Control,8/10/2020,August,4,None,0
+C23,Control,8/10/2020,August,5,None,0
+C23,Control,8/10/2020,August,6,None,0
+C23,Control,8/10/2020,August,7,None,0
+C23,Control,8/10/2020,August,8,None,0
+C23,Control,8/10/2020,August,9,None,0
+C23,Control,8/10/2020,August,10,None,0
+C24,Control,6/16/2020,June,1,Mertensia lanceolata,1
+C24,Control,6/16/2020,June,2,None,0
+C24,Control,6/16/2020,June,3,Mertensia lanceolata,1
+C24,Control,6/16/2020,June,4,None,0
+C24,Control,6/16/2020,June,5,Cercocarpus montanus,3
+C24,Control,6/16/2020,June,6,None,0
+C24,Control,6/16/2020,June,7,None,0
+C24,Control,6/16/2020,June,8,None,0
+C24,Control,6/16/2020,June,9,None,0
+C24,Control,6/16/2020,June,10,None,0
+C24,Control,7/20/2020,July,1,None,0
+C24,Control,7/20/2020,July,2,None,0
+C24,Control,7/20/2020,July,3,None,0
+C24,Control,7/20/2020,July,4,None,0
+C24,Control,7/20/2020,July,5,None,0
+C24,Control,7/20/2020,July,6,None,0
+C24,Control,7/20/2020,July,7,Galium boreale,1
+C24,Control,7/20/2020,July,8,None,0
+C24,Control,7/20/2020,July,9,None,0
+C24,Control,7/20/2020,July,10,None,0
+C24,Control,8/10/2020,August,1,None,0
+C24,Control,8/10/2020,August,2,None,0
+C24,Control,8/10/2020,August,3,None,0
+C24,Control,8/10/2020,August,4,None,0
+C24,Control,8/10/2020,August,5,None,0
+C24,Control,8/10/2020,August,6,None,0
+C24,Control,8/10/2020,August,7,None,0
+C24,Control,8/10/2020,August,8,None,0
+C24,Control,8/10/2020,August,9,None,0
+C24,Control,8/10/2020,August,10,None,0
+C25,Control,6/16/2020,June,1,None,0
+C25,Control,6/16/2020,June,2,None,0
+C25,Control,6/16/2020,June,3,Harbouria trachypleura ,1
+C25,Control,6/16/2020,June,4,None,0
+C25,Control,6/16/2020,June,5,None,0
+C25,Control,6/16/2020,June,6,None,0
+C25,Control,6/16/2020,June,7,None,0
+C25,Control,6/16/2020,June,8,None,0
+C25,Control,6/16/2020,June,9,None,0
+C25,Control,6/16/2020,June,10,None,0
+C25,Control,7/21/2020,July,1,None,0
+C25,Control,7/21/2020,July,2,None,0
+C25,Control,7/21/2020,July,3,Harbouria trachypleura ,1
+C25,Control,7/21/2020,July,4,None,0
+C25,Control,7/21/2020,July,5,None,0
+C25,Control,7/21/2020,July,6,None,0
+C25,Control,7/21/2020,July,7,None,0
+C25,Control,7/21/2020,July,8,None,0
+C25,Control,7/21/2020,July,9,Harbouria trachypleura ,1
+C25,Control,7/21/2020,July,10,None,0
+C25,Control,8/11/2020,August,1,None,0
+C25,Control,8/11/2020,August,2,None,0
+C25,Control,8/11/2020,August,3,None,0
+C25,Control,8/11/2020,August,4,None,0
+C25,Control,8/11/2020,August,5,None,0
+C25,Control,8/11/2020,August,6,None,0
+C25,Control,8/11/2020,August,7,None,0
+C25,Control,8/11/2020,August,8,None,0
+C25,Control,8/11/2020,August,9,None,0
+C25,Control,8/11/2020,August,10,None,0
+C26,Control,6/16/2020,June,1,None,0
+C26,Control,6/16/2020,June,2,None,0
+C26,Control,6/16/2020,June,3,None,0
+C26,Control,6/16/2020,June,4,Antennaria parvifolia,3
+C26,Control,6/16/2020,June,5,None,0
+C26,Control,6/16/2020,June,6,None,0
+C26,Control,6/16/2020,June,7,None,0
+C26,Control,6/16/2020,June,8,None,0
+C26,Control,6/16/2020,June,9,None,0
+C26,Control,6/16/2020,June,10,None,0
+C26,Control,7/21/2020,July,1,None,0
+C26,Control,7/21/2020,July,2,None,0
+C26,Control,7/21/2020,July,3,None,0
+C26,Control,7/21/2020,July,4,None,0
+C26,Control,7/21/2020,July,5,None,0
+C26,Control,7/21/2020,July,6,None,0
+C26,Control,7/21/2020,July,7,None,0
+C26,Control,7/21/2020,July,8,None,0
+C26,Control,7/21/2020,July,9,None,0
+C26,Control,7/21/2020,July,10,None,0
+C26,Control,8/11/2020,August,1,None,0
+C26,Control,8/11/2020,August,2,None,0
+C26,Control,8/11/2020,August,3,None,0
+C26,Control,8/11/2020,August,4,None,0
+C26,Control,8/11/2020,August,5,None,0
+C26,Control,8/11/2020,August,6,None,0
+C26,Control,8/11/2020,August,7,None,0
+C26,Control,8/11/2020,August,8,None,0
+C26,Control,8/11/2020,August,9,None,0
+C26,Control,8/11/2020,August,10,None,0
+C27,Control,6/16/2020,June,10,Glycyrrhiza lepidota,14
+C27,Control,6/16/2020,June,1,Penstemon virens,54
+C27,Control,6/16/2020,June,2,Penstemon virens,23
+C27,Control,6/16/2020,June,2,Antennaria parvifolia,8
+C27,Control,6/16/2020,June,3,Penstemon virens,9
+C27,Control,6/16/2020,June,3,Cercocarpus montanus,4
+C27,Control,6/16/2020,June,4,Penstemon virens,2
+C27,Control,6/16/2020,June,5,Penstemon virens,32
+C27,Control,6/16/2020,June,6,None,0
+C27,Control,6/16/2020,June,7,Penstemon virens,18
+C27,Control,6/16/2020,June,7,Antennaria parvifolia,12
+C27,Control,6/16/2020,June,7,Oxytropis lambertii,12
+C27,Control,6/16/2020,June,7,Cercocarpus montanus,2
+C27,Control,6/16/2020,June,8,Oxytropis lambertii,1
+C27,Control,6/16/2020,June,9,Penstemon virens,12
+C27,Control,7/21/2020,July,1,Heterotheca villosa,1
+C27,Control,7/21/2020,July,2,Heterotheca villosa,1
+C27,Control,7/21/2020,July,3,None,0
+C27,Control,7/21/2020,July,4,Heterotheca villosa,2
+C27,Control,7/21/2020,July,5,None,0
+C27,Control,7/21/2020,July,6,None,0
+C27,Control,7/21/2020,July,7,Campanula rotundifolia,2
+C27,Control,7/21/2020,July,8,None,0
+C27,Control,7/21/2020,July,9,Symphyotrichum porteri,2
+C27,Control,7/21/2020,July,10,Heterotheca villosa,4
+C27,Control,8/11/2020,August,1,Heterotheca villosa,1
+C27,Control,8/11/2020,August,2,Heterotheca villosa,2
+C27,Control,8/11/2020,August,2,Campanula rotundifolia,1
+C27,Control,8/11/2020,August,3,Heterotheca villosa,2
+C27,Control,8/11/2020,August,3,Symphyotrichum porteri,5
+C27,Control,8/11/2020,August,4,Heterotheca villosa,1
+C27,Control,8/11/2020,August,5,None,0
+C27,Control,8/11/2020,August,6,Heterotheca villosa,2
+C27,Control,8/11/2020,August,6,Helianthus pauciflorus,1
+C27,Control,8/11/2020,August,7,Castilleja integra,1
+C27,Control,8/11/2020,August,7,Campanula rotundifolia,1
+C27,Control,8/11/2020,August,8,None,0
+C27,Control,8/11/2020,August,9,None,0
+C27,Control,8/11/2020,August,10,None,0
+C28,Control,6/16/2020,June,3,Oxytropis sericea ,2
+C28,Control,6/16/2020,June,7,Oxytropis sericea ,1
+C28,Control,6/16/2020,June,1,None,0
+C28,Control,6/16/2020,June,2,None,0
+C28,Control,6/16/2020,June,4,None,0
+C28,Control,6/16/2020,June,5,None,0
+C28,Control,6/16/2020,June,6,Artemisia frigida,0
+C28,Control,6/16/2020,June,8,None,0
+C28,Control,6/16/2020,June,9,None,0
+C28,Control,6/16/2020,June,10,None,0
+C28,Control,7/21/2020,July,1,None,0
+C28,Control,7/21/2020,July,2,None,0
+C28,Control,7/21/2020,July,3,None,0
+C28,Control,7/21/2020,July,4,None,0
+C28,Control,7/21/2020,July,5,None,0
+C28,Control,7/21/2020,July,6,None,0
+C28,Control,7/21/2020,July,7,None,0
+C28,Control,7/21/2020,July,8,Heterotheca villosa,3
+C28,Control,7/21/2020,July,9,None,0
+C28,Control,7/21/2020,July,10,None,0
+C28,Control,8/11/2020,August,1,None,0
+C28,Control,8/11/2020,August,2,None,0
+C28,Control,8/11/2020,August,3,Heterotheca villosa,2
+C28,Control,8/11/2020,August,4,None,0
+C28,Control,8/11/2020,August,5,None,0
+C28,Control,8/11/2020,August,6,None,0
+C28,Control,8/11/2020,August,7,None,0
+C28,Control,8/11/2020,August,8,Artemisia frigida,2
+C28,Control,8/11/2020,August,9,Achillea millefolium,1
+C28,Control,8/11/2020,August,10,None,0
+C29,Control,6/16/2020,June,1,Jamesia americana,2
+C29,Control,6/16/2020,June,2,Jamesia americana,23
+C29,Control,6/16/2020,June,3,None,0
+C29,Control,6/16/2020,June,4,Jamesia americana,10
+C29,Control,6/16/2020,June,5,None,0
+C29,Control,6/16/2020,June,6,None,0
+C29,Control,6/16/2020,June,7,None,0
+C29,Control,6/16/2020,June,8,None,0
+C29,Control,6/16/2020,June,9,Jamesia americana,17
+C29,Control,6/16/2020,June,10,None,0
+C29,Control,7/21/2020,July,1,None,0
+C29,Control,7/21/2020,July,2,Arctostaphylos uva-ursi,0
+C29,Control,7/21/2020,July,2,Antennaria parvifolia,0
+C29,Control,7/21/2020,July,3,None,0
+C29,Control,7/21/2020,July,4,None,0
+C29,Control,7/21/2020,July,5,None,0
+C29,Control,7/21/2020,July,6,Geranium caespitosum,0
+C29,Control,7/21/2020,July,7,Antennaria parvifolia,0
+C29,Control,7/21/2020,July,8,Clematis columbiana,0
+C29,Control,7/21/2020,July,9,Clematis columbiana,0
+C29,Control,7/21/2020,July,10,Achillea millefolium,2
+C29,Control,8/11/2020,August,1,None,0
+C29,Control,8/11/2020,August,2,None,0
+C29,Control,8/11/2020,August,3,None,0
+C29,Control,8/11/2020,August,4,None,0
+C29,Control,8/11/2020,August,5,None,0
+C29,Control,8/11/2020,August,6,None,0
+C29,Control,8/11/2020,August,7,None,0
+C29,Control,8/11/2020,August,8,None,0
+C29,Control,8/11/2020,August,9,None,0
+C29,Control,8/11/2020,August,10,None,0
+C30,Control,6/16/2020,June,1,None,0
+C30,Control,6/16/2020,June,2,None,0
+C30,Control,6/16/2020,June,3,None,0
+C30,Control,6/16/2020,June,4,None,0
+C30,Control,6/16/2020,June,5,None,0
+C30,Control,6/16/2020,June,6,None,0
+C30,Control,6/16/2020,June,7,None,0
+C30,Control,6/16/2020,June,8,Androsace septentrionalis,3
+C30,Control,6/16/2020,June,9,None,0
+C30,Control,6/16/2020,June,10,Antennaria parvifolia,2
+C30,Control,7/21/2020,July,1,None,0
+C30,Control,7/21/2020,July,2,None,0
+C30,Control,7/21/2020,July,3,None,0
+C30,Control,7/21/2020,July,4,None,0
+C30,Control,7/21/2020,July,5,None,0
+C30,Control,7/21/2020,July,6,None,0
+C30,Control,7/21/2020,July,7,None,0
+C30,Control,7/21/2020,July,8,None,0
+C30,Control,7/21/2020,July,9,None,0
+C30,Control,7/21/2020,July,10,None,0
+C30,Control,8/11/2020,August,1,None,0
+C30,Control,8/11/2020,August,2,None,0
+C30,Control,8/11/2020,August,3,None,0
+C30,Control,8/11/2020,August,4,None,0
+C30,Control,8/11/2020,August,5,None,0
+C30,Control,8/11/2020,August,6,None,0
+C30,Control,8/11/2020,August,7,None,0
+C30,Control,8/11/2020,August,8,None,0
+C30,Control,8/11/2020,August,9,None,0
+C30,Control,8/11/2020,August,10,None,0
+T1,Thinned ,6/2/2020,June,2,Androsace septentrionalis,6
+T1,Thinned ,6/2/2020,June,2,Antennaria rosea,0
+T1,Thinned ,6/2/2020,June,9,Antennaria rosea,1
+T1,Thinned ,6/2/2020,June,9,Androsace septentrionalis,17
+T1,Thinned ,6/2/2020,June,1,None,0
+T1,Thinned ,6/2/2020,June,2,Artemisia frigida,0
+T1,Thinned ,6/2/2020,June,2,Penstemon virens,0
+T1,Thinned ,6/2/2020,June,3,None,0
+T1,Thinned ,6/2/2020,June,4,Arctostaphylos uva-ursi,10
+T1,Thinned ,6/2/2020,June,4,Packera fendleri,20
+T1,Thinned ,6/2/2020,June,5,Arctostaphylos uva-ursi,3
+T1,Thinned ,6/2/2020,June,6,Androsace septentrionalis,3
+T1,Thinned ,6/2/2020,June,6,Artemisia frigida,0
+T1,Thinned ,6/2/2020,June,6,Sedum lanceolatum,0
+T1,Thinned ,6/2/2020,June,7,Potentilla,0
+T1,Thinned ,6/2/2020,June,8,Potentilla,3
+T1,Thinned ,6/2/2020,June,8,Arctostaphylos uva-ursi,20
+T1,Thinned ,6/2/2020,June,8,Androsace septentrionalis,4
+T1,Thinned ,6/2/2020,June,9,Mertensia lanceolata,3
+T1,Thinned ,6/2/2020,June,9,Potentilla,0
+T1,Thinned ,6/2/2020,June,9,Androsace septentrionalis,6
+T1,Thinned ,6/2/2020,June,10,Arctostaphylos uva-ursi,15
+T1,Thinned ,7/15/2020,July,1,Geranium caespitosum,1
+T1,Thinned ,7/15/2020,July,2,Sedum lanceolatum,10
+T1,Thinned ,7/15/2020,July,3,None,0
+T1,Thinned ,7/15/2020,July,4,None,0
+T1,Thinned ,7/15/2020,July,5,Sedum lanceolatum,2
+T1,Thinned ,7/15/2020,July,6,Sedum lanceolatum,3
+T1,Thinned ,7/15/2020,July,6,Androsace septentrionalis,2
+T1,Thinned ,7/15/2020,July,7,None,0
+T1,Thinned ,7/15/2020,July,8,Sedum lanceolatum,4
+T1,Thinned ,7/15/2020,July,9,None,0
+T1,Thinned ,7/15/2020,July,10,None,0
+T1,Thinned ,8/3/2020,August,1,None,0
+T1,Thinned ,8/3/2020,August,2,None,0
+T1,Thinned ,8/3/2020,August,3,None,0
+T1,Thinned ,8/3/2020,August,4,Geranium caespitosum,2
+T1,Thinned ,8/3/2020,August,5,None,0
+T1,Thinned ,8/3/2020,August,6,None,0
+T1,Thinned ,8/3/2020,August,7,Solidago missouriensis,3
+T1,Thinned ,8/3/2020,August,8,Solidago multriadiata,7
+T1,Thinned ,8/3/2020,August,9,None,0
+T1,Thinned ,8/3/2020,August,10,None,0
+T10,Thinned ,6/8/2020,June,1,None,0
+T10,Thinned ,6/8/2020,June,2,None,0
+T10,Thinned ,6/8/2020,June,3,Penstemon virens,6
+T10,Thinned ,6/8/2020,June,4,None,0
+T10,Thinned ,6/8/2020,June,5,None,0
+T10,Thinned ,6/8/2020,June,6,Penstemon virens,63
+T10,Thinned ,6/8/2020,June,7,None,0
+T10,Thinned ,6/8/2020,June,8,Stenaria nigricans,2
+T10,Thinned ,6/8/2020,June,9,Penstemon virens,4
+T10,Thinned ,6/8/2020,June,10,None,0
+T10,Thinned ,8/10/2020,August,1,None,0
+T10,Thinned ,8/10/2020,August,2,None,0
+T10,Thinned ,8/10/2020,August,3,None,0
+T10,Thinned ,8/10/2020,August,4,None,0
+T10,Thinned ,8/10/2020,August,5,None,0
+T10,Thinned ,8/10/2020,August,6,Verbascum thapsus,4
+T10,Thinned ,8/10/2020,August,7,Allium cernuum ,6
+T10,Thinned ,8/10/2020,August,8,None,0
+T10,Thinned ,8/10/2020,August,9,None,0
+T10,Thinned ,8/10/2020,August,10,None,0
+T10,Thinned ,7/20/2020,July,1,None,0
+T10,Thinned ,7/20/2020,July,2,None,0
+T10,Thinned ,7/20/2020,July,3,None,0
+T10,Thinned ,7/20/2020,July,4,None,0
+T10,Thinned ,7/20/2020,July,5,None,0
+T10,Thinned ,7/20/2020,July,6,None,0
+T10,Thinned ,7/20/2020,July,7,None,0
+T10,Thinned ,7/20/2020,July,8,None,0
+T10,Thinned ,7/20/2020,July,9,None,0
+T10,Thinned ,7/20/2020,July,10,Verbascum thapsus,5
+T11,Thinned ,6/15/2020,June,7,Lupinus argenteus ,19
+T11,Thinned ,6/15/2020,June,9,Lupinus argenteus ,13
+T11,Thinned ,6/15/2020,June,10,Erigeron divergens,1
+T11,Thinned ,6/15/2020,June,10,Lupinus argenteus ,14
+T11,Thinned ,7/20/2020,July,7,Lupinus argenteus ,20
+T11,Thinned ,7/20/2020,July,9,Lupinus argenteus ,10
+T11,Thinned ,6/15/2020,June,1,Ribes cereum,0
+T11,Thinned ,6/15/2020,June,2,None,0
+T11,Thinned ,6/15/2020,June,3,Mertensia lanceolata,2
+T11,Thinned ,6/15/2020,June,4,Geranium caespitosum,1
+T11,Thinned ,6/15/2020,June,4,Astragalus miser,10
+T11,Thinned ,6/15/2020,June,5,None,0
+T11,Thinned ,6/15/2020,June,6,Mertensia lanceolata,4
+T11,Thinned ,6/15/2020,June,7,Penstemon virens,122
+T11,Thinned ,6/15/2020,June,8,Penstemon virens,5
+T11,Thinned ,6/15/2020,June,9,Penstemon virens,5
+T11,Thinned ,6/15/2020,June,9,Achillea millefolium,2
+T11,Thinned ,6/15/2020,June,10,Geranium caespitosum,1
+T11,Thinned ,7/20/2020,July,1,None,0
+T11,Thinned ,7/20/2020,July,2,None,0
+T11,Thinned ,7/20/2020,July,3,None,0
+T11,Thinned ,7/20/2020,July,4,None,0
+T11,Thinned ,7/20/2020,July,5,Heterotheca villosa,2
+T11,Thinned ,7/20/2020,July,6,None,0
+T11,Thinned ,7/20/2020,July,8,Heterotheca villosa,6
+T11,Thinned ,7/20/2020,July,8,Achillea millefolium,3
+T11,Thinned ,7/20/2020,July,9,Heterotheca villosa,20
+T11,Thinned ,7/20/2020,July,10,Verbascum thapsus,10
+T11,Thinned ,8/10/2020,August,1,None,0
+T11,Thinned ,8/10/2020,August,2,None,0
+T11,Thinned ,8/10/2020,August,3,Heterotheca villosa,5
+T11,Thinned ,8/10/2020,August,4,Achillea millefolium,1
+T11,Thinned ,8/10/2020,August,5,Heterotheca villosa,2
+T11,Thinned ,8/10/2020,August,6,None,0
+T11,Thinned ,8/10/2020,August,7,None,0
+T11,Thinned ,8/10/2020,August,8,Achillea millefolium,6
+T11,Thinned ,8/10/2020,August,8,Verbascum thapsus,14
+T11,Thinned ,8/10/2020,August,8,Heterotheca villosa,7
+T11,Thinned ,8/10/2020,August,9,None,0
+T11,Thinned ,8/10/2020,August,10,None,0
+T12,Thinned ,6/8/2020,June,6,Antennaria parvifolia,2
+T12,Thinned ,6/8/2020,June,9,Antennaria parvifolia,1
+T12,Thinned ,6/8/2020,June,1,Mertensia lanceolata,1
+T12,Thinned ,6/8/2020,June,2,Erysimum asperum,6
+T12,Thinned ,6/8/2020,June,3,None,0
+T12,Thinned ,6/8/2020,June,4,None,0
+T12,Thinned ,6/8/2020,June,5,Mertensia lanceolata,4
+T12,Thinned ,6/8/2020,June,6,Penstemon virens,5
+T12,Thinned ,6/8/2020,June,7,Mertensia lanceolata,1
+T12,Thinned ,6/8/2020,June,8,None,0
+T12,Thinned ,6/8/2020,June,10,Penstemon virens,14
+T12,Thinned ,7/20/2020,July,1,None,0
+T12,Thinned ,7/20/2020,July,2,None,0
+T12,Thinned ,7/20/2020,July,3,None,0
+T12,Thinned ,7/20/2020,July,4,Sedum lanceolatum,2
+T12,Thinned ,7/20/2020,July,5,None,0
+T12,Thinned ,7/20/2020,July,6,Achillea millefolium,5
+T12,Thinned ,7/20/2020,July,7,None,0
+T12,Thinned ,7/20/2020,July,8,None,0
+T12,Thinned ,7/20/2020,July,8,None,0
+T12,Thinned ,7/20/2020,July,9,None,0
+T12,Thinned ,7/20/2020,July,10,Campanula rotundifolia,1
+T12,Thinned ,8/10/2020,August,1,None,0
+T12,Thinned ,8/10/2020,August,2,None,0
+T12,Thinned ,8/10/2020,August,3,None,0
+T12,Thinned ,8/10/2020,August,4,None,0
+T12,Thinned ,8/10/2020,August,5,None,0
+T12,Thinned ,8/10/2020,August,6,None,0
+T12,Thinned ,8/10/2020,August,7,Achillea millefolium,3
+T12,Thinned ,8/10/2020,August,8,None,1
+T12,Thinned ,8/10/2020,August,9,None,1
+T12,Thinned ,8/10/2020,August,10,Allium cernuum ,4
+T13,Thinned ,7/20/2020,July,4,Symphyotrichum porteri,3
+T13,Thinned ,7/20/2020,July,5,Erigeron flagellaris,2
+T13,Thinned ,6/8/2020,June,1,Penstemon virens,47
+T13,Thinned ,6/8/2020,June,2,Harbouria trachypleura,4
+T13,Thinned ,6/8/2020,June,2,Oxytropis lambertii,2
+T13,Thinned ,6/8/2020,June,2,Lithospermum incisum,1
+T13,Thinned ,6/8/2020,June,3,Penstemon virens,10
+T13,Thinned ,6/8/2020,June,4,Penstemon virens,7
+T13,Thinned ,6/8/2020,June,5,Mertensia lanceolata,3
+T13,Thinned ,6/8/2020,June,6,Penstemon virens,2
+T13,Thinned ,6/8/2020,June,7,Penstemon virens,47
+T13,Thinned ,6/8/2020,June,7,Harbouria trachypleura,1
+T13,Thinned ,6/8/2020,June,7,Packera fendleri,1
+T13,Thinned ,6/8/2020,June,8,None,0
+T13,Thinned ,6/8/2020,June,9,Penstemon virens,9
+T13,Thinned ,6/8/2020,June,10,Packera fendleri,15
+T13,Thinned ,7/20/2020,July,1,Solidago missouriensis,1
+T13,Thinned ,7/20/2020,July,2,Allium cernuum ,5
+T13,Thinned ,7/20/2020,July,3,Heterotheca villosa,8
+T13,Thinned ,7/20/2020,July,5,Achillea millefolium,1
+T13,Thinned ,7/20/2020,July,6,None,0
+T13,Thinned ,7/20/2020,July,7,Heterotheca villosa,1
+T13,Thinned ,7/20/2020,July,7,Oxytropis lambertii,2
+T13,Thinned ,7/20/2020,July,8,None,0
+T13,Thinned ,7/20/2020,July,9,Heterotheca villosa,11
+T13,Thinned ,7/20/2020,July,10,Heterotheca villosa,30
+T13,Thinned ,8/10/2020,August,1,Solidago missouriensis,1
+T13,Thinned ,8/10/2020,August,2,Heterotheca villosa,1
+T13,Thinned ,8/10/2020,August,3,Heterotheca villosa,2
+T13,Thinned ,8/10/2020,August,3,Symphyotrichum porteri,1
+T13,Thinned ,8/10/2020,August,4,None,0
+T13,Thinned ,8/10/2020,August,5,None,0
+T13,Thinned ,8/10/2020,August,6,Achillea millefolium,1
+T13,Thinned ,8/10/2020,August,7,Heterotheca villosa,3
+T13,Thinned ,8/10/2020,August,8,Symphyotrichum porteri,4
+T13,Thinned ,8/10/2020,August,9,Symphyotrichum porteri,10
+T13,Thinned ,8/10/2020,August,9,Heterotheca villosa,2
+T13,Thinned ,8/10/2020,August,10,Allium cernuum ,2
+T14,Thinned ,6/8/2020,June,1,None,0
+T14,Thinned ,6/8/2020,June,2,Packera fendleri,2
+T14,Thinned ,6/8/2020,June,3,Packera fendleri,1
+T14,Thinned ,6/8/2020,June,3,Cercocarpus montanus,6
+T14,Thinned ,6/8/2020,June,4,Erigeron compositus,2
+T14,Thinned ,6/8/2020,June,5,None,0
+T14,Thinned ,6/8/2020,June,6,None,0
+T14,Thinned ,6/8/2020,June,7,Penstemon virens,10
+T14,Thinned ,6/8/2020,June,8,Penstemon virens,2
+T14,Thinned ,6/8/2020,June,9,None,0
+T14,Thinned ,6/8/2020,June,10,None,0
+T14,Thinned ,7/20/2020,July,1,None,0
+T14,Thinned ,7/20/2020,July,2,None,0
+T14,Thinned ,7/20/2020,July,3,Potentilla pensylvanica,0
+T14,Thinned ,7/20/2020,July,4,None,0
+T14,Thinned ,7/20/2020,July,5,None,0
+T14,Thinned ,7/20/2020,July,6,None,0
+T14,Thinned ,7/20/2020,July,7,Arctostaphylos uva-ursi,0
+T14,Thinned ,7/20/2020,July,8,None,0
+T14,Thinned ,7/20/2020,July,9,Solidago missouriensis,6
+T14,Thinned ,7/20/2020,July,10,Geranium caespitosum,1
+T14,Thinned ,7/20/2020,July,10,Cirsium arvense ,6
+T14,Thinned ,8/10/2020,August,1,None,0
+T14,Thinned ,8/10/2020,August,2,None,0
+T14,Thinned ,8/10/2020,August,3,None,0
+T14,Thinned ,8/10/2020,August,4,None,0
+T14,Thinned ,8/10/2020,August,5,None,0
+T14,Thinned ,8/10/2020,August,6,Allium cernuum ,2
+T14,Thinned ,8/10/2020,August,7,None,0
+T14,Thinned ,8/10/2020,August,8,None,0
+T14,Thinned ,8/10/2020,August,9,Symphyotrichum porteri,13
+T14,Thinned ,8/10/2020,August,9,Conyza canadensis,10
+T14,Thinned ,8/10/2020,August,10,Geranium caespitosum,2
+T15,Thinned ,8/10/2020,August,10,Symphyotrichum laeve,1
+T15,Thinned ,6/8/2020,June,9,Antennaria parvifolia,2
+T15,Thinned ,6/8/2020,June,1,None,0
+T15,Thinned ,6/8/2020,June,2,Harbouria trachypleura,1
+T15,Thinned ,6/8/2020,June,2,Mertensia lanceolata,1
+T15,Thinned ,6/8/2020,June,3,Lithospermum incisum,4
+T15,Thinned ,6/8/2020,June,4,Penstemon virens,62
+T15,Thinned ,6/8/2020,June,4,Geranium caespitosum,1
+T15,Thinned ,6/8/2020,June,5,Penstemon virens,5
+T15,Thinned ,6/8/2020,June,5,Mertensia lanceolata,2
+T15,Thinned ,6/8/2020,June,6,Potentilla pensylvanica,1
+T15,Thinned ,6/8/2020,June,7,None,0
+T15,Thinned ,6/8/2020,June,8,Potentilla pensylvanica,1
+T15,Thinned ,6/8/2020,June,10,Harbouria trachypleura,1
+T15,Thinned ,6/8/2020,June,10,Lithospermum incisum,2
+T15,Thinned ,7/20/2020,July,1,None,0
+T15,Thinned ,7/20/2020,July,2,None,0
+T15,Thinned ,7/20/2020,July,3,None,0
+T15,Thinned ,7/20/2020,July,4,None,0
+T15,Thinned ,7/20/2020,July,5,Erigeron speciosus,2
+T15,Thinned ,7/20/2020,July,6,None,0
+T15,Thinned ,7/20/2020,July,7,None,0
+T15,Thinned ,7/20/2020,July,8,Geranium caespitosum,2
+T15,Thinned ,7/20/2020,July,8,Allium cernuum ,4
+T15,Thinned ,7/20/2020,July,9,Geranium caespitosum,1
+T15,Thinned ,7/20/2020,July,10,Achillea millefolium,2
+T15,Thinned ,8/10/2020,August,1,None,0
+T15,Thinned ,8/10/2020,August,2,None,0
+T15,Thinned ,8/10/2020,August,3,Potentilla pensylvanica,1
+T15,Thinned ,8/10/2020,August,4,None,0
+T15,Thinned ,8/10/2020,August,5,None,0
+T15,Thinned ,8/10/2020,August,6,None,0
+T15,Thinned ,8/10/2020,August,7,Potentilla pensylvanica,1
+T15,Thinned ,8/10/2020,August,8,None,0
+T15,Thinned ,8/10/2020,August,9,None,0
+T2,Thinned ,6/2/2020,June,7,Antennaria parvifolia,22
+T2,Thinned ,6/2/2020,June,1,Artemisia frigida,0
+T2,Thinned ,6/2/2020,June,1,Mertensia lanceolata,1
+T2,Thinned ,6/2/2020,June,2,Arctostaphylos uva-ursi,5
+T2,Thinned ,6/2/2020,June,2,Turritis glabra,8
+T2,Thinned ,6/2/2020,June,2,Packera fendleri,1
+T2,Thinned ,6/2/2020,June,2,Artemisia frigida,0
+T2,Thinned ,6/2/2020,June,2,Penstemon virens,0
+T2,Thinned ,6/2/2020,June,3,Packera fendleri,11
+T2,Thinned ,6/2/2020,June,3,Thermopsis rhombifolia,3
+T2,Thinned ,6/2/2020,June,3,Harbouria trachypleura ,2
+T2,Thinned ,6/2/2020,June,4,Turritis glabra,1
+T2,Thinned ,6/2/2020,June,4,Thermopsis rhombifolia,16
+T2,Thinned ,6/2/2020,June,4,Arctostaphylos uva-ursi,1
+T2,Thinned ,6/2/2020,June,4,Eriogonum umbellatum,0
+T2,Thinned ,6/2/2020,June,4,Erysimum capitatum,1
+T2,Thinned ,6/2/2020,June,5,Mertensia lanceolata,1
+T2,Thinned ,6/2/2020,June,5,Packera fendleri,1
+T2,Thinned ,6/2/2020,June,5,Androsace septentrionalis,2
+T2,Thinned ,6/2/2020,June,5,Turritis glabra,1
+T2,Thinned ,6/2/2020,June,6,Erysimum capitatum,12
+T2,Thinned ,6/2/2020,June,6,Artemisia frigida,0
+T2,Thinned ,6/2/2020,June,7,Arctostaphylos uva-ursi,3
+T2,Thinned ,6/2/2020,June,8,Chaetopappa ericoides,32
+T2,Thinned ,6/2/2020,June,8,Thermopsis rhombifolia,2
+T2,Thinned ,6/2/2020,June,8,Turritis glabra,2
+T2,Thinned ,6/2/2020,June,9,Antennaria parvifolia,43
+T2,Thinned ,6/2/2020,June,9,Cerastium arvense,41
+T2,Thinned ,6/2/2020,June,9,Arctostaphylos uva-ursi,2
+T2,Thinned ,6/2/2020,June,9,Senecio integerrimus,3
+T2,Thinned ,6/2/2020,June,10,Arctostaphylos uva-ursi,1
+T2,Thinned ,7/15/2020,July,1,Heterotheca villosa,1
+T2,Thinned ,7/15/2020,July,2,Sedum lanceolatum,25
+T2,Thinned ,7/15/2020,July,2,Packera fendleri,2
+T2,Thinned ,7/15/2020,July,3,Packera fendleri,3
+T2,Thinned ,7/15/2020,July,4,None,0
+T2,Thinned ,7/15/2020,July,5,Sedum lanceolatum,12
+T2,Thinned ,7/15/2020,July,6,Heterotheca villosa,1
+T2,Thinned ,7/15/2020,July,6,Eriogonum umbellatum,14
+T2,Thinned ,7/15/2020,July,7,None,0
+T2,Thinned ,7/15/2020,July,8,Heterotheca villosa,4
+T2,Thinned ,7/15/2020,July,9,Heterotheca villosa,14
+T2,Thinned ,7/15/2020,July,10,Sedum lanceolatum,28
+T2,Thinned ,8/3/2020,August,1,Heterotheca villosa,1
+T2,Thinned ,8/3/2020,August,2,None,0
+T2,Thinned ,8/3/2020,August,3,None,0
+T2,Thinned ,8/3/2020,August,4,Heterotheca villosa,3
+T2,Thinned ,8/3/2020,August,5,Heterotheca villosa,4
+T2,Thinned ,8/3/2020,August,6,None,0
+T2,Thinned ,8/3/2020,August,7,Heterotheca villosa,1
+T2,Thinned ,8/3/2020,August,8,Heterotheca villosa,5
+T2,Thinned ,8/3/2020,August,9,Achillea millefolium,2
+T2,Thinned ,8/3/2020,August,9,Artemisia frigida,1
+T2,Thinned ,8/3/2020,August,10,Oreocarya virgata,4
+T3,Thinned ,6/4/2020,June,2,Antennaria parvifolia,18
+T3,Thinned ,6/4/2020,June,3,Antennaria parvifolia,7
+T3,Thinned ,6/4/2020,June,4,Antennaria parvifolia,2
+T3,Thinned ,6/4/2020,June,8,Antennaria parvifolia,2
+T3,Thinned ,6/4/2020,June,9,Antennaria parvifolia,9
+T3,Thinned ,6/4/2020,June,1,None,0
+T3,Thinned ,6/4/2020,June,6,Arctostaphylos uva-ursi,7
+T3,Thinned ,6/4/2020,June,7,Penstemon virens,1
+T3,Thinned ,6/4/2020,June,5,None,0
+T3,Thinned ,6/4/2020,June,9,Turritis glabra,2
+T3,Thinned ,6/4/2020,June,10,None,0
+T3,Thinned ,7/15/2020,July,1,None,0
+T3,Thinned ,7/15/2020,July,2,None,0
+T3,Thinned ,7/15/2020,July,3,Antennaria parvifolia,3
+T3,Thinned ,7/15/2020,July,4,Sedum lanceolatum,2
+T3,Thinned ,7/15/2020,July,5,Sedum lanceolatum,5
+T3,Thinned ,7/15/2020,July,6,Antennaria parvifolia,4
+T3,Thinned ,7/15/2020,July,7,None,0
+T3,Thinned ,7/15/2020,July,8,Sedum lanceolatum,10
+T3,Thinned ,7/15/2020,July,8,Packera fendleri,3
+T3,Thinned ,7/15/2020,July,9,Sedum lanceolatum,12
+T3,Thinned ,7/15/2020,July,9,Packera fendleri,2
+T3,Thinned ,7/15/2020,July,10,None,0
+T3,Thinned ,8/3/2020,August,1,Artemisia frigida,2
+T3,Thinned ,8/3/2020,August,2,None,0
+T3,Thinned ,8/3/2020,August,3,None,0
+T3,Thinned ,8/3/2020,August,4,None,0
+T3,Thinned ,8/3/2020,August,5,None,0
+T3,Thinned ,8/3/2020,August,6,None,0
+T3,Thinned ,8/3/2020,August,7,Solidago missouriensis,2
+T3,Thinned ,8/3/2020,August,8,None,0
+T3,Thinned ,8/3/2020,August,9,None,0
+T3,Thinned ,8/3/2020,August,10,Geranium caespitosum,1
+T4,Thinned ,6/4/2020,June,3,Erigeron,7
+T4,Thinned ,6/4/2020,June,3,Draba aurea,4
+T4,Thinned ,6/4/2020,June,5,Erigeron,2
+T4,Thinned ,6/4/2020,June,6,Erigeron,8
+T4,Thinned ,6/4/2020,June,6,Draba aurea,3
+T4,Thinned ,6/4/2020,June,6,Antennaria parvifolia,2
+T4,Thinned ,6/4/2020,June,7,Erigeron,1
+T4,Thinned ,6/4/2020,June,8,Erigeron,15
+T4,Thinned ,6/4/2020,June,8,Draba aurea,10
+T4,Thinned ,6/4/2020,June,10,Erigeron,15
+T4,Thinned ,6/4/2020,June,1,None,0
+T4,Thinned ,6/4/2020,June,2,None,0
+T4,Thinned ,6/4/2020,June,4,None,0
+T4,Thinned ,6/4/2020,June,8,Androsace septentrionalis,8
+T4,Thinned ,6/4/2020,June,8,Arctostaphylos uva-ursi,5
+T4,Thinned ,6/4/2020,June,9,Androsace septentrionalis,2
+T4,Thinned ,6/4/2020,June,10,Androsace septentrionalis,6
+T4,Thinned ,6/4/2020,June,10,Arctostaphylos uva-ursi,2
+T4,Thinned ,7/15/2020,July,1,Packera fendleri,8
+T4,Thinned ,7/15/2020,July,2,None,0
+T4,Thinned ,7/15/2020,July,3,Antennaria parvifolia,4
+T4,Thinned ,7/15/2020,July,4,None,0
+T4,Thinned ,7/15/2020,July,5,Sedum lanceolatum,5
+T4,Thinned ,7/15/2020,July,6,None,0
+T4,Thinned ,7/15/2020,July,7,Packera fendleri,2
+T4,Thinned ,7/15/2020,July,8,Sedum lanceolatum,11
+T4,Thinned ,7/15/2020,July,9,None,0
+T4,Thinned ,7/15/2020,July,10,Sedum lanceolatum,20
+T4,Thinned ,8/3/2020,August,1,None,0
+T4,Thinned ,8/3/2020,August,2,None,0
+T4,Thinned ,8/3/2020,August,3,None,0
+T4,Thinned ,8/3/2020,August,4,None,0
+T4,Thinned ,8/3/2020,August,5,None,0
+T4,Thinned ,8/3/2020,August,6,None,0
+T4,Thinned ,8/3/2020,August,7,None,0
+T4,Thinned ,8/3/2020,August,8,Solidago missouriensis,12
+T4,Thinned ,8/3/2020,August,9,None,0
+T4,Thinned ,8/3/2020,August,10,Eremogone fendieri,2
+T4,Thinned ,8/3/2020,August,10,Solidago missouriensis,2
+T5,Thinned ,6/5/2020,June,6,Antennaria parvifolia,2
+T5,Thinned ,6/5/2020,June,8,Antennaria parvifolia,11
+T5,Thinned ,6/5/2020,June,9,Antennaria parvifolia,2
+T5,Thinned ,6/5/2020,June,1,Penstemon virens,1
+T5,Thinned ,6/5/2020,June,2,None,0
+T5,Thinned ,6/5/2020,June,6,Fragaria virginiana,1
+T5,Thinned ,6/5/2020,June,3,Penstemon virens,8
+T5,Thinned ,6/5/2020,June,3,Androsace septentrionalis,3
+T5,Thinned ,6/5/2020,June,7,Potentilla,1
+T5,Thinned ,6/5/2020,June,4,None,0
+T5,Thinned ,6/5/2020,June,5,Jamesia americana,0
+T5,Thinned ,6/5/2020,June,9,Penstemon virens,2
+T5,Thinned ,6/5/2020,June,10,Penstemon virens,6
+T5,Thinned ,6/5/2020,June,10,Potentilla,1
+T5,Thinned ,6/5/2020,June,10,Purshia tridenta,20
+T5,Thinned ,7/14/2020,July,1,Campanula rotundifolia,1
+T5,Thinned ,7/14/2020,July,2,None,0
+T5,Thinned ,7/14/2020,July,3,None,0
+T5,Thinned ,7/14/2020,July,4,Jamesia americana,1
+T5,Thinned ,7/14/2020,July,5,Jamesia americana,1
+T5,Thinned ,7/14/2020,July,6,Geranium caespitosum,1
+T5,Thinned ,7/14/2020,July,6,Antennaria parvifolia,1
+T5,Thinned ,7/14/2020,July,7,Jamesia americana,1
+T5,Thinned ,7/14/2020,July,8,None,1
+T5,Thinned ,7/14/2020,July,9,Antennaria parvifolia,1
+T5,Thinned ,7/14/2020,July,10,Campanula rotundifolia,1
+T5,Thinned ,8/4/2020,August,1,None,0
+T5,Thinned ,8/4/2020,August,2,None,0
+T5,Thinned ,8/4/2020,August,3,None,0
+T5,Thinned ,8/4/2020,August,4,Solidago missouriensis,1
+T5,Thinned ,8/4/2020,August,5,None,0
+T5,Thinned ,8/4/2020,August,6,None,0
+T5,Thinned ,8/4/2020,August,7,Solidago missouriensis,1
+T5,Thinned ,8/4/2020,August,8,Solidago missouriensis,1
+T5,Thinned ,8/4/2020,August,9,None,0
+T5,Thinned ,8/4/2020,August,10,Geranium caespitosum,5
+T6,Thinned ,6/3/2020,June,10,Antennaria parvifolia,8
+T6,Thinned ,7/14/2020,July,10,Lupinus argenteus ,10
+T6,Thinned ,6/3/2020,June,1,Arctostaphylos uva-ursi,24
+T6,Thinned ,6/3/2020,June,2,Arctostaphylos uva-ursi,2
+T6,Thinned ,6/3/2020,June,3,None,0
+T6,Thinned ,6/3/2020,June,4,Arctostaphylos uva-ursi,6
+T6,Thinned ,6/3/2020,June,5,Arctostaphylos uva-ursi,2
+T6,Thinned ,6/3/2020,June,6,Arctostaphylos uva-ursi,2
+T6,Thinned ,6/3/2020,June,6,Androsace septentrionalis,5
+T6,Thinned ,6/3/2020,June,7,Harbouria trachypleura ,2
+T6,Thinned ,6/3/2020,June,7,Taraxacum officinale,1
+T6,Thinned ,6/3/2020,June,8,Arctostaphylos uva-ursi,20
+T6,Thinned ,6/3/2020,June,9,Arctostaphylos uva-ursi,1
+T6,Thinned ,7/14/2020,July,1,None,0
+T6,Thinned ,7/14/2020,July,2,Sedum lanceolatum,2
+T6,Thinned ,7/14/2020,July,3,Sedum lanceolatum,4
+T6,Thinned ,7/14/2020,July,4,None,0
+T6,Thinned ,7/14/2020,July,5,None,0
+T6,Thinned ,7/14/2020,July,6,Solidago missouriensis,20
+T6,Thinned ,7/14/2020,July,7,Achillea millefolium,8
+T6,Thinned ,7/14/2020,July,8,Sedum lanceolatum,1
+T6,Thinned ,7/14/2020,July,9,None,0
+T6,Thinned ,7/14/2020,July,10,Solidago missouriensis,12
+T6,Thinned ,8/4/2020,August,1,None,0
+T6,Thinned ,8/4/2020,August,2,None,0
+T6,Thinned ,8/4/2020,August,3,None,0
+T6,Thinned ,8/4/2020,August,4,None,0
+T6,Thinned ,8/4/2020,August,5,Solidago missouriensis,1
+T6,Thinned ,8/4/2020,August,6,Solidago missouriensis,23
+T6,Thinned ,8/4/2020,August,7,None,0
+T6,Thinned ,8/4/2020,August,8,Solidago missouriensis,5
+T6,Thinned ,8/4/2020,August,9,Solidago missouriensis,3
+T6,Thinned ,8/4/2020,August,10,Solidago missouriensis,2
+T7,Thinned ,6/3/2020,June,1,Cryptantha ambigua,80
+T7,Thinned ,6/3/2020,June,2,Antennaria parvifolia,7
+T7,Thinned ,6/3/2020,June,5,Collinsia parviflora,2
+T7,Thinned ,6/3/2020,June,6,Collinsia parviflora,3
+T7,Thinned ,6/3/2020,June,7,Antennaria parvifolia,6
+T7,Thinned ,6/3/2020,June,10,Collinsia parviflora,2
+T7,Thinned ,6/3/2020,June,3,Arctostaphylos uva-ursi,9
+T7,Thinned ,6/3/2020,June,4,None,0
+T7,Thinned ,6/3/2020,June,6,Penstemon virens,15
+T7,Thinned ,6/3/2020,June,6,Arctostaphylos uva-ursi,4
+T7,Thinned ,6/3/2020,June,6,Androsace septentrionalis,10
+T7,Thinned ,6/3/2020,June,8,Arctostaphylos uva-ursi,4
+T7,Thinned ,6/3/2020,June,9,None,0
+T7,Thinned ,6/3/2020,June,10,Potentilla,4
+T7,Thinned ,6/3/2020,June,10,Penstemon virens,3
+T7,Thinned ,6/3/2020,June,10,Arctostaphylos uva-ursi,4
+T7,Thinned ,7/14/2020,July,1,None,0
+T7,Thinned ,7/14/2020,July,2,None,0
+T7,Thinned ,7/14/2020,July,3,None,0
+T7,Thinned ,7/14/2020,July,4,Solidago missouriensis,4
+T7,Thinned ,7/14/2020,July,5,Solidago missouriensis,2
+T7,Thinned ,7/14/2020,July,5,Sedum lanceolatum,4
+T7,Thinned ,7/14/2020,July,6,None,0
+T7,Thinned ,7/14/2020,July,7,None,0
+T7,Thinned ,7/14/2020,July,8,None,0
+T7,Thinned ,7/14/2020,July,9,None,0
+T7,Thinned ,7/14/2020,July,10,Packera fendleri,2
+T7,Thinned ,8/4/2020,August,1,None,0
+T7,Thinned ,8/4/2020,August,2,None,0
+T7,Thinned ,8/4/2020,August,3,None,0
+T7,Thinned ,8/4/2020,August,4,Solidago missouriensis,1
+T7,Thinned ,8/4/2020,August,5,Solidago missouriensis,1
+T7,Thinned ,8/4/2020,August,6,None,0
+T7,Thinned ,8/4/2020,August,7,None,0
+T7,Thinned ,8/4/2020,August,8,Solidago missouriensis,2
+T7,Thinned ,8/4/2020,August,9,Solidago missouriensis,7
+T7,Thinned ,8/4/2020,August,10,None,0
+T8,Thinned ,6/15/2020,June,6,Antennaria parvifolia,2
+T8,Thinned ,6/15/2020,June,6,Sedum lanceolatum,3
+T8,Thinned ,6/15/2020,June,1,Penstemon virens,46
+T8,Thinned ,6/15/2020,June,1,Mertensia lanceolata,6
+T8,Thinned ,6/15/2020,June,2,None,0
+T8,Thinned ,6/15/2020,June,3,Mertensia lanceolata,2
+T8,Thinned ,6/15/2020,June,4,Penstemon virens,11
+T8,Thinned ,6/15/2020,June,5,None,0
+T8,Thinned ,6/15/2020,June,7,Penstemon virens,50
+T8,Thinned ,6/15/2020,June,8,Astragalus miser,7
+T8,Thinned ,6/15/2020,June,8,Penstemon virens,10
+T8,Thinned ,6/15/2020,June,9,Penstemon virens,11
+T8,Thinned ,6/15/2020,June,9,Antennaria parvifolia,2
+T8,Thinned ,6/15/2020,June,10,Potentilla,2
+T8,Thinned ,6/15/2020,June,10,Penstemon virens,3
+T8,Thinned ,6/15/2020,June,10,Packera fendleri,10
+T8,Thinned ,7/20/2020,July,1,None,0
+T8,Thinned ,7/20/2020,July,2,None,0
+T8,Thinned ,7/20/2020,July,3,Allium cernuum ,6
+T8,Thinned ,7/20/2020,July,4,None,0
+T8,Thinned ,7/20/2020,July,5,None,0
+T8,Thinned ,7/20/2020,July,6,Achillea millefolium,1
+T8,Thinned ,7/20/2020,July,7,Achillea millefolium,2
+T8,Thinned ,7/20/2020,July,8,None,0
+T8,Thinned ,7/20/2020,July,9,None,0
+T8,Thinned ,7/20/2020,July,10,Campanula rotundifolia,3
+T8,Thinned ,8/10/2020,August,1,None,0
+T8,Thinned ,8/10/2020,August,2,None,0
+T8,Thinned ,8/10/2020,August,3,Symphyotrichum porteri,3
+T8,Thinned ,8/10/2020,August,4,Achillea millefolium,1
+T8,Thinned ,8/10/2020,August,5,None,0
+T8,Thinned ,8/10/2020,August,6,Symphyotrichum porteri,1
+T8,Thinned ,8/10/2020,August,7,Symphyotrichum porteri,21
+T8,Thinned ,8/10/2020,August,8,None,0
+T8,Thinned ,8/10/2020,August,9,None,0
+T8,Thinned ,8/10/2020,August,10,None,0
+T9,Thinned ,6/8/2020,June,10,Maianthemum racemosum,10
+T9,Thinned ,6/8/2020,June,1,None,0
+T9,Thinned ,6/8/2020,June,2,None,0
+T9,Thinned ,6/8/2020,June,3,Packera fendleri,22
+T9,Thinned ,6/8/2020,June,4,None,0
+T9,Thinned ,6/8/2020,June,5,None,0
+T9,Thinned ,6/8/2020,June,6,Packera fendleri,5
+T9,Thinned ,6/8/2020,June,7,None,0
+T9,Thinned ,6/8/2020,June,8,Packera fendleri,10
+T9,Thinned ,6/8/2020,June,9,None,0
+T9,Thinned ,7/20/2020,July,1,None,0
+T9,Thinned ,7/20/2020,July,2,None,0
+T9,Thinned ,7/20/2020,July,3,None,0
+T9,Thinned ,7/20/2020,July,4,Solidago missouriensis,1
+T9,Thinned ,7/20/2020,July,5,None,0
+T9,Thinned ,7/20/2020,July,6,None,0
+T9,Thinned ,7/20/2020,July,7,Achillea millefolium,1
+T9,Thinned ,7/20/2020,July,8,Solidago missouriensis,4
+T9,Thinned ,7/20/2020,July,9,None,0
+T9,Thinned ,7/20/2020,July,10,Achillea millefolium,18
+T9,Thinned ,8/10/2020,August,1,None,0
+T9,Thinned ,8/10/2020,August,2,None,0
+T9,Thinned ,8/10/2020,August,3,None,0
+T9,Thinned ,8/10/2020,August,4,None,0
+T9,Thinned ,8/10/2020,August,5,None,0
+T9,Thinned ,8/10/2020,August,6,None,0
+T9,Thinned ,8/10/2020,August,7,Solidago missouriensis,1
+T9,Thinned ,8/10/2020,August,8,None,0
+T9,Thinned ,8/10/2020,August,9,None,0
+T9,Thinned ,8/10/2020,August,10,Achillea millefolium,1
