@@ -8,9 +8,9 @@ The following provides information for all data files included in this data repo
 Basal_area
 	Site - site number
 	Treatment - Control or Thinned
-	Sample - sample numnber (10 taken at each site)
-	Trees - total number of trees counted using angle gage
-	Live - total number of live trees counted using angle gage
+	Sample - sample number (10 taken at each site)
+	Trees - total number of trees counted using angle gauge
+	Live - total number of live trees counted using angle gauge
 	BAF - basal area factor (10)
 	Live.PIPO - live Ponderosa pinus
 	Dead.PIPO - dead Ponderosa pinus
@@ -28,7 +28,7 @@ BeeIdentification - Contains all bee species ID's
 	Number - specimen number (all specimens are labeled and stored at Colorado State University or Utah State University. 
 	Date - date specimen was captured
 	Site - site number
-	SiteMoth - month captured and site number
+	SiteMonth - month captured and site number
 	Treatment - thinned or control (non-thinned)
 	Flower - flower species bee was captured on (if applicable)
 	Flower_status - native or invasive floral species
@@ -115,8 +115,8 @@ SEMvars - combined data from all other spreadsheets used for construction of Str
 	floralrich - floral species richness
 	beeab - bee abundance
 	beerich - bee species richness
-	Shannon - shannon diversity index
-	Simpson - simpson diversity index
+	Shannon - Shannon diversity index
+	Simpson - Simpson diversity index
 	Bare - bare ground cover (%)
 	Forb - forb cover (%)
 	Grass - grass cover (%)
@@ -137,7 +137,7 @@ SiteInformation
 	SITE - site number
 	TREATMENT - treatment: untreated, thinned
 	PROJECT_NAME - CFLRP project name
-	NATIONAL_FOREST - National forest (ARP = arapahoe roosevelt national forest; pike san isabel national forest)
+	NATIONAL_FOREST - National forest (ARP = Arapahoe Roosevelt National Forest; Pike San Isabel National Forest)
 	LATITUDE - latitude of site center (decimal degrees)
 	LONGITUDE - longitude of site center (decimal degrees)
 	RESIDUAL_BA - average BA within the CFLRP treatment area
@@ -153,5 +153,5 @@ Tree_Density
 	Site - site number
 	Treatment - thinned or control (non-thinned)
 	Total_Trees - count of trees within 0.1ha site
-	Samplings - count of saplings within 0.1ha site
+	Saplings - count of saplings within 0.1ha site
 	Dead - count of dead trees within 0.1ha site 
