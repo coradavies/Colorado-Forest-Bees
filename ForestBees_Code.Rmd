@@ -1980,7 +1980,7 @@ write.csv(coefficents2, "SEMcoef_Net.csv")
 
 Linear regressions to compare floral resources to forest structure (BA).
 
-```{r}
+```{r, warning = FALSE}
 #Floral abundance vs  BA
 fig4A<- ggscatter(SEMvars,x="BA",y="floralab",shape="Treatment",
               add="reg.line",
@@ -1990,6 +1990,7 @@ fig4A<- ggscatter(SEMvars,x="BA",y="floralab",shape="Treatment",
   ylab("Floral abundance")+
   xlab("Basal area")+
   ylim(-75,300)+
+  scale_shape_manual(values = c(17,15))+
   theme(legend.title = element_blank())
 
 #floral species richness vs  BA
@@ -2000,12 +2001,13 @@ fig4B <- ggscatter(SEMvars,x="BA",y="floralrich",shape="Treatment",
   stat_regline_equation(label.x=35, label.y=17)+
   ylab("Floral richness")+
   xlab("Basal area")+
+  scale_shape_manual(values = c(17,15))+
   theme(legend.title = element_blank())
 
 ```
 Linear regressions to compare floral resources (floral species richness) to bee assemblages measures.
 
-```{r}
+```{r, warning = FALSE}
 #floral species richness vs bee abundance 
 fig4C <- ggscatter(SEMvars,x="floralrich",y="beeab",shape="Treatment",
               add="reg.line",
@@ -2014,6 +2016,7 @@ fig4C <- ggscatter(SEMvars,x="floralrich",y="beeab",shape="Treatment",
   stat_regline_equation(label.x=12,label.y=110)+
   ylab("Bee abundance")+
   xlab("Floral richness")+
+  scale_shape_manual(values = c(17,15))+
   theme(legend.title = element_blank())
 
 #floral species richness vs  Bee richness
@@ -2024,6 +2027,7 @@ fig4D<- ggscatter(SEMvars,x="floralrich",y="beerich",shape="Treatment",
   stat_regline_equation(label.x=12,label.y=45)+
   ylab("Bee richness")+
   xlab("Floral richness")+
+  scale_shape_manual(values = c(17,15))+
   theme(legend.title = element_blank())
 
 #floral species richness vs  Bee diversity
@@ -2034,6 +2038,7 @@ fig4E<- ggscatter(SEMvars,x="floralrich",y="Shannon",shape="Treatment",
   stat_regline_equation(label.x=12,label.y=4.5)+
   ylab("Bee diversity (H')")+
   xlab("Floral richness")+
+  scale_shape_manual(values = c(17,15))+
   theme(legend.title = element_blank())
 
 #final figure
