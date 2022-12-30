@@ -1,0 +1,125 @@
+Family,Genus,(Subgenera) species,Treatment_control,Treatment_thinned
+Andrenidae,Andrena,amphibola,2,5
+Andrenidae,Andrena,carlini,3,7
+Andrenidae,Andrena,sp. A,0,2
+Andrenidae,Andrena,sp. B,1,0
+Andrenidae,Andrena,sp. C,0,2
+Andrenidae,Andrena,sp. D,2,11
+Andrenidae,Andrena,sp. E,0,4
+Andrenidae,Andrena,sp. F,1,4
+Andrenidae,Andrena,sp. G,1,1
+Andrenidae,Pseudopanurgus,sp. A,2,1
+Andrenidae,Pseudopanurgus,sp. B,1,0
+Andrenidae,Pseudopanurgus,sp. C,0,1
+Andrenidae,Pseudopanurgus,sp. D,4,15
+Apidae,Anthophora,bomboides,3,1
+Apidae,Anthophora,montana,8,7
+Apidae,Anthophora,occidentalis,1,0
+Apidae,Anthophora,porterae,9,12
+Apidae,Anthophora,terminalis,7,7
+Apidae,Anthophora,urbana,0,2
+Apidae,Anthophora,walshii,3,0
+Apidae,Apis,mellifera,0,15
+Apidae,Bombus,appositus,4,27
+Apidae,Bombus,bifarius,24,86
+Apidae,Bombus,californicus,3,1
+Apidae,Bombus,centralis,88,43
+Apidae,Bombus,griseocollis,0,1
+Apidae,Bombus,huntii,3,13
+Apidae,Bombus,insularis,1,3
+Apidae,Bombus,melanopygus,1,4
+Apidae,Bombus,nevadensis,1,6
+Apidae,Bombus,occidentalis,1,0
+Apidae,Bombus,rufocinctus,7,17
+Apidae,Bombus,sylvicola ,0,3
+Apidae,Ceratina,nanula,0,3
+Apidae,Ceratina,neomexicana,4,5
+Apidae,Epeolus,interruptus,0,3
+Apidae,Epeolus,minimus,2,1
+Apidae,Habropoda,morrisoni,1,0
+Apidae,Melissodes,agilis,1,3
+Apidae,Melissodes,communis,4,10
+Apidae,Melissodes,tristis,2,5
+Apidae,Nomada,sp. A,0,1
+Apidae,Nomada,sp. B,1,0
+Apidae,Nomada,sp. C,0,1
+Apidae,Svastra,obliqua,3,3
+Apidae,Xeromelecta,californica,0,1
+Colletidae,Colletes,sp. A,1,0
+Colletidae,Colletes,sp. B,2,9
+Colletidae,Colletes,sp. C,0,1
+Colletidae,Colletes,sp. D,0,5
+Colletidae,Hylaeus,annulatus,0,4
+Colletidae,Hylaeus,basalis,0,4
+Colletidae,Hylaeus,mesillae,1,2
+Colletidae,Hylaeus,modestus,4,31
+Colletidae,Hylaeus,rudbeckiae,1,0
+Colletidae,Hylaeus,spp. ,2,54
+Colletidae,Hylaeus,verticalis,2,5
+Halictidae,Agapostemon,texanus angelicus,1,20
+Halictidae,Augochlorella,aurata,2,0
+Halictidae,Dufourea,maura,2,5
+Halictidae,Halictus,confusus,3,4
+Halictidae,Halictus,farinosus,0,1
+Halictidae,Halictus,ligatus,0,1
+Halictidae,Halictus,rubicundus,2,3
+Halictidae,Halictus,tripartitus,15,17
+Halictidae,Lasioglossum,(Dialictus) spp.,59,108
+Halictidae,Lasioglossum,(Sensu stricto) spp.,86,123
+Halictidae,Sphecodes,dichrous ,1,0
+Halictidae,Sphecodes,sp. A,5,21
+Megachilidae,Anthidium,clypeodentatum ,1,0
+Megachilidae,Anthidium,placitum,0,1
+Megachilidae,Anthidium,tenuiflorae ,0,2
+Megachilidae,Ashmeadiella,bucconis,0,1
+Megachilidae,Ashmeadiella,cactorum,0,9
+Megachilidae,Ashmeadiella,californica,0,9
+Megachilidae,Ashmeadiella,pronitens,0,1
+Megachilidae,Atoposmia,abjecta abjecta,0,2
+Megachilidae,Atoposmia,copelandica,0,3
+Megachilidae,Coelioxys,alternata,0,1
+Megachilidae,Coelioxys,apacheorum,0,1
+Megachilidae,Coelioxys,hunteri,0,1
+Megachilidae,Coelioxys,moesta,0,1
+Megachilidae,Dianthidium,heterulkei fraternum,1,7
+Megachilidae,Dianthidium,parvum parvum,0,3
+Megachilidae,Heriades,carinatus,2,19
+Megachilidae,Heriades,cressonii,0,2
+Megachilidae,Hoplitis,albifrons,4,22
+Megachilidae,Hoplitis,fulgida,0,4
+Megachilidae,Hoplitis,producta,3,1
+Megachilidae,Hoplitis,robusta,0,1
+Megachilidae,Lithurgus,apicalis,0,1
+Megachilidae,Megachile,brevis,1,6
+Megachilidae,Megachile,centuncularis,1,1
+Megachilidae,Megachile,fidelis,0,1
+Megachilidae,Megachile,gemula,0,2
+Megachilidae,Megachile,latimanus,1,3
+Megachilidae,Megachile,melanophaea,6,8
+Megachilidae,Megachile,pugnata pugnata,0,7
+Megachilidae,Megachile,relativa,1,4
+Megachilidae,Megachile,rotundata,1,0
+Megachilidae,Osmia,(Melanosmia) sp. B,0,1
+Megachilidae,Osmia,albolateralis,1,2
+Megachilidae,Osmia,atrocyanea,1,8
+Megachilidae,Osmia,brevis,6,8
+Megachilidae,Osmia,bruneri,3,14
+Megachilidae,Osmia,bucephala,7,6
+Megachilidae,Osmia,coloradensis,0,4
+Megachilidae,Osmia,densa,3,1
+Megachilidae,Osmia,grindeliae,1,8
+Megachilidae,Osmia,juxta,11,17
+Megachilidae,Osmia,kincaidii,0,1
+Megachilidae,Osmia,longula,0,2
+Megachilidae,Osmia,montana montana,1,6
+Megachilidae,Osmia,nigrifrons,2,0
+Megachilidae,Osmia,paradisica,0,6
+Megachilidae,Osmia,penstemonis,1,1
+Megachilidae,Osmia,phaceliae,1,1
+Megachilidae,Osmia,proxima,0,1
+Megachilidae,Osmia,pusillia,0,1
+Megachilidae,Osmia,sp. A,0,1
+Megachilidae,Osmia,subaustralis,0,1
+Megachilidae,Stelis,elegans,0,1
+Megachilidae,Stelis,foederalis,0,2
+Megachilidae,Stelis,permaculata ,0,7
