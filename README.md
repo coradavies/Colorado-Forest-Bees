@@ -29,7 +29,7 @@ BeeIdentification.csv - Contains all bee species ID's
 
 	Number - specimen number (all specimens are labeled and stored at Colorado State University or Utah State University.   
 	Date - date specimen was captured  
-	Site - site number  
+	Site - plot designation  
 	SiteMonth - month captured and site number  
 	Treatment - thinned or control (non-thinned)  
 	Flower - flower species bee was captured on (if applicable)  
@@ -43,7 +43,7 @@ BeeIdentification.csv - Contains all bee species ID's
 _____________________________________________________________________________________
 CanopyOpenness.csv - Contains measurements for canopy openness
 
-	Site - site number  
+	Site - plot designation  
 	Treatment - thinned or control (non-thinned)  
 	Photo - photo number  
 	Sky - measure of canopy openness calculated from photos with Gap Light Analyzer software  
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 CWD.csv - Course Woody Debris fuel load measurements
 
 	Treatment - thinned or control (non-thinned)  
-	Site - site number  
+	Site - plot designation   
 	Transect - transect number  
 	Log_number - number of log within each site  
 	Diameter - diameter of log (in inches)  
@@ -73,7 +73,7 @@ Dataset_2_bee_abundance.csv - Contains data on bee abundances in thinned and non
 _____________________________________________________________________________________
 Flower_Quadrats.csv - Contains plot-level data on floral density
 
-	Site - site number  
+	Site - plot designation   
 	Treatment - thinned or control (non-thinned)  
 	Date - date measurements were taken  
 	Month - month measurements were taken  
@@ -110,7 +110,7 @@ GenusTraits.csv - Contains trait designations for bee taxa
 _____________________________________________________________________________________
 Ground_Cover.csv - Contains plot-level transect data for ground cover
 
-	Site - site number  
+	Site - plot designation   
 	Treatment - thinned or control (non-thinned)  
 	Transect - transect number (1-5); 25m transects  
 	Point - point number (1 - 20); sampled every 1m  
@@ -127,7 +127,7 @@ Ground_Cover.csv - Contains plot-level transect data for ground cover
 _____________________________________________________________________________________
 SEMvars.csv - Combined data from all other spreadsheets used for construction of Structural Equation Models
 
-	Site - site number  
+	Site - plot designation   
 	Treatment - thinned or control (non-thinned)  
 	Trees_ha - trees per hectare  
 	BA - basal area  
@@ -156,7 +156,7 @@ SEMvars.csv - Combined data from all other spreadsheets used for construction of
 _____________________________________________________________________________________
 SiteInformation.csv - Contains plot-level metadata
 
-	NAME - name of site  
+	NAME - plot designation   
 	SITE - site number  
 	TREATMENT - treatment: untreated, thinned  
 	PROJECT_NAME - CFLRP project name  
@@ -174,8 +174,8 @@ TempData - folder of .csv files containing temperature data recorded every 30min
 _____________________________________________________________________________________
 Tree_Density.csv - Contains information on tree densities, summarized to plot-level
 
-	Site - site number  
-	Treatment - thinned or control (non-thinned)  
+	Site - plot designation   
+	Treatment - thinned or control (non-thinned stands)  
 	Total_Trees - count of trees within 0.1ha site  
 	Saplings - count of saplings within 0.1ha site  
 	Dead - count of dead trees within 0.1ha site   
