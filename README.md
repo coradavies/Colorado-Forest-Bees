@@ -4,9 +4,9 @@ Data files associated with Forest restoration treatments indirectly diversify po
 __________
 DATA FILES
 __________
-The following provides information for columns designations in all data files included in this repository.   
+The following provides information for column designations in all data files included in this repository.   
 _____________________________________________________________________________________
-Basal_area.csv  
+Basal_area.csv - Contains plot-level tree data
 	Site - site number  
 	Treatment - Control or Thinned  
 	Sample - sample number (10 taken at each site)  
@@ -39,7 +39,7 @@ BeeIdentification.csv - Contains all bee species ID's
 	GenusSpecies - genus and species of identified bee   
 	Family - family of identified bee  
 _____________________________________________________________________________________
-CanopyOpenness.csv - contains measurements for canopy openness  
+CanopyOpenness.csv - Contains measurements for canopy openness  
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Photo - photo number  
@@ -53,19 +53,19 @@ CWD.csv - Course Woody Debris fuel load measurements
 	Diameter - diameter of log (in inches)  
 	Decay - rotten (R) or solid (S)  
 _____________________________________________________________________________________
-Dataset_1_floral_abundances.csv
+Dataset_1_floral_abundances.csv - Contains data on floral abundances in thinned and non-thinned stands
 	Species - floral species
 	Control - abundance of floral species 'x' in non-treated control stands 
 	Thinned - abundance of floral species 'x' in thinned stands
 _____________________________________________________________________________________
-Dataset_2_bee_abundance.csv
+Dataset_2_bee_abundance.csv - Contains data on bee abundances in thinned and non-thinned stands
 	Family - bee family 
 	Genus - bee genus
 	(Subgenera) species - species, and if appropriate, morphospecies and/or subgenus 
 	Treatment_control - abundance of bee species 'x' in non-treated control stands
 	Treatment_thinned - abundance of bee species 'x' in thinned stands 
 _____________________________________________________________________________________
-Flower_Quadrats.csv  
+Flower_Quadrats.csv - Contains plot-level data on floral density
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Date - date measurements were taken  
@@ -74,7 +74,7 @@ Flower_Quadrats.csv
 	Species - floral species recorded  
 	Count - count of floral species recorded  
 _____________________________________________________________________________________
-GenusTraits.csv -    
+GenusTraits.csv - Contains trait designations for bee taxa   
 	Genus - bee genera  
 	Size - size of bee: small, mid, large (relative to Apis mellifera)  
 	Nest1 - nesting location  
@@ -100,7 +100,7 @@ GenusTraits.csv -
 		mid = peak in July  
 		early = peak in June  
 _____________________________________________________________________________________
-Ground_Cover.csv  
+Ground_Cover.csv - Contains plot-level transect data for ground cover
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Transect - transect number (1-5); 25m transects  
@@ -116,7 +116,7 @@ Ground_Cover.csv
 		Forb = Forb  
 		Moss = moss  
 _____________________________________________________________________________________
-SEMvars.csv - combined data from all other spreadsheets used for construction of Structural Equation Models  
+SEMvars.csv - Combined data from all other spreadsheets used for construction of Structural Equation Models  
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Trees_ha - trees per hectare  
@@ -144,7 +144,7 @@ SEMvars.csv - combined data from all other spreadsheets used for construction of
 	interactionab - bee-flower interaction abundance  
 	interactionrich - bee-flower interaction richness  
 _____________________________________________________________________________________
-SiteInformation.csv  
+SiteInformation.csv - Contains plot-level metadata
 	NAME - name of site  
 	SITE - site number  
 	TREATMENT - treatment: untreated, thinned  
@@ -159,9 +159,9 @@ SiteInformation.csv
 	ASPECT - aspect of site  
 	SLOPE - slope of site   
 _____________________________________________________________________________________
-TempData - folder containing csv files containing temperature data recorded every 30minutes for each site  
+TempData - folder of .csv files containing temperature data recorded every 30minutes for each site  
 _____________________________________________________________________________________
-Tree_Density  
+Tree_Density.csv - Contains information on tree densities, summarized to plot-level
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Total_Trees - count of trees within 0.1ha site  
