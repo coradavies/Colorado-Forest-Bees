@@ -5,7 +5,7 @@ DATA FILES
 __________
 The following provides information for all data files included in this data repository.   
 
-Basal_area  
+Basal_area.csv  
 	Site - site number  
 	Treatment - Control or Thinned  
 	Sample - sample number (10 taken at each site)  
@@ -24,7 +24,7 @@ Basal_area
 	BA.live - basal area, live trees only  
 
   
-BeeIdentification - Contains all bee species ID's  
+BeeIdentification.csv - Contains all bee species ID's  
 	Number - specimen number (all specimens are labeled and stored at Colorado State University or Utah State University.   
 	Date - date specimen was captured  
 	Site - site number  
@@ -39,21 +39,33 @@ BeeIdentification - Contains all bee species ID's
 	GenusSpecies - genus and species of identified bee   
 	Family - family of identified bee  
   
-CanopyOpenness - contains measurements for canopy openness  
+CanopyOpenness.csv - contains measurements for canopy openness  
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Photo - photo number  
 	Sky - measure of canopy openness calculated from photos with Gap Light Analyzer software  
   
-CWD - Course Woody Debris fuel load measurements  
+CWD.csv - Course Woody Debris fuel load measurements  
 	Treatment - thinned or control (non-thinned)  
 	Site - site number  
 	Transect - transect number  
 	Log_number - number of log within each site  
 	Diameter - diameter of log (in inches)  
 	Decay - rotten (R) or solid (S)  
+	
+Dataset_1_floral_abundances.csv
+	Species - floral species
+	Control - abundance of floral species 'x' in non-treated control stands 
+	Thinned - abundance of floral species 'x' in thinned stands
+	
+Dataset_2_bee_abundance.csv
+	Family - bee family 
+	Genus - bee genus
+	(Subgenera) species - species, and if appropriate, morphospecies and/or subgenus 
+	Treatment_control - abundance of bee species 'x' in non-treated control stands
+	Treatment_thinned - abundance of bee species 'x' in thinned stands 
   
-Flower_Quadrats  
+Flower_Quadrats.csv  
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Date - date measurements were taken  
@@ -62,7 +74,7 @@ Flower_Quadrats
 	Species - floral species recorded  
 	Count - count of floral species recorded  
   
-GenusTraits -    
+GenusTraits.csv -    
 	Genus - bee genera  
 	Size - size of bee: small, mid, large (relative to Apis mellifera)  
 	Nest1 - nesting location  
@@ -88,7 +100,7 @@ GenusTraits -
 		mid = peak in July  
 		early = peak in June  
   
-Ground_Cover  
+Ground_Cover.csv  
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Transect - transect number (1-5); 25m transects  
@@ -104,7 +116,7 @@ Ground_Cover
 		Forb = Forb  
 		Moss = moss  
 
-SEMvars - combined data from all other spreadsheets used for construction of Structural Equation Models  
+SEMvars.csv - combined data from all other spreadsheets used for construction of Structural Equation Models  
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Trees_ha - trees per hectare  
@@ -132,7 +144,7 @@ SEMvars - combined data from all other spreadsheets used for construction of Str
 	interactionab - bee-flower interaction abundance  
 	interactionrich - bee-flower interaction richness  
     
-SiteInformation  
+SiteInformation.csv  
 	NAME - name of site  
 	SITE - site number  
 	TREATMENT - treatment: untreated, thinned  
