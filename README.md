@@ -25,7 +25,8 @@ Basal_area.csv - Contains plot-level tree data
 	BA.all - basal area, including dead and alive trees  
 	BA.live - basal area, live trees only  
 _____________________________________________________________________________________
-BeeIdentification.csv - Contains all bee species ID's  
+BeeIdentification.csv - Contains all bee species ID's
+
 	Number - specimen number (all specimens are labeled and stored at Colorado State University or Utah State University.   
 	Date - date specimen was captured  
 	Site - site number  
@@ -40,13 +41,15 @@ BeeIdentification.csv - Contains all bee species ID's
 	GenusSpecies - genus and species of identified bee   
 	Family - family of identified bee  
 _____________________________________________________________________________________
-CanopyOpenness.csv - Contains measurements for canopy openness  
+CanopyOpenness.csv - Contains measurements for canopy openness
+
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Photo - photo number  
 	Sky - measure of canopy openness calculated from photos with Gap Light Analyzer software  
 _____________________________________________________________________________________
 CWD.csv - Course Woody Debris fuel load measurements
+
 	Treatment - thinned or control (non-thinned)  
 	Site - site number  
 	Transect - transect number  
@@ -55,11 +58,13 @@ CWD.csv - Course Woody Debris fuel load measurements
 	Decay - rotten (R) or solid (S)  
 _____________________________________________________________________________________
 Dataset_1_floral_abundances.csv - Contains data on floral abundances in thinned and non-thinned stands
+
 	Species - floral species
 	Control - abundance of floral species 'x' in non-treated control stands 
 	Thinned - abundance of floral species 'x' in thinned stands
 _____________________________________________________________________________________
 Dataset_2_bee_abundance.csv - Contains data on bee abundances in thinned and non-thinned stands
+
 	Family - bee family 
 	Genus - bee genus
 	(Subgenera) species - species, and if appropriate, morphospecies and/or subgenus 
@@ -67,6 +72,7 @@ Dataset_2_bee_abundance.csv - Contains data on bee abundances in thinned and non
 	Treatment_thinned - abundance of bee species 'x' in thinned stands 
 _____________________________________________________________________________________
 Flower_Quadrats.csv - Contains plot-level data on floral density
+
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Date - date measurements were taken  
@@ -75,7 +81,8 @@ Flower_Quadrats.csv - Contains plot-level data on floral density
 	Species - floral species recorded  
 	Count - count of floral species recorded  
 _____________________________________________________________________________________
-GenusTraits.csv - Contains trait designations for bee taxa   
+GenusTraits.csv - Contains trait designations for bee taxa
+
 	Genus - bee genera  
 	Size - size of bee: small, mid, large (relative to Apis mellifera)  
 	Nest1 - nesting location  
@@ -102,6 +109,7 @@ GenusTraits.csv - Contains trait designations for bee taxa
 		early = peak in June  
 _____________________________________________________________________________________
 Ground_Cover.csv - Contains plot-level transect data for ground cover
+
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Transect - transect number (1-5); 25m transects  
@@ -117,7 +125,8 @@ Ground_Cover.csv - Contains plot-level transect data for ground cover
 		Forb = Forb  
 		Moss = moss  
 _____________________________________________________________________________________
-SEMvars.csv - Combined data from all other spreadsheets used for construction of Structural Equation Models  
+SEMvars.csv - Combined data from all other spreadsheets used for construction of Structural Equation Models
+
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Trees_ha - trees per hectare  
@@ -146,6 +155,7 @@ SEMvars.csv - Combined data from all other spreadsheets used for construction of
 	interactionrich - bee-flower interaction richness  
 _____________________________________________________________________________________
 SiteInformation.csv - Contains plot-level metadata
+
 	NAME - name of site  
 	SITE - site number  
 	TREATMENT - treatment: untreated, thinned  
@@ -163,6 +173,7 @@ ________________________________________________________________________________
 TempData - folder of .csv files containing temperature data recorded every 30minutes for each site  
 _____________________________________________________________________________________
 Tree_Density.csv - Contains information on tree densities, summarized to plot-level
+
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Total_Trees - count of trees within 0.1ha site  
