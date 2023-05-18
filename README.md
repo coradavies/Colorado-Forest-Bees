@@ -5,7 +5,7 @@ __________
 DATA FILES
 __________
 The following provides information for columns designations in all data files included in this repository.   
-
+_____________________________________________________________________________________
 Basal_area.csv  
 	Site - site number  
 	Treatment - Control or Thinned  
@@ -23,8 +23,7 @@ Basal_area.csv
 	Dead.JUSC - dead Juniperus scopulorum  
 	BA.all - basal area, including dead and alive trees  
 	BA.live - basal area, live trees only  
-
-  
+_____________________________________________________________________________________
 BeeIdentification.csv - Contains all bee species ID's  
 	Number - specimen number (all specimens are labeled and stored at Colorado State University or Utah State University.   
 	Date - date specimen was captured  
@@ -39,13 +38,13 @@ BeeIdentification.csv - Contains all bee species ID's
 	Species - species of identified bee  
 	GenusSpecies - genus and species of identified bee   
 	Family - family of identified bee  
-  
+_____________________________________________________________________________________
 CanopyOpenness.csv - contains measurements for canopy openness  
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
 	Photo - photo number  
 	Sky - measure of canopy openness calculated from photos with Gap Light Analyzer software  
-  
+_____________________________________________________________________________________
 CWD.csv - Course Woody Debris fuel load measurements
 	Treatment - thinned or control (non-thinned)  
 	Site - site number  
@@ -53,19 +52,19 @@ CWD.csv - Course Woody Debris fuel load measurements
 	Log_number - number of log within each site  
 	Diameter - diameter of log (in inches)  
 	Decay - rotten (R) or solid (S)  
-	
+_____________________________________________________________________________________
 Dataset_1_floral_abundances.csv
 	Species - floral species
 	Control - abundance of floral species 'x' in non-treated control stands 
 	Thinned - abundance of floral species 'x' in thinned stands
-	
+_____________________________________________________________________________________
 Dataset_2_bee_abundance.csv
 	Family - bee family 
 	Genus - bee genus
 	(Subgenera) species - species, and if appropriate, morphospecies and/or subgenus 
 	Treatment_control - abundance of bee species 'x' in non-treated control stands
 	Treatment_thinned - abundance of bee species 'x' in thinned stands 
-  
+_____________________________________________________________________________________
 Flower_Quadrats.csv  
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
@@ -74,7 +73,7 @@ Flower_Quadrats.csv
 	Quadrat - quadrat number   
 	Species - floral species recorded  
 	Count - count of floral species recorded  
-  
+_____________________________________________________________________________________
 GenusTraits.csv -    
 	Genus - bee genera  
 	Size - size of bee: small, mid, large (relative to Apis mellifera)  
@@ -100,7 +99,7 @@ GenusTraits.csv -
 		late = peak in August   
 		mid = peak in July  
 		early = peak in June  
-  
+_____________________________________________________________________________________
 Ground_Cover.csv  
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
@@ -116,7 +115,7 @@ Ground_Cover.csv
 		Grass = Grass  
 		Forb = Forb  
 		Moss = moss  
-
+_____________________________________________________________________________________
 SEMvars.csv - combined data from all other spreadsheets used for construction of Structural Equation Models  
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
@@ -144,7 +143,7 @@ SEMvars.csv - combined data from all other spreadsheets used for construction of
 	MinTemp - minimum temperature (C)  
 	interactionab - bee-flower interaction abundance  
 	interactionrich - bee-flower interaction richness  
-    
+_____________________________________________________________________________________
 SiteInformation.csv  
 	NAME - name of site  
 	SITE - site number  
@@ -159,9 +158,9 @@ SiteInformation.csv
 	ELEVATION - elevation of site (feet)  
 	ASPECT - aspect of site  
 	SLOPE - slope of site   
-  
+_____________________________________________________________________________________
 TempData - folder containing csv files containing temperature data recorded every 30minutes for each site  
-  
+_____________________________________________________________________________________
 Tree_Density  
 	Site - site number  
 	Treatment - thinned or control (non-thinned)  
