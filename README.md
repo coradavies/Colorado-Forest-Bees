@@ -12,8 +12,8 @@ Basal_area
 	Trees - total number of trees counted using angle gauge  
 	Live - total number of live trees counted using angle gauge  
 	BAF - basal area factor (10)  
-	Live.PIPO - live Ponderosa pinus  
-	Dead.PIPO - dead Ponderosa pinus  
+	Live.PIPO - live Pinus ponderosa  
+	Dead.PIPO - dead Pinus ponderosa
 	Live.PSME - live Pseudotsuga menziesii  
 	Dead.PSME - dead Pseudotsuga menziesii  
 	Live.PICO - live Pinus contorta  
