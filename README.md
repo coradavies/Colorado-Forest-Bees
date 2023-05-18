@@ -7,7 +7,8 @@ __________
 The following provides information for column designations in all data files included in this repository.   
 _____________________________________________________________________________________
 Basal_area.csv - Contains plot-level tree data
-	Site - site number  
+
+	Site - plot designation
 	Treatment - Control or Thinned  
 	Sample - sample number (10 taken at each site)  
 	Trees - total number of trees counted using angle gauge  
