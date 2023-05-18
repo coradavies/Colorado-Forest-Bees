@@ -1,9 +1,10 @@
 # Colorado-Forest-Bees
-Code and data associated with Forest restoration treatments indirectly diversify pollination networks via floral- and temperature-mediated effects.
+Data files associated with Forest restoration treatments indirectly diversify pollination networks via floral- and temperature-mediated effects.
 
+__________
 DATA FILES
 __________
-The following provides information for all data files included in this data repository.   
+The following provides information for columns designations in all data files included in this repository.   
 
 Basal_area.csv  
 	Site - site number  
@@ -45,7 +46,7 @@ CanopyOpenness.csv - contains measurements for canopy openness
 	Photo - photo number  
 	Sky - measure of canopy openness calculated from photos with Gap Light Analyzer software  
   
-CWD.csv - Course Woody Debris fuel load measurements  
+CWD.csv - Course Woody Debris fuel load measurements
 	Treatment - thinned or control (non-thinned)  
 	Site - site number  
 	Transect - transect number  
